@@ -1350,34 +1350,362 @@
     "id": 4,
     "unit": "Foundations",
     "title": "Your first greetings",
-    "description": "Greet someone, ask how they are and respond simply.",
-    "teacher_intro": "Let's make your first exchange. You already know that Vietnamese syllables carry tones. Now use a complete phrase. Say the Vietnamese aloud before you reveal it.",
-    "background": "Xin chào is a polite greeting. Xin can function as a polite/requesting element, while chào means to greet or say hello. In ordinary conversation, the greeting is often followed by an address term or a question.",
-    "culture": "Vietnamese greetings are relationship-sensitive. People often use anh, chị, em, cô, chú or another kinship-style term instead of a neutral 'you'. Bạn is useful for learners but is not suitable for every age or relationship.",
+    "description": "Build a natural first exchange: hello, how are you, a response, returning the question and goodbye.",
+    "teacher_intro": "Welcome to Lesson 4. We will construct your first Northern Vietnamese greeting exchange one small piece at a time. Think before speaking, say the Vietnamese aloud, then compare. Allow 45–60 minutes, including the listening and speaking drills.",
+    "background": "Vietnamese greetings are built around social relationships. Xin chào is a polite, broadly understood greeting. In everyday speech, chào is often followed by an address term such as anh, chị, em, cô or chú. A simple learner question is bạn khỏe không? with the response tôi khỏe, cảm ơn. Còn bạn? returns the question. Mình is common in friendly peer conversation, while tôi is relatively neutral or formal. These pronouns and address terms are not interchangeable in every relationship.",
+    "culture": "A Vietnamese greeting is more than a literal translation of hello. The choice of address term can signal age, familiarity, respect and relationship. Do not guess that every adult man is anh or every adult woman is chị; context and the other person’s preference matter. Xin chào is useful and polite, but everyday speakers may use a shorter chào plus an appropriate address term. Chào buổi sáng is understandable, though it can sound more like a set phrase than the most common everyday greeting.",
     "dialogue": [
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "To say hello politely, use xin chào. Build it in two pieces: xin… chào. Now say the whole phrase."
+        "line": "Welcome to Lesson 4. Today we will build a first greeting exchange in contemporary Northern Vietnamese. You will learn how to say hello, ask how someone is, answer naturally, return the question and say goodbye. Work slowly: listen, think, speak aloud, then compare."
       },
       {
         "speaker": "STUDENT 1",
+        "line": "Are we going to memorise a whole conversation, or build it piece by piece?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Piece by piece. First we make a greeting. Then we add a question. Then we make a response and pass the question back. By the end, you will be able to build the exchange without reading it."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The phrase xin chào is a polite, widely understood way to say hello. Listen to the two syllables: xin… chào. Keep them distinct and give chào its rising tone."
+      },
+      {
+        "speaker": "STUDENT 2",
         "line": "Xin chào."
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Good. To ask how someone is, a learner-friendly phrase is bạn khỏe không? The final không makes it a yes/no question."
-      },
-      {
-        "speaker": "STUDENT 2",
-        "line": "And I can answer tôi khỏe — I'm well?"
-      },
-      {
-        "speaker": "TEACHER · ENGLISH",
-        "line": "Exactly. In natural conversation, people may give a more specific answer, but this is a clear first pattern."
+        "line": "Good. Now say it again as one natural greeting, not as two isolated vocabulary items."
       },
       {
         "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
-        "line": "Native recording slot: greeting exchange, slow then natural. No recording is included yet."
+        "line": "Recording script — Northern Hanoi model: xin chào… xin chào. First slowly with a pause between syllables, then naturally as a greeting. Repeat twice."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You can also hear chào used without xin. Chào is the core greeting. In everyday Vietnamese, the greeting often includes a form of address, such as chào anh or chào chị. The right form depends on the relationship."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So xin chào is a safe polite phrase, but people often greet one another with a relationship word."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. For now, learn xin chào as your reliable starting point. We will practise address terms carefully rather than guessing someone’s age or relationship."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now let us ask how someone is. A simple learner pattern is bạn khỏe không? Build it in three parts: bạn… khỏe… không?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn khỏe không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. The word không at the end marks a yes-or-no question in this pattern. Do not turn the whole sentence into an English-style rising question automatically. Follow the Northern recording for the natural contour."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — question: bạn khỏe không? Slow model, pause, repeat; then natural conversational version. Repeat three times."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Notice bạn. It can work when speaking to a peer or someone you address as bạn, but it is not a universal word for every person. Vietnamese commonly uses relationship-sensitive address terms."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could I say anh khỏe không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes, if anh is the appropriate way to address that man in the relationship. Chị is commonly used for a woman addressed as an older sister or adult woman. The choice is social, not just grammatical."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For this first practice, keep bạn khỏe không? as our simple classroom pattern. Later, we will learn to choose address terms with more confidence."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now answer. Tôi khỏe means I am well. Say it in two parts: tôi… khỏe."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi khỏe."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Tôi is a relatively neutral or formal first-person pronoun. In everyday conversation, speakers often use other pronouns depending on the relationship. We are using tôi to make the first pattern clear."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — response: tôi khỏe. Slow model, then natural pace. Keep the hỏi tone in khỏe clear, without exaggerating it."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us make the response a little warmer: tôi khỏe, cảm ơn — I am well, thank you. You already know that cảm ơn means thank you. Join the chunks smoothly."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi khỏe, cảm ơn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Now we can return the question with còn bạn? This means and you? or what about you? Listen: còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Còn bạn?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — phrase: còn bạn? Model slowly, then naturally. Repeat after a short pause."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Put the response and return question together: tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is a complete conversational turn. Notice that the question comes back to the other person, so the exchange feels balanced."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us build the whole conversation. I say xin chào. You answer xin chào. I ask bạn khỏe không? You answer tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin chào. Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. We will make it more natural with two speakers. Listen first; do not speak over the model."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — mini-dialogue, two native voices: A: Xin chào! B: Xin chào! A: Bạn khỏe không? B: Mình khỏe, cảm ơn. Còn bạn? A: Mình cũng khỏe, cảm ơn. Natural Hanoi conversational pace, then repeat slowly."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You heard mình khỏe. Mình is a friendly first-person pronoun often used among peers or in familiar conversation. It can also appear in reciprocal expressions. For our formal-clear classroom pattern, tôi khỏe is still useful."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So tôi is a little more neutral or formal, while mình can sound friendlier with someone familiar."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is a helpful first approximation. Pronoun choice depends on relationship and context, so do not treat either word as a universal replacement."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now add cũng, meaning also or too. Tôi cũng khỏe means I am well too. Listen: tôi… cũng… khỏe."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi cũng khỏe."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now answer the question: tôi cũng khỏe, cảm ơn. Keep cũng as its own syllable and preserve its tone."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — contrast and phrase: khỏe… cũng khỏe… tôi cũng khỏe, cảm ơn. Slow, then natural."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Sometimes a person may say bình thường, meaning normal or so-so, depending on tone and context. It is a useful response, but today do not overcomplicate the first exchange. Your core answer is tôi khỏe, cảm ơn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "If I am not especially well, can I say không khỏe?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. Không khỏe means not well. You can say tôi không khỏe — I am not well. We will practise it as an extra pattern, not as the centre of today’s lesson."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — extra response: tôi không khỏe. Say it gently and naturally; do not sound overly dramatic."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us practise a few greetings for different situations. Chào anh is hello to someone you appropriately address as anh. Chào chị is hello to someone you appropriately address as chị. Listen to the difference in the address word."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Chào anh. Chào chị."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Do not select anh or chị only from a quick guess. Age, relationship, setting and the other person’s preference matter. When unsure, listen to how people introduce themselves or how others address them."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For a group, chào mọi người means hello everyone. Mọi người refers to everyone or everybody. This is useful when entering a room or addressing a group."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Chào mọi người!"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — group greeting: chào mọi người. Warm, friendly Northern delivery, first slowly and then at natural pace."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You may also hear chào buổi sáng for good morning. It is understandable and correct, though in everyday conversation a simple chào with the right address term is often more natural. Learn it as a useful phrase, not as the only way to greet someone in the morning."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Chào buổi sáng."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now let us leave a conversation. Tạm biệt means goodbye. Say the two syllables carefully: tạm… biệt."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tạm biệt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A common friendly way to say bye is bye, borrowed from English, but we will use tạm biệt as our clear Vietnamese phrase. You may also hear chào nhé as a friendly leave-taking, depending on the situation."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — leave-taking: tạm biệt… chào nhé. Slow model, then natural conversational pace. Keep the final consonants neat."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now listen to the difference between greeting someone and leaving them. Xin chào opens the interaction. Tạm biệt closes it. Chào can also be used in both directions when paired with an appropriate address term or context."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So I should not assume that every English hello or goodbye maps to only one Vietnamese word."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Learn the phrase as it is used in context, not as a one-word translation."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us do a substitution drill. I say bạn khỏe không? You answer tôi khỏe. Then return the question: còn bạn? Ready?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi khỏe. Còn bạn?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now add cảm ơn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now change tôi to mình for a friendly peer conversation."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mình khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Now answer that question with tôi cũng khỏe."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi cũng khỏe, cảm ơn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. You have built a two-way exchange from small pieces."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Take a short break. When you return, listen to the native recording without looking at the text. Identify the greeting, the question, the answer and the goodbye."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — listening passage, natural speed: A: Xin chào! B: Chào bạn! A: Bạn khỏe không? B: Mình khỏe, cảm ơn. Còn bạn? A: Mình cũng khỏe. Cảm ơn nhé. B: Tạm biệt! A: Chào nhé! Pause for the learner to identify each turn, then repeat slowly."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us check the meaning. Which phrase opened the conversation?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin chào."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Which phrase asked how the other person was?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn khỏe không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Which phrase returned the question?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Còn bạn?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "And which phrase ended the conversation?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tạm biệt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now practise pronunciation using what you learned in Lessons 1 to 3. In khỏe, listen for the vowel and the hỏi tone. In bạn, keep the final n closed cleanly. In cảm ơn, keep the two vowel qualities distinct and do not add an extra vowel after the final consonant."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — sound focus: bạn… khỏe… không… cảm ơn… tạm biệt. First slow, with a brief pause between words; then repeat in phrases."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Do not exaggerate tones or speak unnaturally slowly forever. Slow practice is for accuracy. Once the syllables are clear, join them at a comfortable conversational speed."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I should keep the tones clear but make the whole greeting sound friendly, not like a spelling test."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. A greeting is also a social action. A warm expression, suitable eye contact and an appropriate form of address help the words fit the situation."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Final challenge. Without looking, greet someone, ask how they are, say that you are well and thank them, return the question, say that you are well too, then say goodbye."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin chào. Bạn khỏe không? Tôi khỏe, cảm ơn. Còn bạn? Tôi cũng khỏe. Tạm biệt!"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Well done. You have completed Lesson 4. You can now build a simple greeting exchange. In Lesson 5 we will introduce yourself and say your name. Keep practising this conversation until you can produce it without reading."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — final model conversation: Xin chào! Bạn khỏe không? Tôi khỏe, cảm ơn. Còn bạn? Tôi cũng khỏe, cảm ơn. Tạm biệt! Record in a clear contemporary Northern Hanoi voice, with natural rhythm, then a slower learner version."
       }
     ],
     "cards": [
@@ -1385,40 +1713,124 @@
         "english": "Hello.",
         "vietnamese": "Xin chào.",
         "pronunciation": "xin chào",
-        "note": "Polite and widely understood. Use a warm, natural voice."
+        "note": "Polite and widely understood. A reliable first greeting."
+      },
+      {
+        "english": "Hello. (to someone addressed as anh)",
+        "vietnamese": "Chào anh.",
+        "pronunciation": "chào anh",
+        "note": "Use anh only when it is the appropriate relationship-sensitive address term."
+      },
+      {
+        "english": "Hello. (to someone addressed as chị)",
+        "vietnamese": "Chào chị.",
+        "pronunciation": "chào chị",
+        "note": "Use chị when it is the appropriate way to address the woman in context."
+      },
+      {
+        "english": "Hello, everyone.",
+        "vietnamese": "Chào mọi người.",
+        "pronunciation": "chào mọi người",
+        "note": "A useful greeting when addressing a group."
       },
       {
         "english": "How are you?",
         "vietnamese": "Bạn khỏe không?",
         "pronunciation": "bạn khỏe không",
-        "note": "A simple learner pattern. bạn is a general peer-style pronoun, not a universal 'you'."
+        "note": "A simple learner pattern; bạn is not a universal word for you."
       },
       {
-        "english": "I'm well.",
+        "english": "I am well.",
         "vietnamese": "Tôi khỏe.",
         "pronunciation": "tôi khỏe",
-        "note": "A simple response. Tôi is neutral/formal compared with many everyday pronouns."
+        "note": "Tôi is a relatively neutral or formal first-person pronoun."
       },
       {
-        "english": "I'm fine, thank you.",
+        "english": "I'm well, thank you.",
         "vietnamese": "Tôi khỏe, cảm ơn.",
         "pronunciation": "tôi khỏe, cảm ơn",
-        "note": "Join two familiar chunks. Keep the tones clear."
+        "note": "Join the response and thank-you phrase smoothly."
+      },
+      {
+        "english": "And you?",
+        "vietnamese": "Còn bạn?",
+        "pronunciation": "còn bạn",
+        "note": "Returns the question to the other person."
+      },
+      {
+        "english": "I am well too.",
+        "vietnamese": "Tôi cũng khỏe.",
+        "pronunciation": "tôi cũng khỏe",
+        "note": "Cũng means also or too."
+      },
+      {
+        "english": "I'm well, and you?",
+        "vietnamese": "Tôi khỏe. Còn bạn?",
+        "pronunciation": "tôi khỏe · còn bạn",
+        "note": "A useful short exchange; make the pause clear."
+      },
+      {
+        "english": "I am not well.",
+        "vietnamese": "Tôi không khỏe.",
+        "pronunciation": "tôi không khỏe",
+        "note": "An extra response pattern; say it naturally and calmly."
+      },
+      {
+        "english": "I am fine too, thank you.",
+        "vietnamese": "Tôi cũng khỏe, cảm ơn.",
+        "pronunciation": "tôi cũng khỏe, cảm ơn",
+        "note": "Combines cũng with the thank-you phrase."
+      },
+      {
+        "english": "Good morning.",
+        "vietnamese": "Chào buổi sáng.",
+        "pronunciation": "chào buổi sáng",
+        "note": "Correct and understandable; everyday greetings often use chào plus an address term."
       },
       {
         "english": "Goodbye.",
         "vietnamese": "Tạm biệt.",
         "pronunciation": "tạm biệt",
-        "note": "A clear, standard leave-taking phrase."
+        "note": "A clear standard leave-taking phrase."
       },
       {
-        "english": "Build the exchange: Hello. How are you? I'm well, thank you.",
-        "vietnamese": "Xin chào. Bạn khỏe không? Tôi khỏe, cảm ơn.",
-        "pronunciation": "xin chào · bạn khỏe không · tôi khỏe cảm ơn",
-        "note": "Say each sentence as a complete thought, with a small pause between turns."
+        "english": "Bye / goodbye (friendly).",
+        "vietnamese": "Chào nhé.",
+        "pronunciation": "chào nhé",
+        "note": "Friendly leave-taking; suitability depends on relationship and context."
+      },
+      {
+        "english": "Hello. How are you?",
+        "vietnamese": "Xin chào. Bạn khỏe không?",
+        "pronunciation": "xin chào · bạn khỏe không",
+        "note": "Build the greeting and question as two complete thoughts."
+      },
+      {
+        "english": "I'm well, thank you. And you?",
+        "vietnamese": "Tôi khỏe, cảm ơn. Còn bạn?",
+        "pronunciation": "tôi khỏe cảm ơn · còn bạn",
+        "note": "Return the question so the exchange continues."
+      },
+      {
+        "english": "I am well too.",
+        "vietnamese": "Mình cũng khỏe.",
+        "pronunciation": "mình cũng khỏe",
+        "note": "Mình can sound friendly among peers or familiar speakers; it is context-dependent."
+      },
+      {
+        "english": "Goodbye, everyone.",
+        "vietnamese": "Chào mọi người. Tạm biệt!",
+        "pronunciation": "chào mọi người · tạm biệt",
+        "note": "A group greeting followed by a clear goodbye."
+      },
+      {
+        "english": "Build the complete exchange: Hello. How are you? I am well, thank you. And you? I am well too. Goodbye.",
+        "vietnamese": "Xin chào. Bạn khỏe không? Tôi khỏe, cảm ơn. Còn bạn? Tôi cũng khỏe. Tạm biệt!",
+        "pronunciation": "xin chào · bạn khỏe không · tôi khỏe cảm ơn · còn bạn · tôi cũng khỏe · tạm biệt",
+        "note": "Say it aloud without reading the Vietnamese first. Keep a natural, friendly rhythm."
       }
     ],
-    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "recording_status": "Complete written lesson and native-speaker recording scripts; actual native and teacher recordings have not yet been supplied.",
     "audio": {
       "teacher": null,
       "student_1": null,
