@@ -1,0 +1,832 @@
+[
+  {
+    "id": 1,
+    "unit": "Foundations",
+    "title": "Vietnamese sounds and spelling",
+    "description": "Understand syllables, vowel marks and tone marks before building your first phrases.",
+    "teacher_intro": "Welcome. Vietnamese is written with familiar Latin letters, but do not read it as English. Each written syllable has a carefully marked vowel and tone. Listen, look, and build one small piece at a time.",
+    "background": "The modern Vietnamese writing system is called chữ Quốc ngữ. It uses Latin letters together with extra vowel letters and diacritics. A mark can change the vowel itself (for example a/ă/â) or mark tone (for example a/á/à/ả/ã/ạ). These are meaningful spelling differences, not optional decoration.",
+    "culture": "Chữ Quốc ngữ became the standard national writing system during the modern period. Earlier Vietnamese writing used chữ Nôm, alongside classical Chinese characters in formal contexts. Today, literacy and everyday communication use Quốc ngữ.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "First, think of Vietnamese as a language of clearly separated syllables. A written space usually separates syllables, even when several syllables form one word or idea."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So a space does not always mean a separate English-style word?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. For example, học sinh means 'student'. It is written as two syllables: học and sinh. Keep both syllables clear."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "And the marks above the letters matter?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Very much. Compare a, á, à, ả, ã and ạ. The vowel base is similar, but the tone mark changes the word you say and can change its meaning."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording slot: record each example in a slow, careful Hanoi voice, then again at natural speed. No recording is included yet."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Say the two syllables separately: student",
+        "vietnamese": "học sinh",
+        "pronunciation": "học · sinh",
+        "note": "Keep both syllables distinct. học has the nặng tone; sinh has the level ngang tone."
+      },
+      {
+        "english": "Say: teacher",
+        "vietnamese": "giáo viên",
+        "pronunciation": "giáo · viên",
+        "note": "Two syllables. Notice the falling huyền tone in viên."
+      },
+      {
+        "english": "Say: Vietnamese language",
+        "vietnamese": "tiếng Việt",
+        "pronunciation": "tiếng · Việt",
+        "note": "Both syllables carry tone marks. Do not omit them when writing."
+      },
+      {
+        "english": "Say: thank you",
+        "vietnamese": "cảm ơn",
+        "pronunciation": "cảm · ơn",
+        "note": "Two syllables, with different tone patterns. Learn the complete sound rather than an English spelling approximation."
+      },
+      {
+        "english": "Build the phrase: Vietnamese student",
+        "vietnamese": "học sinh Việt Nam",
+        "pronunciation": "học · sinh · Việt · Nam",
+        "note": "Four syllables. Việt has the nặng tone; Nam has the level tone."
+      }
+    ],
+    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
+  },
+  {
+    "id": 2,
+    "unit": "Foundations",
+    "title": "The six tones",
+    "description": "Distinguish the six Northern Vietnamese tones and hear why tone changes meaning.",
+    "teacher_intro": "Today we train your ear and voice. Vietnamese has six tone categories in the standard teaching description. We will use one syllable, ma, to make the contrast easy to see. The goal is not to shout or add English stress; it is to shape the pitch and voice quality.",
+    "background": "The six tone names are ngang (level), sắc (rising), huyền (falling), hỏi (dipping), ngã (broken/rising with a glottal quality in Northern speech), and nặng (heavy, short and constricted). Actual pitch contours vary with sentence position and speaker.",
+    "culture": "This course uses contemporary Hanoi/Northern pronunciation. Northern and Southern varieties differ in the realisation of some tones and consonants. Neither is inherently more correct; they are regional varieties.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Listen to the base syllable ma. Keep the vowel steady first. Now add a rising tone: má. Do not turn it into a loud English stress."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So tone is part of the syllable, not just emotion?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. A different tone can produce a different word. You must learn the vowel, consonants and tone together."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "What about the two tones that sound a little interrupted?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "In Hanoi speech, ngã often has a noticeable glottal interruption, while nặng is short, low and constricted. Listen to a native speaker rather than relying on a pitch drawing alone."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording slot: ma, má, mà, mả, mã, mạ; slow contrast set followed by natural-speed repetition. No recording is included yet."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Level tone — ngang",
+        "vietnamese": "ma",
+        "pronunciation": "ma",
+        "note": "Keep the pitch level and the voice relaxed."
+      },
+      {
+        "english": "Rising tone — sắc",
+        "vietnamese": "má",
+        "pronunciation": "má",
+        "note": "Rise clearly. Avoid adding extra volume instead of changing pitch."
+      },
+      {
+        "english": "Falling tone — huyền",
+        "vietnamese": "mà",
+        "pronunciation": "mà",
+        "note": "Let the pitch fall smoothly."
+      },
+      {
+        "english": "Dipping tone — hỏi",
+        "vietnamese": "mả",
+        "pronunciation": "mả",
+        "note": "A dip-and-rise contour; its exact shape depends on context."
+      },
+      {
+        "english": "Broken rising tone — ngã",
+        "vietnamese": "mã",
+        "pronunciation": "mã",
+        "note": "In Northern speech this commonly has a glottal or creaky interruption before the rise."
+      },
+      {
+        "english": "Heavy tone — nặng",
+        "vietnamese": "mạ",
+        "pronunciation": "mạ",
+        "note": "Short, low and constricted. Do not add a second vowel."
+      },
+      {
+        "english": "Now say the complete six-tone sequence",
+        "vietnamese": "ma · má · mà · mả · mã · mạ",
+        "pronunciation": "ma / má / mà / mả / mã / mạ",
+        "note": "Repeat slowly, then at a comfortable conversational pace. Accuracy comes before speed."
+      }
+    ],
+    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
+  },
+  {
+    "id": 3,
+    "unit": "Foundations",
+    "title": "Vowels and difficult consonants",
+    "description": "Practise Vietnamese vowel contrasts and consonants that do not match English neatly.",
+    "teacher_intro": "Do not try to force every Vietnamese sound into an English category. We will practise the mouth shape and keep the final consonant short. Listen to the model, then imitate it.",
+    "background": "Vietnamese distinguishes several vowel qualities that English speakers may initially merge, including ă/â, e/ê, o/ô/ơ and u/ư. Final stops such as -p, -t, -c and -ch are unreleased: the mouth closes but no extra vowel follows.",
+    "culture": "Pronunciation varies regionally. This course follows a Northern reference accent, where d, gi and r are commonly pronounced with a z-like sound in Hanoi speech; other regions pronounce them differently.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Start with ơ. It is not the same as English 'uh'. Keep the tongue and lips relaxed and listen carefully to the native model."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "And ư is different from u?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. For ư, keep the lips unrounded. For u, round the lips. Feel the difference rather than memorising an English spelling."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "What happens at the end of a word like một?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The final -t closes the syllable. Do not release it with an extra 'uh' sound."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording slot: contrast ư/u, ơ/o, ă/a and final -t/-c examples. No recording is included yet."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Listen for the unrounded vowel: thư",
+        "vietnamese": "thư",
+        "pronunciation": "thư",
+        "note": "The vowel ư is unrounded. Do not pronounce it as English 'oo'."
+      },
+      {
+        "english": "Listen for the open-mid vowel: mơ",
+        "vietnamese": "mơ",
+        "pronunciation": "mơ",
+        "note": "ơ is distinct from o and ô."
+      },
+      {
+        "english": "Say: one",
+        "vietnamese": "một",
+        "pronunciation": "một",
+        "note": "The final -t is unreleased; finish with a closed mouth position."
+      },
+      {
+        "english": "Say: book",
+        "vietnamese": "sách",
+        "pronunciation": "sách",
+        "note": "The final -ch is a short checked ending. Avoid adding an extra vowel."
+      },
+      {
+        "english": "Say: coffee",
+        "vietnamese": "cà phê",
+        "pronunciation": "cà · phê",
+        "note": "Two syllables. ph is pronounced like an aspirated f in modern Vietnamese."
+      }
+    ],
+    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
+  },
+  {
+    "id": 4,
+    "unit": "Foundations",
+    "title": "Your first greetings",
+    "description": "Greet someone, ask how they are and respond simply.",
+    "teacher_intro": "Let's make your first exchange. You already know that Vietnamese syllables carry tones. Now use a complete phrase. Say the Vietnamese aloud before you reveal it.",
+    "background": "Xin chào is a polite greeting. Xin can function as a polite/requesting element, while chào means to greet or say hello. In ordinary conversation, the greeting is often followed by an address term or a question.",
+    "culture": "Vietnamese greetings are relationship-sensitive. People often use anh, chị, em, cô, chú or another kinship-style term instead of a neutral 'you'. Bạn is useful for learners but is not suitable for every age or relationship.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "To say hello politely, use xin chào. Build it in two pieces: xin… chào. Now say the whole phrase."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. To ask how someone is, a learner-friendly phrase is bạn khỏe không? The final không makes it a yes/no question."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "And I can answer tôi khỏe — I'm well?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. In natural conversation, people may give a more specific answer, but this is a clear first pattern."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording slot: greeting exchange, slow then natural. No recording is included yet."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Hello.",
+        "vietnamese": "Xin chào.",
+        "pronunciation": "xin chào",
+        "note": "Polite and widely understood. Use a warm, natural voice."
+      },
+      {
+        "english": "How are you?",
+        "vietnamese": "Bạn khỏe không?",
+        "pronunciation": "bạn khỏe không",
+        "note": "A simple learner pattern. bạn is a general peer-style pronoun, not a universal 'you'."
+      },
+      {
+        "english": "I'm well.",
+        "vietnamese": "Tôi khỏe.",
+        "pronunciation": "tôi khỏe",
+        "note": "A simple response. Tôi is neutral/formal compared with many everyday pronouns."
+      },
+      {
+        "english": "I'm fine, thank you.",
+        "vietnamese": "Tôi khỏe, cảm ơn.",
+        "pronunciation": "tôi khỏe, cảm ơn",
+        "note": "Join two familiar chunks. Keep the tones clear."
+      },
+      {
+        "english": "Goodbye.",
+        "vietnamese": "Tạm biệt.",
+        "pronunciation": "tạm biệt",
+        "note": "A clear, standard leave-taking phrase."
+      },
+      {
+        "english": "Build the exchange: Hello. How are you? I'm well, thank you.",
+        "vietnamese": "Xin chào. Bạn khỏe không? Tôi khỏe, cảm ơn.",
+        "pronunciation": "xin chào · bạn khỏe không · tôi khỏe cảm ơn",
+        "note": "Say each sentence as a complete thought, with a small pause between turns."
+      }
+    ],
+    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
+  },
+  {
+    "id": 5,
+    "unit": "Foundations",
+    "title": "Introducing yourself",
+    "description": "Say your name, ask another person's name and introduce someone.",
+    "teacher_intro": "You can now greet someone. The next step is to tell them your name. We will build the sentence from the small pieces tên, tôi and là. Pause after each English prompt and construct the Vietnamese yourself.",
+    "background": "Tên means 'name'. Là is a linking word used in identification and classification. Vietnamese often omits a linking verb in other sentence types, so do not assume là is needed every time English uses 'am' or 'is'.",
+    "culture": "Vietnamese names commonly include a family name, optional middle name and given name. The given name is often the final element. When addressing someone, people usually use the appropriate given name with a relationship term rather than the full name alone.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "First say 'name': tên. Now say 'my': tôi. Put them together: tên tôi — my name."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tên tôi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now add là, the linking word: tên tôi là… — my name is… Put your own name at the end."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tên tôi là Anna."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. To ask a peer's name, say bạn tên là gì? The word gì means 'what'."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording slot: name introduction and question-and-answer exchange. No recording is included yet."
+      }
+    ],
+    "cards": [
+      {
+        "english": "My name",
+        "vietnamese": "Tên tôi",
+        "pronunciation": "tên tôi",
+        "note": "Tên = name; tôi = I/me. Vietnamese possessive relationships are often shown by word order without a separate 'my' word."
+      },
+      {
+        "english": "My name is …",
+        "vietnamese": "Tên tôi là …",
+        "pronunciation": "tên tôi là",
+        "note": "Add your name after là."
+      },
+      {
+        "english": "What is your name?",
+        "vietnamese": "Bạn tên là gì?",
+        "pronunciation": "bạn tên là gì",
+        "note": "Gì means 'what'. The question word appears at the end in this pattern."
+      },
+      {
+        "english": "My name is Jeremiah.",
+        "vietnamese": "Tên tôi là Jeremiah.",
+        "pronunciation": "tên tôi là Jeremiah",
+        "note": "Names from other languages are normally kept, with pronunciation adapted naturally by the speaker."
+      },
+      {
+        "english": "I am … (identifying myself)",
+        "vietnamese": "Tôi là …",
+        "pronunciation": "tôi là",
+        "note": "Use là to identify a role, nationality or category: tôi là giáo viên — I am a teacher."
+      },
+      {
+        "english": "Build a two-person introduction.",
+        "vietnamese": "Xin chào. Bạn tên là gì? Tên tôi là …",
+        "pronunciation": "xin chào · bạn tên là gì · tên tôi là",
+        "note": "The dots mark the place where you insert your own name."
+      }
+    ],
+    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
+  },
+  {
+    "id": 6,
+    "unit": "Foundations",
+    "title": "Where are you from?",
+    "description": "Say your nationality, country of origin and where you live.",
+    "teacher_intro": "Now combine what you know: tôi, là and a new word người. Then learn how to say where you come from and where you live. Build each phrase in stages.",
+    "background": "Người means 'person' or 'people'. In người Việt, it means a Vietnamese person; in người Úc, an Australian person. Đến từ means 'come from', while sống ở means 'live in/at'.",
+    "culture": "Country and nationality labels do not always map one-to-one onto English categories. In conversation, speakers may ask quê ở đâu? ('Where is your home place/from?') as well as asking which country someone comes from.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Say 'I': tôi. Say 'person': người. Now add the country or nationality: người Tanzania — a Tanzanian person."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là người Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly: tôi là người Tanzania — I am Tanzanian. To say 'I come from Tanzania', use tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "And 'I live in Australia' is tôi sống ở Úc?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. Úc is the usual Vietnamese name for Australia. Now join the ideas with nhưng, meaning 'but'."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording slot: nationality, origin and residence sentences. No recording is included yet."
+      }
+    ],
+    "cards": [
+      {
+        "english": "I am Tanzanian.",
+        "vietnamese": "Tôi là người Tanzania.",
+        "pronunciation": "tôi là người Tanzania",
+        "note": "Người means person. This is a natural way to state nationality."
+      },
+      {
+        "english": "I come from Tanzania.",
+        "vietnamese": "Tôi đến từ Tanzania.",
+        "pronunciation": "tôi đến từ Tanzania",
+        "note": "Đến = arrive/come; từ = from. Together they form 'come from'."
+      },
+      {
+        "english": "I live in Australia.",
+        "vietnamese": "Tôi sống ở Úc.",
+        "pronunciation": "tôi sống ở Úc",
+        "note": "Sống = live; ở = at/in; Úc = Australia."
+      },
+      {
+        "english": "I am Tanzanian, but I live in Australia.",
+        "vietnamese": "Tôi là người Tanzania, nhưng tôi sống ở Úc.",
+        "pronunciation": "tôi là người Tanzania nhưng tôi sống ở Úc",
+        "note": "Nhưng means 'but'. The second tôi may be omitted when the subject is clear, but it is included here for practice."
+      },
+      {
+        "english": "Where are you from?",
+        "vietnamese": "Bạn đến từ đâu?",
+        "pronunciation": "bạn đến từ đâu",
+        "note": "Đâu means 'where'. Vietnamese question words commonly stay in the position of the information they replace."
+      },
+      {
+        "english": "Where do you live?",
+        "vietnamese": "Bạn sống ở đâu?",
+        "pronunciation": "bạn sống ở đâu",
+        "note": "Reuse sống ở and replace the location with đâu."
+      }
+    ],
+    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
+  },
+  {
+    "id": 7,
+    "unit": "Foundations",
+    "title": "Polite words",
+    "description": "Use thanks, apologies, excuse me and simple requests.",
+    "teacher_intro": "Politeness in Vietnamese is not only a list of magic words. It also comes from choosing the right way to address someone. First learn a few useful expressions, then notice how they fit into a relationship.",
+    "background": "Cảm ơn means 'thank you'. Xin lỗi is used for 'sorry' and can also get someone's attention politely. Làm ơn is a request expression similar to 'please'.",
+    "culture": "A phrase can be grammatically correct but still sound distant or overly formal if the pronouns do not fit. Listen to how Vietnamese speakers address one another, and learn the relationship terms alongside the phrases.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "To say thank you, use cảm ơn. Two syllables: cảm… ơn. Now say it as one smooth expression."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Cảm ơn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "To apologise or politely get someone's attention, use xin lỗi. Now add 'please help me': làm ơn giúp tôi."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Làm ơn giúp tôi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. These are useful phrases. In real conversation, also choose an appropriate address term for the person you are speaking to."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording slot: thanks, apology and polite request in natural conversational intonation. No recording is included yet."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Thank you.",
+        "vietnamese": "Cảm ơn.",
+        "pronunciation": "cảm ơn",
+        "note": "A core expression of thanks."
+      },
+      {
+        "english": "Sorry / excuse me.",
+        "vietnamese": "Xin lỗi.",
+        "pronunciation": "xin lỗi",
+        "note": "Can apologise or politely attract someone's attention."
+      },
+      {
+        "english": "Please help me.",
+        "vietnamese": "Làm ơn giúp tôi.",
+        "pronunciation": "làm ơn giúp tôi",
+        "note": "A clear request. In conversation, the pronoun may change with the relationship."
+      },
+      {
+        "english": "No problem / that's okay.",
+        "vietnamese": "Không sao.",
+        "pronunciation": "không sao",
+        "note": "A common response to an apology. Literally, không = no/not; sao = problem/what is wrong in this expression."
+      },
+      {
+        "english": "Thank you very much.",
+        "vietnamese": "Cảm ơn nhiều.",
+        "pronunciation": "cảm ơn nhiều",
+        "note": "Nhiều means much/a lot. A simple way to strengthen your thanks."
+      },
+      {
+        "english": "Excuse me, where is the toilet?",
+        "vietnamese": "Xin lỗi, nhà vệ sinh ở đâu?",
+        "pronunciation": "xin lỗi · nhà vệ sinh ở đâu",
+        "note": "A practical phrase. Nhà vệ sinh is a polite/common term for toilet or restroom."
+      }
+    ],
+    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
+  },
+  {
+    "id": 8,
+    "unit": "Foundations",
+    "title": "Numbers 0–20",
+    "description": "Count from zero to twenty and use numbers in simple questions.",
+    "teacher_intro": "Numbers are building blocks you will use every day. Learn the basic sequence, then use it in a question. Say each number aloud; pay special attention to the tones.",
+    "background": "The basic numbers are không, một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười. From eleven to nineteen, the pattern is mười + number. Twenty is hai mươi.",
+    "culture": "Vietnamese number forms can change slightly in compounds: for example, five is năm, but in some number combinations it is pronounced/lowered to lăm, as in mười lăm (15). This is a regular spoken pattern.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Start with one to five: một, hai, ba, bốn, năm. Now six to ten: sáu, bảy, tám, chín, mười."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So eleven is ten plus one?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Mười một. Twelve is mười hai. Continue the same pattern through fourteen."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "But fifteen is mười lăm, not mười năm?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. In this number pattern, năm changes to lăm. Twenty is hai mươi."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording slot: count 0–20 slowly, then at natural speed; include a separate 15 and 20 contrast. No recording is included yet."
+      }
+    ],
+    "cards": [
+      {
+        "english": "zero",
+        "vietnamese": "không",
+        "pronunciation": "không",
+        "note": "Also means 'no/not' in many contexts."
+      },
+      {
+        "english": "one to five",
+        "vietnamese": "một, hai, ba, bốn, năm",
+        "pronunciation": "một · hai · ba · bốn · năm",
+        "note": "Say each number clearly; notice the nặng tone in một."
+      },
+      {
+        "english": "six to ten",
+        "vietnamese": "sáu, bảy, tám, chín, mười",
+        "pronunciation": "sáu · bảy · tám · chín · mười",
+        "note": "Learn the tone as part of each number."
+      },
+      {
+        "english": "eleven",
+        "vietnamese": "mười một",
+        "pronunciation": "mười một",
+        "note": "Literally ten-one."
+      },
+      {
+        "english": "fifteen",
+        "vietnamese": "mười lăm",
+        "pronunciation": "mười lăm",
+        "note": "Năm changes to lăm in this number compound."
+      },
+      {
+        "english": "twenty",
+        "vietnamese": "hai mươi",
+        "pronunciation": "hai mươi",
+        "note": "Mươi is the tens element. Twenty is two-tens."
+      },
+      {
+        "english": "How many?",
+        "vietnamese": "Bao nhiêu?",
+        "pronunciation": "bao nhiêu",
+        "note": "A useful question phrase for quantity, price and age."
+      }
+    ],
+    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
+  },
+  {
+    "id": 9,
+    "unit": "Foundations",
+    "title": "Age and basic details",
+    "description": "Ask and answer age and give a simple personal detail.",
+    "teacher_intro": "Now use numbers to talk about age. Vietnamese expresses age without a separate word for 'am' in this pattern. Build the question first, then answer it.",
+    "background": "Tuổi means age or years of age. Bao nhiêu means how many/how much. The pattern bạn bao nhiêu tuổi? is a straightforward learner question.",
+    "culture": "Age can help Vietnamese speakers choose suitable pronouns and forms of address. In some situations asking age early is practical rather than intrusive, because it helps establish whether to use anh, chị, em, cô, chú and so on.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "To ask how old someone is, begin with bạn. Add bao nhiêu — how many. Finish with tuổi — years of age."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn bao nhiêu tuổi?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. To answer, say tôi, then your number, then tuổi. You do not need là here."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi ba mươi tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Notice the difference: tôi là người Tanzania, but tôi ba mươi tuổi. Do not insert là just because English says 'I am'."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording slot: age question and answers with several numbers. No recording is included yet."
+      }
+    ],
+    "cards": [
+      {
+        "english": "How old are you?",
+        "vietnamese": "Bạn bao nhiêu tuổi?",
+        "pronunciation": "bạn bao nhiêu tuổi",
+        "note": "Bao nhiêu = how many; tuổi = age."
+      },
+      {
+        "english": "I'm thirty years old.",
+        "vietnamese": "Tôi ba mươi tuổi.",
+        "pronunciation": "tôi ba mươi tuổi",
+        "note": "No là is needed in this age pattern."
+      },
+      {
+        "english": "I'm twenty-five years old.",
+        "vietnamese": "Tôi hai mươi lăm tuổi.",
+        "pronunciation": "tôi hai mươi lăm tuổi",
+        "note": "Reuse the number pattern from lesson 8."
+      },
+      {
+        "english": "How many years?",
+        "vietnamese": "Bao nhiêu tuổi?",
+        "pronunciation": "bao nhiêu tuổi",
+        "note": "A shortened form can occur when the context is already clear."
+      },
+      {
+        "english": "I am a teacher.",
+        "vietnamese": "Tôi là giáo viên.",
+        "pronunciation": "tôi là giáo viên",
+        "note": "Here là is used because you are identifying a role. Compare this with the age sentence."
+      }
+    ],
+    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
+  },
+  {
+    "id": 10,
+    "unit": "Foundations",
+    "title": "Review: first conversation",
+    "description": "Combine greetings, names, origin, residence, numbers and polite expressions.",
+    "teacher_intro": "This is your first full review. You already have enough building blocks for a short introduction. Listen to the English, pause, and construct the whole Vietnamese sentence before revealing the answer.",
+    "background": "Vietnamese sentence building often relies on stable word order and small reusable chunks. Review the chunks as complete patterns: tên tôi là…, tôi đến từ…, tôi sống ở…, tôi … tuổi, and bạn … không?",
+    "culture": "A good first conversation is not a word-for-word translation of English. Choose a suitable way to address the other person, speak clearly, and let the conversation develop naturally rather than forcing every possible detail into the first exchange.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's greet someone: Xin chào. Now ask their name: bạn tên là gì?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Bạn tên là gì?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Answer with your name: tên tôi là… Now say where you come from: tôi đến từ…"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tên tôi là Linh. Tôi đến từ Việt Nam."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now add where you live and your age. Remember: tôi sống ở… and tôi … tuổi. No là in the age pattern."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi sống ở Hà Nội. Tôi hai mươi tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Finish politely with cảm ơn or tạm biệt. You have built a complete beginner conversation from reusable pieces."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording slot: full conversation with two speakers, first slowly with pauses, then at natural conversational speed. No recording is included yet."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Hello.",
+        "vietnamese": "Xin chào.",
+        "pronunciation": "xin chào",
+        "note": "Start with a friendly greeting."
+      },
+      {
+        "english": "What is your name?",
+        "vietnamese": "Bạn tên là gì?",
+        "pronunciation": "bạn tên là gì",
+        "note": "Use the question pattern from lesson 5."
+      },
+      {
+        "english": "My name is …",
+        "vietnamese": "Tên tôi là …",
+        "pronunciation": "tên tôi là",
+        "note": "Insert your own name."
+      },
+      {
+        "english": "Where are you from?",
+        "vietnamese": "Bạn đến từ đâu?",
+        "pronunciation": "bạn đến từ đâu",
+        "note": "Đâu asks where."
+      },
+      {
+        "english": "I come from Tanzania.",
+        "vietnamese": "Tôi đến từ Tanzania.",
+        "pronunciation": "tôi đến từ Tanzania",
+        "note": "Reuse the origin pattern from lesson 6."
+      },
+      {
+        "english": "I live in Australia.",
+        "vietnamese": "Tôi sống ở Úc.",
+        "pronunciation": "tôi sống ở Úc",
+        "note": "Reuse sống ở + place."
+      },
+      {
+        "english": "I'm thirty years old.",
+        "vietnamese": "Tôi ba mươi tuổi.",
+        "pronunciation": "tôi ba mươi tuổi",
+        "note": "Remember that là is not used in this age pattern."
+      },
+      {
+        "english": "Thank you. Goodbye.",
+        "vietnamese": "Cảm ơn. Tạm biệt.",
+        "pronunciation": "cảm ơn · tạm biệt",
+        "note": "Finish with two polite expressions."
+      },
+      {
+        "english": "Build the complete conversation: greet, ask a name, introduce yourself, say where you are from and where you live.",
+        "vietnamese": "Xin chào. Bạn tên là gì? Tên tôi là … Tôi đến từ Tanzania. Tôi sống ở Úc. Cảm ơn. Tạm biệt.",
+        "pronunciation": "xin chào · bạn tên là gì · tên tôi là · tôi đến từ · tôi sống ở Úc · cảm ơn · tạm biệt",
+        "note": "Say it in stages first. Then try the whole conversation without looking."
+      }
+    ],
+    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
+  }
+]
