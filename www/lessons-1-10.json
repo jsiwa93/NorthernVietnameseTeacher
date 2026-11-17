@@ -873,69 +873,471 @@
     "id": 3,
     "unit": "Foundations",
     "title": "Vowels and difficult consonants",
-    "description": "Practise Vietnamese vowel contrasts and consonants that do not match English neatly.",
-    "teacher_intro": "Do not try to force every Vietnamese sound into an English category. We will practise the mouth shape and keep the final consonant short. Listen to the model, then imitate it.",
-    "background": "Vietnamese distinguishes several vowel qualities that English speakers may initially merge, including ă/â, e/ê, o/ô/ơ and u/ư. Final stops such as -p, -t, -c and -ch are unreleased: the mouth closes but no extra vowel follows.",
-    "culture": "Pronunciation varies regionally. This course follows a Northern reference accent, where d, gi and r are commonly pronounced with a z-like sound in Hanoi speech; other regions pronounce them differently.",
+    "description": "A guided 45–60 minute lesson on Vietnamese vowel contrasts, Northern consonant sounds and final consonants.",
+    "teacher_intro": "Welcome to Lesson 3. Set aside 45–60 minutes. We will train the Vietnamese vowel letters and several consonant contrasts that English speakers often find unfamiliar. Follow the routine: listen, think, speak aloud, then compare. Use a comfortable voice and a consistent contemporary Northern Vietnamese model. Do not rely on English spelling approximations.",
+    "background": "Vietnamese has a compact syllable structure. A syllable can contain an initial consonant, a vowel or vowel combination, an optional final consonant and a tone. Vowel letters such as a, ă, â; e, ê; o, ô, ơ; and u, ư are distinct. Marks that change the vowel letter are not tone marks. Initial consonants include digraphs such as ph, th, kh, ng and ngh. In contemporary Hanoi speech, d and gi are commonly pronounced with a z-like sound; r varies by speaker and region and may be similar. tr/ch may be merged or distinguished depending on speaker. Final p, t, c and ch are generally unreleased; final nasals include m, n, ng and nh. Exact realisations vary by context and speaker, so use a consistent native Northern model.",
+    "culture": "This course uses contemporary Northern Vietnamese with a Hanoi reference accent, while recognising that speakers vary. Spellings remain important even when two initials sound similar in a particular accent. For example, d, gi and r are distinct spellings even where their sounds are close. Regional differences in tr/ch and other consonants are normal. The goal is not to label one regional pronunciation as universally correct; it is to develop a consistent and intelligible model.",
     "dialogue": [
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Start with ơ. It is not the same as English 'uh'. Keep the tongue and lips relaxed and listen carefully to the native model."
+        "line": "Welcome to Lesson 3. Today we train the vowel system and several consonant contrasts that English speakers often find unfamiliar. Allow 45–60 minutes. The goal is not to rush through a list of letters; it is to hear, compare and build accurate syllables."
       },
       {
         "speaker": "STUDENT 1",
-        "line": "And ư is different from u?"
+        "line": "So today is about making the vowel itself clear before I worry about speaking quickly?"
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Yes. For ư, keep the lips unrounded. For u, round the lips. Feel the difference rather than memorising an English spelling."
+        "line": "Exactly. Vietnamese vowels are not interchangeable. A small change in vowel quality can create a different syllable. Keep your jaw, lips and tongue deliberate, and listen to a Northern model."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "First, remember the difference between a letter and a sound. Vietnamese has vowel letters with their own identities: a, ă, â; e, ê; o, ô, ơ; u, ư; and i. The marks on ă, â, ê, ô, ơ and ư are part of the letter, not optional decoration."
       },
       {
         "speaker": "STUDENT 2",
-        "line": "What happens at the end of a word like một?"
+        "line": "So ơ is not just o with an accent added for tone?"
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "The final -t closes the syllable. Do not release it with an extra 'uh' sound."
+        "line": "Correct. The horn changes the vowel letter. Tone marks are a separate layer. A syllable can have a vowel-shape mark and a tone mark together."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us begin with a and ă. The vowel a is relatively open. The vowel ă is shorter and has a different quality. Do not simply say a and then cut it off at random; learn the contrast as two distinct vowel sounds."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I can hear that ă is shorter, but I need to keep its vowel quality distinct too."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Listen to the contrast in isolated syllables: ba and bă. Keep the initial consonant the same so the vowel is the only changing part."
       },
       {
         "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
-        "line": "Native recording slot: contrast ư/u, ơ/o, ă/a and final -t/-c examples. No recording is included yet."
+        "line": "Recording script — slow contrast: ba… bă… ba… bă. Repeat with a short pause. Then say the pair at a natural pace."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now compare a and â. The â vowel is more central and shorter than a. Avoid turning â into the English schwa automatically; copy the native model and keep the syllable stable."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So a, ă and â are three different vowel letters, not three spellings of one sound."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Say them in sequence: a, ă, â. Then use the same consonant frame: ba, bă, bâ. The last item is a sound drill, not a vocabulary lesson."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — vowel sequence: a… ă… â…; then ba… bă… bâ… Repeat twice, slowly and clearly."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Next, e and ê. The vowel e is more open; ê is closer and tenser. Keep the lips relaxed and do not add an English glide at the end."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I should not let ê turn into 'ay' as in an English word."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Vietnamese vowels are generally held as one clear vowel target. Listen: me and mê. Notice the difference in the vowel, not the volume."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — contrast: me… mê… me… mê. Hold each vowel evenly without adding a second sound."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now the rounded back vowels: o, ô and ơ. O is more open, ô is closer and rounded, while ơ is unrounded and more central. The difference between ô and ơ is especially important: do not round your lips for ơ."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So for ô my lips are rounded, but for ơ they are relaxed and unrounded."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. Feel the lips rather than exaggerating the jaw. Listen to the three vowels in isolation, then in a simple consonant frame."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — slow: o… ô… ơ…; then bo… bô… bơ. Repeat the sequence twice."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now u and ư. U is a high rounded vowel. For ư, keep the tongue high but relax the rounding: the lips should not form the same small circle."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "U has rounded lips; ư is unrounded. I can use the mirror to check."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is a useful technique. Say u, ư, u, ư. Keep the tongue position steady and change the lips."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — contrast: u… ư… u… ư. Then repeat naturally, without adding a glide."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us review the vowel families: a, ă, â; e, ê; o, ô, ơ; u, ư; i. Say each carefully. The point is not to memorise an English approximation; it is to build a reliable listening category for each Vietnamese vowel."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "There are more contrasts than English spelling prepares me for."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. English spelling habits can mislead you. Use the Vietnamese letter and a native recording as your guide."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "We will now look at initial consonants. Vietnamese pinyin-like spellings are not used here; learn the actual Quốc ngữ spelling. For example, ph is pronounced like an English f, not like p plus h."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So phố begins with an f-like sound."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Listen to phở. Keep the airflow continuous and do not insert a stop before it."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — words: phở, phố, phim. First slowly, then in a natural speaking rhythm."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The spelling th represents an aspirated t-like sound. It is not the same as English 'th' in think. Put the tongue at the position for t and release a noticeable puff of air."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So thở starts with an airy t, not the English sound in 'think'."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Compare t and th in a controlled drill. Keep the vowel the same and feel the extra breath after th."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — contrast: ta… tha… ta… tha; then tôi… thôi. Leave a short pause between pairs."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The consonant kh is a friction sound made farther back in the mouth. It is not simply English k. Let air pass through a narrow space without adding a separate vowel."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I should make a soft friction sound, not a hard k followed by h."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. Practise slowly with không. Keep the sound comfortable; do not scrape or strain your throat."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — words: không, khỏe, khó. Slow model, then natural repetition."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now the consonants ng and ngh. Both spellings represent the same basic initial sound; ngh is used before certain front vowels according to spelling rules. The sound is like the final sound in English 'sing', but at the beginning of a Vietnamese syllable."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "That feels unusual because English does not normally begin a word with that sound."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Right. Start by making the back-of-the-tongue nasal sound as in 'sing', then move directly into the vowel. Practise nghe and người."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — words: nghe, nghỉ, người, ngon. Model slowly, then at natural pace."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "In contemporary Hanoi speech, the letters d and gi are commonly pronounced with a sound similar to English z. The letter r also has regional and speaker variation; in many Northern models it is pronounced similarly to that z-like sound. Do not assume every region uses the same pronunciation."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So d, gi and r may sound alike in the Northern model, even though they are written differently."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is a useful Northern starting point. Learn the spelling separately from the sound, and listen to the speaker you are using as your model."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — words: da, gia, ra; then dạ, già, rã. Read clearly and naturally, without exaggerating the initial consonant."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Some Northern speakers distinguish tr and ch; many contemporary speakers, including in Hanoi, may merge them or realise them very similarly. We will not pretend there is one universal rule. For this course, copy the chosen native model consistently."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So I should recognise the spellings, but not be surprised if the sounds are close or merged."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Regional and individual variation is part of spoken Vietnamese."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now final consonants. Vietnamese syllables can end in a vowel, a nasal such as m, n, ng or nh, or an unreleased stop such as p, t, c or ch. These final stops are not released with a strong burst of air."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So if a word ends in t, I should not add an extra vowel after it."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Do not say 'tuh'. Close the syllable cleanly. Listen to mặt and học. The final consonant is brief and unreleased."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — final-stop words: mặt, mắt, học, một. Say each slowly, keeping the final closure short and unreleased."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Compare final m and n. M is made with both lips closed; n uses the tongue at the front of the mouth. Listen to nam and năm: the final consonants are not the same."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I need to notice where the sound is made, not just whether it is nasal."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Now compare final n and ng. N is made at the front; ng is made at the back. Practise an and ang as a listening contrast, then copy the full words from the native speaker."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — final nasal contrast: an… ang… an… ang; then ăn… ăng. Keep the vowel and final nasal distinct."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A reminder about syllables: do not insert a vowel after a final consonant, and do not release p, t or c/ch as though you were speaking English. The syllable should finish cleanly."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "That means I should avoid adding an English-style extra 'uh' at the end."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. Listen to the whole syllable, including its ending. A clear final consonant helps the listener identify the word."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us combine the skills. In người, notice the initial ng, the vowel ươ and the final i. In không, notice kh, ô and final ng. Vietnamese syllables are compact structures; each part matters."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So I should identify the initial, vowel and ending, then add the tone."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is our practical routine: initial consonant, exact vowel, final consonant, then tone. You do not need to analyse every syllable forever, but it is useful while training."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — careful syllable analysis: người… không… phở… học… khỏe. First separate each word, then repeat the sequence naturally."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Take a short break. When you return, do the listening test without looking at the spelling. Identify the vowel or consonant contrast you hear."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For the first test, listen for the difference between a and ă. Write down which one you hear first, then which one you hear second."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — shuffled vowel test: bă, ba, bâ, bơ, bô, bư, bu. Pause after each item, then repeat in a different order."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Check your notes. If you confused two vowels, practise only that pair for one minute. Do not repeat the entire alphabet without listening carefully."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I confused u and ư because I rounded my lips for both."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Use a mirror. Say u with rounded lips, then ư with unrounded lips. Keep the tongue high in both."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now a consonant test. Listen for ph, th, kh and ng at the beginning of a syllable. Name the sound you hear before reading the word."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — initials: phở, thở, khỏe, nghe. Repeat once slowly and once naturally."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I can hear that ph is f-like, th is an aspirated t, kh is friction farther back, and ng is nasal."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Now practise final consonants. Listen to the end of mặt, nam, an and ang. Do not add a vowel after the final sound."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — endings: mặt… nam… an… ang… học… một. Leave a short pause between items."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Here is a daily five-minute routine. Spend one minute on the vowel family that is hardest for you, one minute on initial consonants, one minute on final consonants, one minute listening without text, and one minute repeating complete words."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Should I practise every sound at maximum volume so I can feel it?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "No. Use a comfortable speaking voice. Accuracy comes from placement and listening, not force. Stop if your throat feels strained."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Final challenge. Without looking, name the vowel contrasts a/ă/â, e/ê, o/ô/ơ and u/ư. Then explain the difference between ph, th, kh and ng. Finally, say người, không, phở and học carefully."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — final review: a, ă, â; e, ê; o, ô, ơ; u, ư; phở, thở, không, nghe, người, học. Slow model followed by natural-speed repetition."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You have completed Lesson 3. The most important habit is to hear the exact sound rather than guess from English spelling. In Lesson 4 we will use these pronunciation skills in your first greetings. Keep your listening routine short and regular."
       }
     ],
     "cards": [
       {
-        "english": "Listen for the unrounded vowel: thư",
-        "vietnamese": "thư",
-        "pronunciation": "thư",
-        "note": "The vowel ư is unrounded. Do not pronounce it as English 'oo'."
+        "english": "Distinguish a and ă",
+        "vietnamese": "a · ă",
+        "pronunciation": "a · ă",
+        "note": "Say them slowly as two different vowel sounds. Keep ă short without reducing it to a random clipped a."
       },
       {
-        "english": "Listen for the open-mid vowel: mơ",
-        "vietnamese": "mơ",
-        "pronunciation": "mơ",
-        "note": "ơ is distinct from o and ô."
+        "english": "Say the three a-family vowels",
+        "vietnamese": "a · ă · â",
+        "pronunciation": "a · ă · â",
+        "note": "Remember that these are three distinct vowel letters."
       },
       {
-        "english": "Say: one",
-        "vietnamese": "một",
-        "pronunciation": "một",
-        "note": "The final -t is unreleased; finish with a closed mouth position."
+        "english": "Contrast e and ê",
+        "vietnamese": "e · ê",
+        "pronunciation": "e · ê",
+        "note": "Ê is closer and tenser. Avoid adding an English-style glide."
       },
       {
-        "english": "Say: book",
-        "vietnamese": "sách",
-        "pronunciation": "sách",
-        "note": "The final -ch is a short checked ending. Avoid adding an extra vowel."
+        "english": "Contrast o, ô and ơ",
+        "vietnamese": "o · ô · ơ",
+        "pronunciation": "o · ô · ơ",
+        "note": "Ô is rounded; ơ is unrounded and more central."
       },
       {
-        "english": "Say: coffee",
-        "vietnamese": "cà phê",
-        "pronunciation": "cà · phê",
-        "note": "Two syllables. ph is pronounced like an aspirated f in modern Vietnamese."
+        "english": "Contrast u and ư",
+        "vietnamese": "u · ư",
+        "pronunciation": "u · ư",
+        "note": "Keep the tongue high. Round the lips for u, but relax them for ư."
+      },
+      {
+        "english": "Recall the Vietnamese vowel families",
+        "vietnamese": "a, ă, â · e, ê · o, ô, ơ · u, ư · i",
+        "pronunciation": "Read each vowel clearly",
+        "note": "Say the sequence without replacing the Vietnamese sounds with English letter names."
+      },
+      {
+        "english": "Say the f-like initial in phở",
+        "vietnamese": "phở",
+        "pronunciation": "phở",
+        "note": "Ph is pronounced like an f sound in the Northern model."
+      },
+      {
+        "english": "Produce the aspirated th sound",
+        "vietnamese": "thở",
+        "pronunciation": "thở",
+        "note": "Th is an aspirated t-like sound, not the English th in think."
+      },
+      {
+        "english": "Practise the kh sound",
+        "vietnamese": "không",
+        "pronunciation": "không",
+        "note": "Make gentle friction farther back in the mouth. Do not turn it into a hard k."
+      },
+      {
+        "english": "Begin a syllable with ng",
+        "vietnamese": "nghe",
+        "pronunciation": "nghe",
+        "note": "Start with the back nasal sound heard at the end of English sing, then move into the vowel."
+      },
+      {
+        "english": "Say the word for person",
+        "vietnamese": "người",
+        "pronunciation": "người",
+        "note": "Notice the initial ng and the vowel combination ươ."
+      },
+      {
+        "english": "Compare the Northern d, gi and r model",
+        "vietnamese": "da · gia · ra",
+        "pronunciation": "da · gia · ra",
+        "note": "In many contemporary Northern accents these initials sound similar to English z. Spelling remains different."
+      },
+      {
+        "english": "Say a word ending in an unreleased t",
+        "vietnamese": "mặt",
+        "pronunciation": "mặt",
+        "note": "Close the syllable without releasing a strong burst and do not add a vowel."
+      },
+      {
+        "english": "Say a word ending in c",
+        "vietnamese": "học",
+        "pronunciation": "học",
+        "note": "Keep the final stop short and unreleased."
+      },
+      {
+        "english": "Contrast final m and n",
+        "vietnamese": "nam · năm",
+        "pronunciation": "nam · năm",
+        "note": "M closes both lips; n uses the front of the tongue. Also notice the vowel contrast."
+      },
+      {
+        "english": "Contrast final n and ng",
+        "vietnamese": "an · ang",
+        "pronunciation": "an · ang",
+        "note": "N is made at the front of the mouth; ng is made at the back."
+      },
+      {
+        "english": "Say the word for healthy",
+        "vietnamese": "khỏe",
+        "pronunciation": "khỏe",
+        "note": "Keep kh gentle and the vowel clear; retain the hỏi tone."
+      },
+      {
+        "english": "Say the word for noodle soup",
+        "vietnamese": "phở",
+        "pronunciation": "phở",
+        "note": "Keep the ph initial continuous and the vowel open and clear."
+      },
+      {
+        "english": "Analyse a complete syllable",
+        "vietnamese": "không",
+        "pronunciation": "kh · ô · ng · ngang",
+        "note": "Identify initial consonant, vowel, final consonant and tone."
+      },
+      {
+        "english": "Final recall: say four words clearly",
+        "vietnamese": "người · không · phở · học",
+        "pronunciation": "người · không · phở · học",
+        "note": "Try from memory, then compare with the native model. Keep every vowel, consonant and tone mark."
       }
     ],
-    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "recording_status": "Expanded 45–60 minute written lesson script with native Northern Vietnamese recording prompts. Actual teacher, student and native-speaker audio recordings have not yet been supplied.",
     "audio": {
       "teacher": null,
       "student_1": null,
