@@ -383,82 +383,536 @@
   {
     "id": 2,
     "unit": "Foundations",
-    "title": "The six tones",
-    "description": "Distinguish the six Northern Vietnamese tones and hear why tone changes meaning.",
-    "teacher_intro": "Today we train your ear and voice. Vietnamese has six tone categories in the standard teaching description. We will use one syllable, ma, to make the contrast easy to see. The goal is not to shout or add English stress; it is to shape the pitch and voice quality.",
-    "background": "The six tone names are ngang (level), sắc (rising), huyền (falling), hỏi (dipping), ngã (broken/rising with a glottal quality in Northern speech), and nặng (heavy, short and constricted). Actual pitch contours vary with sentence position and speaker.",
-    "culture": "This course uses contemporary Hanoi/Northern pronunciation. Northern and Southern varieties differ in the realisation of some tones and consonants. Neither is inherently more correct; they are regional varieties.",
+    "title": "The six Northern Vietnamese tones",
+    "description": "A guided 45–60 minute lesson: hear, identify and produce the six tones using careful contrasts, listening routines and short practice sequences.",
+    "teacher_intro": "Welcome back. Today we train one of the most important parts of Vietnamese pronunciation: tone. Set aside 45–60 minutes. You will hear a syllable, think about its pitch and voice quality, try it aloud, and then compare with the students and the native-speaker practice script. Do not shout, sing, or use English word stress. Keep the vowel clear and let the tone shape the syllable. Work slowly first. Accuracy and listening matter more than speed.",
+    "background": "Standard Vietnamese teaching describes six tones: ngang (level), sắc (rising), huyền (falling), hỏi (dipping), ngã (often broken or creaky in Northern speech), and nặng (short, low and constricted). The six written forms on ma are ma, má, mà, mả, mã and mạ. These are a teaching contrast set, not six interchangeable versions of one meaning. Tone belongs to the syllable and can distinguish words. Tone contours are affected by speaking rate, phrase position and individual voice; a diagram or English description is only a guide. In contemporary Hanoi speech, hỏi and ngã are usually distinct, with ngã often showing a glottal or creaky interruption. Listen to a consistent native model and avoid forcing an exaggerated theatrical contour.",
+    "culture": "This course follows contemporary Northern Vietnamese with a Hanoi reference accent. Vietnamese speakers from different regions may realise tones and some consonants differently. Regional accents are valid; our goal is to build a consistent listening and speaking model. In everyday conversation, tones are not performed as isolated musical notes. They are integrated naturally into syllables and phrases. Learn the contrasts carefully in isolation, then practise them in words and sentences.",
     "dialogue": [
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Listen to the base syllable ma. Keep the vowel steady first. Now add a rising tone: má. Do not turn it into a loud English stress."
+        "line": "Let us begin with the word tone. In Vietnamese, tone is not decoration or emotion added after the word. It is part of the syllable itself."
       },
       {
         "speaker": "STUDENT 1",
-        "line": "So tone is part of the syllable, not just emotion?"
+        "line": "So if I pronounce the consonant and vowel correctly but use the wrong tone, I may say a different word?"
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Correct. A different tone can produce a different word. You must learn the vowel, consonants and tone together."
+        "line": "Exactly. A Vietnamese syllable is built from its initial consonant, vowel or vowel combination, ending if present, and tone. We are isolating tone today so your ear can notice it."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Our practice syllable is ma. First say ma with a comfortable, steady voice. No special rise or fall. This is ngang, the level tone."
       },
       {
         "speaker": "STUDENT 2",
-        "line": "What about the two tones that sound a little interrupted?"
+        "line": "Ma. I should keep the pitch fairly even, rather than stressing the syllable like an English word?"
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "In Hanoi speech, ngã often has a noticeable glottal interruption, while nặng is short, low and constricted. Listen to a native speaker rather than relying on a pitch drawing alone."
+        "line": "Correct. Keep it relaxed and level. Do not make it unnaturally flat or robotic; simply avoid a deliberate pitch movement."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now sắc: má. The pitch rises. Imagine beginning in a comfortable middle range and moving upward clearly."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Má. The movement is upward, but I should not just make it louder."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Well noticed. Pitch direction and volume are different. Keep roughly the same loudness and change the pitch."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now huyền: mà. The pitch generally falls. Begin comfortably and let the voice move downward."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mà. That feels like a gentle falling movement."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Do not add a dramatic sigh. It is a speech tone, not an emotional performance."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The hỏi tone is often described as dipping. The pitch moves down and then turns upward. In real speech the exact contour varies."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mả. It is not simply a fall. There is a small turn back upward."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. Keep it compact and natural. Avoid turning it into two separate syllables."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Next is ngã. In Northern speech it commonly has a noticeable interruption or creaky quality before the pitch rises."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mã. So I should listen for both the interrupted voice quality and the upward movement?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. Do not insert a full pause or an extra vowel. The interruption is part of one syllable."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Finally, nặng. Mạ is typically short, low and constricted. It may end with a firm closure depending on the syllable and context."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mạ. Short and low, not stretched out."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Do not add an extra sound after it. Keep it one compact syllable."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us put the six in order: ma, má, mà, mả, mã, mạ. Listen first without repeating."
       },
       {
         "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
-        "line": "Native recording slot: ma, má, mà, mả, mã, mạ; slow contrast set followed by natural-speed repetition. No recording is included yet."
+        "line": "Recording script — slow six-tone contrast: ma… má… mà… mả… mã… mạ. Leave a short pause between each item. Repeat the complete sequence twice."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now repeat each one after the native model. Keep your volume steady. Listen for the pitch and voice quality, not only the spelling."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Ma, má, mà, mả, mã, mạ."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Which one rises smoothly? Think before answering."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Sắc: má."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Which one falls?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Huyền: mà."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Which one dips and turns upward?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Hỏi: mả."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Which one often has a creaky interruption in Northern speech?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Ngã: mã."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Which one is short, low and constricted?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Nặng: mạ."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "And which one is level?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Ngang: ma."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now we will practise recognition without seeing the marks. I will describe the contour. You name the tone, then say its example."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A steady, level pitch. Pause and answer."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Ngang — ma."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A clear upward movement. Pause and answer."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Sắc — má."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A falling movement. Pause and answer."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Huyền — mà."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A dipping movement that turns upward. Pause and answer."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Hỏi — mả."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A broken or creaky quality followed by a rise in the Northern model. Pause and answer."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Ngã — mã."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A short, low, constricted syllable. Pause and answer."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Nặng — mạ."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now reverse the task. I will give you the tone name. Produce the example without looking back."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ngang."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Ma."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Sắc."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Má."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Huyền."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mà."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Hỏi."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mả."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ngã."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mã."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Nặng."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mạ."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A useful warning: do not learn tones only as six abstract pitch arrows. Real syllables have different vowels, consonants and endings. The tone interacts with the whole syllable, and some endings affect the possible tone patterns."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So the ma set is a clear training tool, but I must transfer the skill to real words."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. We will now practise tone marks in familiar words. Listen to the complete word, not just the accent mark."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "In cảm ơn, the first syllable cảm has the hỏi tone. The second syllable ơn has huyền? No: notice its written mark carefully; ơn is unmarked for tone, so it carries ngang."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So the vowel letter ơ and the tone are separate pieces of information."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. This connects Lesson 1 with today. A vowel-shape mark and a tone mark do different jobs."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Listen to cảm, then cảm ơn. Keep the two syllables clear, then connect them naturally."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — careful pace: cảm… ơn… cảm ơn. Repeat three times, with a natural pause only in the first two examples."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now consider tiếng Việt. The tone marks are part of both syllables. Read the marks carefully, but do not try to calculate the pitch mechanically from the page. Listen to the model."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — careful pace: tiếng… Việt… tiếng Việt. Then natural pace: tiếng Việt."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I should use the spelling to remind me what to listen for, and the native model to learn the actual sound."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Precisely. The written mark is a useful clue, but good pronunciation comes from listening and repeated production."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us practise contrast pairs. First compare ma and má: level against rising. Say each twice, keeping the vowel quality the same."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Ma, ma; má, má."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ma and mà: level against falling."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Ma, ma; mà, mà."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now mả and mã. Listen especially for the difference between the dipping hỏi and the interrupted ngã in the Northern model."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — contrast: mả… mã… mả… mã. First slow, then natural. Keep each item one syllable."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Do not exaggerate the interruption in mã. Copy the speaker rather than inventing a dramatic catch in the throat."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now mả and mạ. Hỏi has a dip-and-turn; nặng is short, low and constricted."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mả… mạ. The second one is much shorter."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Duration is a clue, but never rely on duration alone. Listen to the whole sound."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Take a short break if needed. When you return, we will do a listening test, then build a short practice routine you can repeat each day."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For the listening test, close your eyes or look away from the text. Play or imagine the native recording slot. Write down the tone name you hear for each item only after listening to the complete sequence."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — shuffled listening quiz: mạ, má, ma, mã, mà, mả. Pause four seconds after each item. Repeat the shuffled order once."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Check your notes against the spelling: mạ is nặng; má is sắc; ma is ngang; mã is ngã; mà is huyền; mả is hỏi. If you missed one, repeat only that contrast, then test yourself again."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I confused hỏi and ngã. I will practise mả and mã side by side with the Northern recording."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is the right response. Identify the exact contrast that is difficult instead of repeating everything without focus."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Here is a five-minute daily routine: listen once; identify the six tones; repeat slowly; compare the difficult pair; then say the sequence at natural speed."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Should I practise for a long time until my voice gets tired?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "No. Short, attentive practice is better than forcing your voice. Stop if your throat feels strained. Tone is not produced by shouting."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "One final principle: tones are not English stress. English often uses stress to make one syllable prominent. Vietnamese tone is a lexical feature carried by each syllable. Keep syllables clear and let the tone shape each one."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So I should not make one syllable louder just because it has a rising tone."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Pitch movement, voice quality and syllable duration matter; loudness is not a substitute."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Final challenge. Without looking, name all six tone categories in order and give the ma example for each. Then repeat the sequence twice, once slowly and once naturally."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — final sequence, slow: ma, má, mà, mả, mã, mạ. Natural pace: ma má mà mả mã mạ. Repeat the set once more."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You have completed the core work for Lesson 2. In Lesson 3 we will turn to vowel contrasts and difficult consonants. Continue to listen to Northern Vietnamese every day, even when you are not actively studying."
       }
     ],
     "cards": [
       {
-        "english": "Level tone — ngang",
+        "english": "Identify the level tone",
         "vietnamese": "ma",
         "pronunciation": "ma",
-        "note": "Keep the pitch level and the voice relaxed."
+        "note": "Ngang: keep the pitch steady and relaxed."
       },
       {
-        "english": "Rising tone — sắc",
+        "english": "Identify the rising tone",
         "vietnamese": "má",
         "pronunciation": "má",
-        "note": "Rise clearly. Avoid adding extra volume instead of changing pitch."
+        "note": "Sắc: move the pitch upward; do not substitute loudness."
       },
       {
-        "english": "Falling tone — huyền",
+        "english": "Identify the falling tone",
         "vietnamese": "mà",
         "pronunciation": "mà",
-        "note": "Let the pitch fall smoothly."
+        "note": "Huyền: let the pitch fall smoothly."
       },
       {
-        "english": "Dipping tone — hỏi",
+        "english": "Identify the dipping tone",
         "vietnamese": "mả",
         "pronunciation": "mả",
-        "note": "A dip-and-rise contour; its exact shape depends on context."
+        "note": "Hỏi: a dip and turn upward; keep it one syllable."
       },
       {
-        "english": "Broken rising tone — ngã",
+        "english": "Identify the Northern broken rising tone",
         "vietnamese": "mã",
         "pronunciation": "mã",
-        "note": "In Northern speech this commonly has a glottal or creaky interruption before the rise."
+        "note": "Ngã: commonly has a creaky or glottal interruption and a rise."
       },
       {
-        "english": "Heavy tone — nặng",
+        "english": "Identify the short, low, constricted tone",
         "vietnamese": "mạ",
         "pronunciation": "mạ",
-        "note": "Short, low and constricted. Do not add a second vowel."
+        "note": "Nặng: compact and low; avoid stretching it."
       },
       {
-        "english": "Now say the complete six-tone sequence",
+        "english": "Say the six-tone sequence",
         "vietnamese": "ma · má · mà · mả · mã · mạ",
         "pronunciation": "ma / má / mà / mả / mã / mạ",
-        "note": "Repeat slowly, then at a comfortable conversational pace. Accuracy comes before speed."
+        "note": "Repeat slowly, then at natural speed."
+      },
+      {
+        "english": "Which tone is level?",
+        "vietnamese": "ngang",
+        "pronunciation": "ngang",
+        "note": "The example is ma."
+      },
+      {
+        "english": "Which tone rises?",
+        "vietnamese": "sắc",
+        "pronunciation": "sắc",
+        "note": "The example is má."
+      },
+      {
+        "english": "Which tone falls?",
+        "vietnamese": "huyền",
+        "pronunciation": "huyền",
+        "note": "The example is mà."
+      },
+      {
+        "english": "Which tone dips and turns upward?",
+        "vietnamese": "hỏi",
+        "pronunciation": "hỏi",
+        "note": "The example is mả."
+      },
+      {
+        "english": "Which tone often has a creaky interruption in Northern speech?",
+        "vietnamese": "ngã",
+        "pronunciation": "ngã",
+        "note": "The example is mã."
+      },
+      {
+        "english": "Which tone is short, low and constricted?",
+        "vietnamese": "nặng",
+        "pronunciation": "nặng",
+        "note": "The example is mạ."
+      },
+      {
+        "english": "Contrast level and rising",
+        "vietnamese": "ma · má",
+        "pronunciation": "ma · má",
+        "note": "Keep the vowel the same; change the tone."
+      },
+      {
+        "english": "Contrast level and falling",
+        "vietnamese": "ma · mà",
+        "pronunciation": "ma · mà",
+        "note": "Listen for steady versus falling pitch."
+      },
+      {
+        "english": "Contrast dipping and broken rising",
+        "vietnamese": "mả · mã",
+        "pronunciation": "mả · mã",
+        "note": "Listen for the hỏi contour versus Northern ngã voice quality."
+      },
+      {
+        "english": "Contrast dipping and heavy",
+        "vietnamese": "mả · mạ",
+        "pronunciation": "mả · mạ",
+        "note": "Hỏi has a dip; nặng is short and constricted."
+      },
+      {
+        "english": "Say thank you carefully",
+        "vietnamese": "cảm ơn",
+        "pronunciation": "cảm ơn",
+        "note": "Notice hỏi on cảm; ơn has the vowel ơ and no tone mark."
+      },
+      {
+        "english": "State why tone matters",
+        "vietnamese": "Tone is part of the syllable and can distinguish words.",
+        "pronunciation": "Tone is part of the syllable",
+        "note": "Do not treat tone as optional emotion or English stress."
+      },
+      {
+        "english": "Final recall: name all six tones in order",
+        "vietnamese": "ngang · sắc · huyền · hỏi · ngã · nặng",
+        "pronunciation": "ngang · sắc · huyền · hỏi · ngã · nặng",
+        "note": "Give the matching examples: ma, má, mà, mả, mã, mạ."
       }
     ],
-    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "recording_status": "Expanded 45–60 minute written lesson script with native Northern Vietnamese recording prompts. Actual teacher, student and native-speaker audio files have not yet been supplied.",
     "audio": {
       "teacher": null,
       "student_1": null,
