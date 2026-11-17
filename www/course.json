@@ -5,32 +5,58 @@
     "title": "Vietnamese sounds and spelling",
     "description": "Learn the alphabet, familiar letter combinations and basic spelling.",
     "teacher_intro": "Welcome to lesson 1: Vietnamese sounds and spelling. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "background": "Vietnamese uses a Latin-based writing system called chữ Quốc ngữ. The spelling system marks both vowel quality and tone, so accent marks are part of the word, not decoration.",
+    "culture": "Chữ Quốc ngữ became the standard writing system in modern Vietnam. Older Vietnamese texts also used chữ Nôm and classical Chinese characters.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is vietnamese sounds and spelling. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Vietnamese uses a Latin-based writing system called chữ Quốc ngữ. The spelling system marks both vowel quality and tone, so accent marks are part of the word, not decoration."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
     "cards": [
       {
         "english": "Hello.",
         "vietnamese": "Xin chào.",
-        "pronunciation": "sin chào",
-        "note": "A common, polite greeting."
+        "pronunciation": "xin chào",
+        "note": "A polite, widely understood greeting. In close everyday settings, people often greet one another with relationship terms or a question about what they are doing."
       },
       {
         "english": "Thank you.",
         "vietnamese": "Cảm ơn.",
-        "pronunciation": "kảm ơn",
-        "note": "A standard way to say thank you."
+        "pronunciation": "cảm ơn",
+        "note": "The written form is two syllables. Keep the hỏi tone in cảm distinct from the ngang tone in ơn."
       },
       {
         "english": "Goodbye.",
         "vietnamese": "Tạm biệt.",
-        "pronunciation": "tạm biệ t",
-        "note": "A common way to say goodbye."
+        "pronunciation": "tạm biệt",
+        "note": "A clear, standard goodbye. In casual situations, people may use other leave-taking expressions."
       }
     ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 2,
@@ -38,50 +64,76 @@
     "title": "The six tones",
     "description": "Hear and practise the six Northern Vietnamese tones.",
     "teacher_intro": "Welcome to lesson 2: The six tones. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "background": "The six tone categories are a central feature of Northern Vietnamese. Tone is lexical: changing the tone can change the word. Learn tone together with the whole syllable.",
+    "culture": "Northern and Southern speech differ in some tone realisations and consonants. This course targets a contemporary Hanoi/Northern reference accent.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is the six tones. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The six tone categories are a central feature of Northern Vietnamese. Tone is lexical: changing the tone can change the word. Learn tone together with the whole syllable."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
     "cards": [
       {
-        "english": "flat tone",
+        "english": "level tone",
         "vietnamese": "ma",
         "pronunciation": "ma",
-        "note": "Level voice."
+        "note": "Ngang: keep the pitch level and steady."
       },
       {
         "english": "rising tone",
         "vietnamese": "má",
         "pronunciation": "má",
-        "note": "Rising voice."
+        "note": "Sắc: rise clearly; do not turn it into an English-style stressed syllable."
       },
       {
         "english": "falling tone",
         "vietnamese": "mà",
         "pronunciation": "mà",
-        "note": "Falling voice."
+        "note": "Huyền: lower the pitch smoothly."
       },
       {
-        "english": "dipping-rising tone",
+        "english": "dipping tone",
         "vietnamese": "mả",
         "pronunciation": "mả",
-        "note": "Dipping then rising voice."
+        "note": "Hỏi: the contour dips and rises; exact realisation varies by speaker and context."
       },
       {
         "english": "broken rising tone",
         "vietnamese": "mã",
         "pronunciation": "mã",
-        "note": "Creaky/broken rising contour."
+        "note": "Ngã: a rising tone with a characteristic interruption or creaky quality in Northern speech."
       },
       {
         "english": "heavy tone",
         "vietnamese": "mạ",
         "pronunciation": "mạ",
-        "note": "Short, low, constricted voice."
+        "note": "Nặng: short, low and constricted. Avoid adding an extra vowel."
       }
     ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 3,
@@ -89,13 +141,46 @@
     "title": "Vowels and difficult consonants",
     "description": "Practise ă, â, ê, ô, ơ, ư and common consonant contrasts.",
     "teacher_intro": "Welcome to lesson 3: Vowels and difficult consonants. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "Some vowel distinctions do not map neatly onto English. Train the mouth position and listen to native examples rather than relying only on English spelling approximations.",
+    "culture": "Do not assume one English sound equals one Vietnamese sound. Listen for the full vowel and final consonant together.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is vowels and difficult consonants. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Some vowel distinctions do not map neatly onto English. Train the mouth position and listen to native examples rather than relying only on English spelling approximations."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 4,
@@ -103,32 +188,58 @@
     "title": "Your first greetings",
     "description": "Say hello, goodbye and ask how someone is.",
     "teacher_intro": "Welcome to lesson 4: Your first greetings. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "background": "Xin is a polite particle and chào is a greeting. The phrase is a safe starting point, but everyday greetings often reflect the relationship between speakers.",
+    "culture": "Xin chào is useful and polite, but close friends and family often greet one another using kinship-style address terms.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is your first greetings. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Xin is a polite particle and chào is a greeting. The phrase is a safe starting point, but everyday greetings often reflect the relationship between speakers."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
     "cards": [
       {
         "english": "Hello.",
         "vietnamese": "Xin chào.",
-        "pronunciation": "sin chào",
-        "note": "Polite greeting."
+        "pronunciation": "xin chào",
+        "note": "Polite and safe, especially with people you do not know."
       },
       {
         "english": "How are you?",
         "vietnamese": "Bạn khỏe không?",
         "pronunciation": "bạn khỏe không",
-        "note": "A basic question; address terms vary by relationship."
+        "note": "Understandable and useful for learners; in natural conversation, Vietnamese speakers often use a relationship term and ask a more context-specific question."
       },
       {
         "english": "I'm fine.",
         "vietnamese": "Tôi khỏe.",
         "pronunciation": "tôi khỏe",
-        "note": "A simple response."
+        "note": "A simple textbook response. Real answers can be more varied."
       }
     ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 5,
@@ -136,32 +247,58 @@
     "title": "Introducing yourself",
     "description": "Say your name and ask another person's name.",
     "teacher_intro": "Welcome to lesson 5: Introducing yourself. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "background": "Tên means 'name'. Vietnamese often builds meaning through short syllables, and the same written syllable can have different meanings depending on tone and context.",
+    "culture": "Vietnamese names commonly include a family name, middle name and given name; the given name is often the final element.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is introducing yourself. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tên means 'name'. Vietnamese often builds meaning through short syllables, and the same written syllable can have different meanings depending on tone and context."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
     "cards": [
       {
         "english": "My name is ...",
         "vietnamese": "Tên tôi là ...",
         "pronunciation": "tên tôi là",
-        "note": "Use this to introduce your name."
+        "note": "A useful learner pattern. In conversation, people may also say mình tên là... depending on relationship and setting."
       },
       {
         "english": "What is your name?",
         "vietnamese": "Bạn tên là gì?",
         "pronunciation": "bạn tên là gì",
-        "note": "A basic way to ask someone's name."
+        "note": "A basic question. The best pronoun depends on the age and relationship of the people speaking."
       },
       {
         "english": "I'm ...",
         "vietnamese": "Tôi là ...",
         "pronunciation": "tôi là",
-        "note": "Use là to identify yourself."
+        "note": "Use là to identify yourself, for example with a role or nationality."
       }
     ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 6,
@@ -169,32 +306,58 @@
     "title": "Where are you from?",
     "description": "Say your nationality and where you live.",
     "teacher_intro": "Welcome to lesson 6: Where are you from?. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "background": "Úc is the common Vietnamese name for Australia. Country names and personal names are adapted to Vietnamese pronunciation when spoken.",
+    "culture": "Vietnamese speakers commonly use Úc for Australia and người Úc for an Australian person.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is where are you from?. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Úc is the common Vietnamese name for Australia. Country names and personal names are adapted to Vietnamese pronunciation when spoken."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
     "cards": [
       {
         "english": "I'm from Tanzania.",
         "vietnamese": "Tôi đến từ Tanzania.",
         "pronunciation": "tôi đến từ Tanzania",
-        "note": "Use đến từ for 'come from'."
+        "note": "đến từ means 'come from'. Country names may be pronounced with Vietnamese sound patterns."
       },
       {
         "english": "I live in Australia.",
         "vietnamese": "Tôi sống ở Úc.",
         "pronunciation": "tôi sống ở Úc",
-        "note": "Úc means Australia."
+        "note": "ở marks location here; Úc is the common Vietnamese name for Australia."
       },
       {
         "english": "I'm Tanzanian but I live in Australia.",
         "vietnamese": "Tôi là người Tanzania nhưng sống ở Úc.",
         "pronunciation": "tôi là người Tanzania nhưng sống ở Úc",
-        "note": "A longer sentence joining identity and where you live."
+        "note": "người introduces a person or nationality; nhưng means 'but'."
       }
     ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 7,
@@ -202,13 +365,58 @@
     "title": "Polite words",
     "description": "Use please, thank you, sorry and excuse me naturally.",
     "teacher_intro": "Welcome to lesson 7: Polite words. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "Cảm ơn is a compact expression of thanks. Politeness in Vietnamese also comes from pronouns, particles, tone of voice and the relationship between speakers.",
+    "culture": "A polite phrase can sound more or less natural depending on who is speaking to whom. Pronouns are part of politeness.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is polite words. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Cảm ơn is a compact expression of thanks. Politeness in Vietnamese also comes from pronouns, particles, tone of voice and the relationship between speakers."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Thank you.",
+        "vietnamese": "Cảm ơn.",
+        "pronunciation": "cảm ơn",
+        "note": "A core polite expression."
+      },
+      {
+        "english": "Sorry / excuse me.",
+        "vietnamese": "Xin lỗi.",
+        "pronunciation": "xin lỗi",
+        "note": "Used for apologies and to get someone's attention politely."
+      },
+      {
+        "english": "Please help me.",
+        "vietnamese": "Làm ơn giúp tôi.",
+        "pronunciation": "làm ơn giúp tôi",
+        "note": "A useful request pattern; tone and relationship still matter."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 8,
@@ -216,13 +424,58 @@
     "title": "Numbers 0–20",
     "description": "Count, ask and answer simple number questions.",
     "teacher_intro": "Welcome to lesson 8: Numbers 0–20. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "Vietnamese numbers are useful beyond counting: they appear constantly in prices, dates, phone numbers, addresses and age.",
+    "culture": "When counting objects, Vietnamese often uses classifiers. Numbers are introduced here first; classifiers come later.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is numbers 0–20. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Vietnamese numbers are useful beyond counting: they appear constantly in prices, dates, phone numbers, addresses and age."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "one",
+        "vietnamese": "một",
+        "pronunciation": "một",
+        "note": "The nặng tone makes the syllable short and constricted."
+      },
+      {
+        "english": "two",
+        "vietnamese": "hai",
+        "pronunciation": "hai",
+        "note": "A common number used in prices, quantities and age."
+      },
+      {
+        "english": "ten",
+        "vietnamese": "mười",
+        "pronunciation": "mười",
+        "note": "The huyền tone is important; keep the vowel clear."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 9,
@@ -230,13 +483,52 @@
     "title": "Age and basic details",
     "description": "Ask and answer someone's age and simple personal details.",
     "teacher_intro": "Welcome to lesson 9: Age and basic details. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "Tuổi means 'age' or 'years of age'. Unlike English, the Vietnamese sentence does not require a separate word for 'am' in this pattern.",
+    "culture": "Age can influence the pronoun you choose, so asking someone's age may also help establish an appropriate way to address them.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is age and basic details. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tuổi means 'age' or 'years of age'. Unlike English, the Vietnamese sentence does not require a separate word for 'am' in this pattern."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "How old are you?",
+        "vietnamese": "Bạn bao nhiêu tuổi?",
+        "pronunciation": "bạn bao nhiêu tuổi",
+        "note": "Literally asks how many years old; choose an appropriate form of address."
+      },
+      {
+        "english": "I'm thirty years old.",
+        "vietnamese": "Tôi ba mươi tuổi.",
+        "pronunciation": "tôi ba mươi tuổi",
+        "note": "Vietnamese does not need a separate verb equivalent to English 'am' in this age expression."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 10,
@@ -244,13 +536,58 @@
     "title": "Review: first conversation",
     "description": "Combine greetings, names, nationality and numbers.",
     "teacher_intro": "Welcome to lesson 10: Review: first conversation. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "The first review combines familiar building blocks. The goal is not speed; it is to hear the English prompt, build the Vietnamese sentence and say it clearly.",
+    "culture": "A fluent-sounding conversation depends on choosing suitable forms of address, not just translating each English word.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is review: first conversation. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The first review combines familiar building blocks. The goal is not speed; it is to hear the English prompt, build the Vietnamese sentence and say it clearly."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Hello. What's your name?",
+        "vietnamese": "Xin chào. Bạn tên là gì?",
+        "pronunciation": "xin chào. bạn tên là gì",
+        "note": "Combine greeting and name question."
+      },
+      {
+        "english": "My name is ...",
+        "vietnamese": "Tên tôi là ...",
+        "pronunciation": "tên tôi là",
+        "note": "Answer with the pattern from lesson 5."
+      },
+      {
+        "english": "I'm from Tanzania and I live in Australia.",
+        "vietnamese": "Tôi đến từ Tanzania và tôi sống ở Úc.",
+        "pronunciation": "tôi đến từ Tanzania và tôi sống ở Úc",
+        "note": "và joins two statements with 'and'."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 11,
@@ -258,13 +595,46 @@
     "title": "Vietnamese word order",
     "description": "Build simple subject–verb–object sentences.",
     "teacher_intro": "Welcome to lesson 11: Vietnamese word order. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into vietnamese word order. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is vietnamese word order. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into vietnamese word order. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 12,
@@ -272,13 +642,46 @@
     "title": "The verb 'to be' and identity",
     "description": "Use là to identify people and things.",
     "teacher_intro": "Welcome to lesson 12: The verb 'to be' and identity. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into the verb 'to be' and identity. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is the verb 'to be' and identity. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into the verb 'to be' and identity. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 13,
@@ -286,13 +689,46 @@
     "title": "People and pronouns",
     "description": "Choose common forms of address for different relationships.",
     "teacher_intro": "Welcome to lesson 13: People and pronouns. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into people and pronouns. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is people and pronouns. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into people and pronouns. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 14,
@@ -300,13 +736,46 @@
     "title": "Making a sentence negative",
     "description": "Use không to make simple negative statements.",
     "teacher_intro": "Welcome to lesson 14: Making a sentence negative. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into making a sentence negative. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is making a sentence negative. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into making a sentence negative. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 15,
@@ -314,13 +783,46 @@
     "title": "Yes/no questions",
     "description": "Turn statements into natural yes/no questions.",
     "teacher_intro": "Welcome to lesson 15: Yes/no questions. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into yes/no questions. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is yes/no questions. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into yes/no questions. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 16,
@@ -328,13 +830,46 @@
     "title": "What, who and where",
     "description": "Ask questions with gì, ai and ở đâu.",
     "teacher_intro": "Welcome to lesson 16: What, who and where. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into what, who and where. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is what, who and where. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into what, who and where. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 17,
@@ -342,13 +877,46 @@
     "title": "Possession with của",
     "description": "Say what belongs to whom.",
     "teacher_intro": "Welcome to lesson 17: Possession with của. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into possession with của. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is possession with của. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into possession with của. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 18,
@@ -356,13 +924,46 @@
     "title": "This, that and these",
     "description": "Point out people and objects.",
     "teacher_intro": "Welcome to lesson 18: This, that and these. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into this, that and these. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is this, that and these. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into this, that and these. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 19,
@@ -370,13 +971,46 @@
     "title": "Adjectives and descriptions",
     "description": "Describe people, places and objects.",
     "teacher_intro": "Welcome to lesson 19: Adjectives and descriptions. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into adjectives and descriptions. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is adjectives and descriptions. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into adjectives and descriptions. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 20,
@@ -384,13 +1018,46 @@
     "title": "Review: build your own sentences",
     "description": "Construct and transform sentences from English prompts.",
     "teacher_intro": "Welcome to lesson 20: Review: build your own sentences. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into review: build your own sentences. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is review: build your own sentences. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into review: build your own sentences. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 21,
@@ -398,13 +1065,46 @@
     "title": "Family members",
     "description": "Talk about parents, siblings and relatives.",
     "teacher_intro": "Welcome to lesson 21: Family members. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into family members. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is family members. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into family members. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 22,
@@ -412,13 +1112,46 @@
     "title": "Work and occupations",
     "description": "Say what you do and ask about someone's work.",
     "teacher_intro": "Welcome to lesson 22: Work and occupations. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into work and occupations. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is work and occupations. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into work and occupations. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 23,
@@ -426,13 +1159,46 @@
     "title": "Daily routines",
     "description": "Describe a normal day using common verbs.",
     "teacher_intro": "Welcome to lesson 23: Daily routines. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into daily routines. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is daily routines. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into daily routines. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 24,
@@ -440,13 +1206,46 @@
     "title": "Time and days",
     "description": "Ask the time and talk about days of the week.",
     "teacher_intro": "Welcome to lesson 24: Time and days. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into time and days. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is time and days. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into time and days. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 25,
@@ -454,13 +1253,46 @@
     "title": "At home",
     "description": "Name rooms, furniture and household objects.",
     "teacher_intro": "Welcome to lesson 25: At home. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into at home. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is at home. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into at home. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 26,
@@ -468,13 +1300,46 @@
     "title": "Food and drink",
     "description": "Say what you eat and drink and what you like.",
     "teacher_intro": "Welcome to lesson 26: Food and drink. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into food and drink. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is food and drink. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into food and drink. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 27,
@@ -482,13 +1347,46 @@
     "title": "Likes and dislikes",
     "description": "Use thích and không thích in useful sentences.",
     "teacher_intro": "Welcome to lesson 27: Likes and dislikes. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into likes and dislikes. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is likes and dislikes. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into likes and dislikes. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 28,
@@ -496,13 +1394,46 @@
     "title": "Hobbies and free time",
     "description": "Talk about activities and interests.",
     "teacher_intro": "Welcome to lesson 28: Hobbies and free time. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into hobbies and free time. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is hobbies and free time. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into hobbies and free time. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 29,
@@ -510,13 +1441,46 @@
     "title": "Weather",
     "description": "Describe the weather and ask what it is like.",
     "teacher_intro": "Welcome to lesson 29: Weather. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into weather. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is weather. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into weather. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 30,
@@ -524,13 +1488,46 @@
     "title": "Review: a day in your life",
     "description": "Describe your routine and preferences.",
     "teacher_intro": "Welcome to lesson 30: Review: a day in your life. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into review: a day in your life. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is review: a day in your life. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into review: a day in your life. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 31,
@@ -538,13 +1535,46 @@
     "title": "Ordering in a café",
     "description": "Order drinks and simple food politely.",
     "teacher_intro": "Welcome to lesson 31: Ordering in a café. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into ordering in a café. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is ordering in a café. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into ordering in a café. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 32,
@@ -552,13 +1582,46 @@
     "title": "Eating at a restaurant",
     "description": "Ask about dishes, prices and the bill.",
     "teacher_intro": "Welcome to lesson 32: Eating at a restaurant. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into eating at a restaurant. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is eating at a restaurant. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into eating at a restaurant. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 33,
@@ -566,13 +1629,46 @@
     "title": "Shopping and prices",
     "description": "Ask how much something costs and understand amounts.",
     "teacher_intro": "Welcome to lesson 33: Shopping and prices. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into shopping and prices. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is shopping and prices. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into shopping and prices. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 34,
@@ -580,13 +1676,46 @@
     "title": "Transport",
     "description": "Use common phrases for taxis, buses and getting around.",
     "teacher_intro": "Welcome to lesson 34: Transport. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into transport. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is transport. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into transport. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 35,
@@ -594,13 +1723,46 @@
     "title": "Directions",
     "description": "Ask for and understand simple directions.",
     "teacher_intro": "Welcome to lesson 35: Directions. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into directions. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is directions. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into directions. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 36,
@@ -608,13 +1770,46 @@
     "title": "At the market",
     "description": "Buy everyday items and quantities.",
     "teacher_intro": "Welcome to lesson 36: At the market. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into at the market. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is at the market. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into at the market. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 37,
@@ -622,13 +1817,46 @@
     "title": "Making plans",
     "description": "Suggest a time and arrange to meet.",
     "teacher_intro": "Welcome to lesson 37: Making plans. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into making plans. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is making plans. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into making plans. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 38,
@@ -636,13 +1864,46 @@
     "title": "Invitations",
     "description": "Invite someone and accept or decline politely.",
     "teacher_intro": "Welcome to lesson 38: Invitations. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into invitations. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is invitations. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into invitations. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 39,
@@ -650,13 +1911,46 @@
     "title": "At a hotel",
     "description": "Check in and ask for basic services.",
     "teacher_intro": "Welcome to lesson 39: At a hotel. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into at a hotel. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is at a hotel. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into at a hotel. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 40,
@@ -664,13 +1958,46 @@
     "title": "Review: getting around town",
     "description": "Role-play a day out using practical conversations.",
     "teacher_intro": "Welcome to lesson 40: Review: getting around town. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into review: getting around town. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is review: getting around town. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into review: getting around town. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 41,
@@ -678,13 +2005,46 @@
     "title": "Talking about the past",
     "description": "Use time expressions and đã in common past contexts.",
     "teacher_intro": "Welcome to lesson 41: Talking about the past. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into talking about the past. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is talking about the past. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into talking about the past. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 42,
@@ -692,13 +2052,46 @@
     "title": "Talking about the future",
     "description": "Use sẽ and time phrases to talk about plans.",
     "teacher_intro": "Welcome to lesson 42: Talking about the future. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into talking about the future. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is talking about the future. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into talking about the future. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 43,
@@ -706,13 +2099,46 @@
     "title": "What you are doing now",
     "description": "Use đang to describe actions in progress.",
     "teacher_intro": "Welcome to lesson 43: What you are doing now. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into what you are doing now. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is what you are doing now. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into what you are doing now. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 44,
@@ -720,13 +2146,46 @@
     "title": "Can, must and should",
     "description": "Use có thể, phải and nên.",
     "teacher_intro": "Welcome to lesson 44: Can, must and should. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into can, must and should. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is can, must and should. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into can, must and should. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 45,
@@ -734,13 +2193,46 @@
     "title": "Comparisons",
     "description": "Compare people, places and things.",
     "teacher_intro": "Welcome to lesson 45: Comparisons. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into comparisons. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is comparisons. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into comparisons. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 46,
@@ -748,13 +2240,46 @@
     "title": "Giving reasons",
     "description": "Connect ideas with vì, nên and nhưng.",
     "teacher_intro": "Welcome to lesson 46: Giving reasons. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into giving reasons. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is giving reasons. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into giving reasons. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 47,
@@ -762,13 +2287,46 @@
     "title": "Making requests",
     "description": "Ask people to do things politely.",
     "teacher_intro": "Welcome to lesson 47: Making requests. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into making requests. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is making requests. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into making requests. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 48,
@@ -776,13 +2334,46 @@
     "title": "Explaining problems",
     "description": "Describe simple problems and ask for help.",
     "teacher_intro": "Welcome to lesson 48: Explaining problems. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into explaining problems. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is explaining problems. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into explaining problems. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 49,
@@ -790,13 +2381,46 @@
     "title": "Opinions and preferences",
     "description": "Express and explain what you think.",
     "teacher_intro": "Welcome to lesson 49: Opinions and preferences. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into opinions and preferences. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is opinions and preferences. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into opinions and preferences. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 50,
@@ -804,13 +2428,46 @@
     "title": "Review: longer answers",
     "description": "Join sentences into more natural responses.",
     "teacher_intro": "Welcome to lesson 50: Review: longer answers. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into review: longer answers. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is review: longer answers. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into review: longer answers. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 51,
@@ -818,13 +2475,46 @@
     "title": "Meeting someone for the first time",
     "description": "Handle a longer introductory conversation.",
     "teacher_intro": "Welcome to lesson 51: Meeting someone for the first time. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into meeting someone for the first time. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is meeting someone for the first time. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into meeting someone for the first time. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 52,
@@ -832,13 +2522,46 @@
     "title": "Talking about your family and background",
     "description": "Give a short account of your life.",
     "teacher_intro": "Welcome to lesson 52: Talking about your family and background. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into talking about your family and background. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is talking about your family and background. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into talking about your family and background. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 53,
@@ -846,13 +2569,46 @@
     "title": "Work and study conversation",
     "description": "Discuss work, study and plans.",
     "teacher_intro": "Welcome to lesson 53: Work and study conversation. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into work and study conversation. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is work and study conversation. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into work and study conversation. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 54,
@@ -860,13 +2616,46 @@
     "title": "A full restaurant conversation",
     "description": "Handle ordering, questions and payment.",
     "teacher_intro": "Welcome to lesson 54: A full restaurant conversation. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into a full restaurant conversation. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is a full restaurant conversation. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into a full restaurant conversation. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 55,
@@ -874,13 +2663,46 @@
     "title": "Travel and unexpected situations",
     "description": "Ask for help and explain what you need.",
     "teacher_intro": "Welcome to lesson 55: Travel and unexpected situations. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into travel and unexpected situations. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is travel and unexpected situations. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into travel and unexpected situations. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 56,
@@ -888,13 +2710,46 @@
     "title": "Phone and messaging phrases",
     "description": "Use common expressions for calls and messages.",
     "teacher_intro": "Welcome to lesson 56: Phone and messaging phrases. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into phone and messaging phrases. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is phone and messaging phrases. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into phone and messaging phrases. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 57,
@@ -902,13 +2757,46 @@
     "title": "Natural responses and conversation fillers",
     "description": "Recognise common short responses in speech.",
     "teacher_intro": "Welcome to lesson 57: Natural responses and conversation fillers. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into natural responses and conversation fillers. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is natural responses and conversation fillers. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into natural responses and conversation fillers. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 58,
@@ -916,13 +2804,46 @@
     "title": "Listening: everyday dialogue",
     "description": "Understand connected Northern Vietnamese speech.",
     "teacher_intro": "Welcome to lesson 58: Listening: everyday dialogue. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into listening: everyday dialogue. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is listening: everyday dialogue. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into listening: everyday dialogue. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 59,
@@ -930,13 +2851,46 @@
     "title": "Tell a short story",
     "description": "Describe an event in a simple sequence.",
     "teacher_intro": "Welcome to lesson 59: Tell a short story. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into tell a short story. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is tell a short story. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into tell a short story. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   },
   {
     "id": 60,
@@ -944,26 +2898,45 @@
     "title": "Final conversation practice",
     "description": "Combine the course language in extended role-plays.",
     "teacher_intro": "Welcome to lesson 60: Final conversation practice. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
+    "background": "This lesson extends the core sentence-building patterns into final conversation practice. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks.",
+    "culture": "The lesson includes a practical note on how this expression is used in contemporary Northern Vietnamese, including when a literal translation would sound unnatural.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build this step by step. Today's focus is final conversation practice. Listen to the prompt, pause, and make the sentence yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could you explain why Vietnamese says it that way?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This lesson extends the core sentence-building patterns into final conversation practice. The teacher will compare the Vietnamese structure with the English one and show how to reuse earlier building blocks."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I think I understand. Can I try saying it?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native pronunciation recording for this lesson will be inserted here."
+      }
+    ],
+    "cards": [
+      {
+        "english": "Build a sentence using today's new pattern.",
+        "vietnamese": "[Course script to be completed]",
+        "pronunciation": "Native audio required",
+        "note": "This is a lesson placeholder, not a recorded or final teaching example."
+      }
+    ],
     "audio": {
       "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
     },
-    "recording_status": "Recording required"
-  },
-  {
-    "id": 61,
-    "unit": "Real-world Vietnamese",
-    "title": "Course review and next steps",
-    "description": "Review core structures and plan further study.",
-    "teacher_intro": "Welcome to lesson 61: Course review and next steps. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
-    "cards": [],
-    "audio": {
-      "teacher": null,
-      "vietnamese_slow": null,
-      "vietnamese_natural": null
-    },
-    "recording_status": "Recording required"
+    "recording_status": "Script framework only — recording not yet supplied"
   }
 ]
