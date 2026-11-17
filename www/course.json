@@ -1,0 +1,969 @@
+[
+  {
+    "id": 1,
+    "unit": "Foundations",
+    "title": "Vietnamese sounds and spelling",
+    "description": "Learn the alphabet, familiar letter combinations and basic spelling.",
+    "teacher_intro": "Welcome to lesson 1: Vietnamese sounds and spelling. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [
+      {
+        "english": "Hello.",
+        "vietnamese": "Xin chào.",
+        "pronunciation": "sin chào",
+        "note": "A common, polite greeting."
+      },
+      {
+        "english": "Thank you.",
+        "vietnamese": "Cảm ơn.",
+        "pronunciation": "kảm ơn",
+        "note": "A standard way to say thank you."
+      },
+      {
+        "english": "Goodbye.",
+        "vietnamese": "Tạm biệt.",
+        "pronunciation": "tạm biệ t",
+        "note": "A common way to say goodbye."
+      }
+    ],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 2,
+    "unit": "Foundations",
+    "title": "The six tones",
+    "description": "Hear and practise the six Northern Vietnamese tones.",
+    "teacher_intro": "Welcome to lesson 2: The six tones. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [
+      {
+        "english": "flat tone",
+        "vietnamese": "ma",
+        "pronunciation": "ma",
+        "note": "Level voice."
+      },
+      {
+        "english": "rising tone",
+        "vietnamese": "má",
+        "pronunciation": "má",
+        "note": "Rising voice."
+      },
+      {
+        "english": "falling tone",
+        "vietnamese": "mà",
+        "pronunciation": "mà",
+        "note": "Falling voice."
+      },
+      {
+        "english": "dipping-rising tone",
+        "vietnamese": "mả",
+        "pronunciation": "mả",
+        "note": "Dipping then rising voice."
+      },
+      {
+        "english": "broken rising tone",
+        "vietnamese": "mã",
+        "pronunciation": "mã",
+        "note": "Creaky/broken rising contour."
+      },
+      {
+        "english": "heavy tone",
+        "vietnamese": "mạ",
+        "pronunciation": "mạ",
+        "note": "Short, low, constricted voice."
+      }
+    ],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 3,
+    "unit": "Foundations",
+    "title": "Vowels and difficult consonants",
+    "description": "Practise ă, â, ê, ô, ơ, ư and common consonant contrasts.",
+    "teacher_intro": "Welcome to lesson 3: Vowels and difficult consonants. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 4,
+    "unit": "Foundations",
+    "title": "Your first greetings",
+    "description": "Say hello, goodbye and ask how someone is.",
+    "teacher_intro": "Welcome to lesson 4: Your first greetings. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [
+      {
+        "english": "Hello.",
+        "vietnamese": "Xin chào.",
+        "pronunciation": "sin chào",
+        "note": "Polite greeting."
+      },
+      {
+        "english": "How are you?",
+        "vietnamese": "Bạn khỏe không?",
+        "pronunciation": "bạn khỏe không",
+        "note": "A basic question; address terms vary by relationship."
+      },
+      {
+        "english": "I'm fine.",
+        "vietnamese": "Tôi khỏe.",
+        "pronunciation": "tôi khỏe",
+        "note": "A simple response."
+      }
+    ],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 5,
+    "unit": "Foundations",
+    "title": "Introducing yourself",
+    "description": "Say your name and ask another person's name.",
+    "teacher_intro": "Welcome to lesson 5: Introducing yourself. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [
+      {
+        "english": "My name is ...",
+        "vietnamese": "Tên tôi là ...",
+        "pronunciation": "tên tôi là",
+        "note": "Use this to introduce your name."
+      },
+      {
+        "english": "What is your name?",
+        "vietnamese": "Bạn tên là gì?",
+        "pronunciation": "bạn tên là gì",
+        "note": "A basic way to ask someone's name."
+      },
+      {
+        "english": "I'm ...",
+        "vietnamese": "Tôi là ...",
+        "pronunciation": "tôi là",
+        "note": "Use là to identify yourself."
+      }
+    ],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 6,
+    "unit": "Foundations",
+    "title": "Where are you from?",
+    "description": "Say your nationality and where you live.",
+    "teacher_intro": "Welcome to lesson 6: Where are you from?. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [
+      {
+        "english": "I'm from Tanzania.",
+        "vietnamese": "Tôi đến từ Tanzania.",
+        "pronunciation": "tôi đến từ Tanzania",
+        "note": "Use đến từ for 'come from'."
+      },
+      {
+        "english": "I live in Australia.",
+        "vietnamese": "Tôi sống ở Úc.",
+        "pronunciation": "tôi sống ở Úc",
+        "note": "Úc means Australia."
+      },
+      {
+        "english": "I'm Tanzanian but I live in Australia.",
+        "vietnamese": "Tôi là người Tanzania nhưng sống ở Úc.",
+        "pronunciation": "tôi là người Tanzania nhưng sống ở Úc",
+        "note": "A longer sentence joining identity and where you live."
+      }
+    ],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 7,
+    "unit": "Foundations",
+    "title": "Polite words",
+    "description": "Use please, thank you, sorry and excuse me naturally.",
+    "teacher_intro": "Welcome to lesson 7: Polite words. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 8,
+    "unit": "Foundations",
+    "title": "Numbers 0–20",
+    "description": "Count, ask and answer simple number questions.",
+    "teacher_intro": "Welcome to lesson 8: Numbers 0–20. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 9,
+    "unit": "Foundations",
+    "title": "Age and basic details",
+    "description": "Ask and answer someone's age and simple personal details.",
+    "teacher_intro": "Welcome to lesson 9: Age and basic details. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 10,
+    "unit": "Foundations",
+    "title": "Review: first conversation",
+    "description": "Combine greetings, names, nationality and numbers.",
+    "teacher_intro": "Welcome to lesson 10: Review: first conversation. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 11,
+    "unit": "Sentence building",
+    "title": "Vietnamese word order",
+    "description": "Build simple subject–verb–object sentences.",
+    "teacher_intro": "Welcome to lesson 11: Vietnamese word order. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 12,
+    "unit": "Sentence building",
+    "title": "The verb 'to be' and identity",
+    "description": "Use là to identify people and things.",
+    "teacher_intro": "Welcome to lesson 12: The verb 'to be' and identity. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 13,
+    "unit": "Sentence building",
+    "title": "People and pronouns",
+    "description": "Choose common forms of address for different relationships.",
+    "teacher_intro": "Welcome to lesson 13: People and pronouns. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 14,
+    "unit": "Sentence building",
+    "title": "Making a sentence negative",
+    "description": "Use không to make simple negative statements.",
+    "teacher_intro": "Welcome to lesson 14: Making a sentence negative. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 15,
+    "unit": "Sentence building",
+    "title": "Yes/no questions",
+    "description": "Turn statements into natural yes/no questions.",
+    "teacher_intro": "Welcome to lesson 15: Yes/no questions. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 16,
+    "unit": "Sentence building",
+    "title": "What, who and where",
+    "description": "Ask questions with gì, ai and ở đâu.",
+    "teacher_intro": "Welcome to lesson 16: What, who and where. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 17,
+    "unit": "Sentence building",
+    "title": "Possession with của",
+    "description": "Say what belongs to whom.",
+    "teacher_intro": "Welcome to lesson 17: Possession with của. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 18,
+    "unit": "Sentence building",
+    "title": "This, that and these",
+    "description": "Point out people and objects.",
+    "teacher_intro": "Welcome to lesson 18: This, that and these. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 19,
+    "unit": "Sentence building",
+    "title": "Adjectives and descriptions",
+    "description": "Describe people, places and objects.",
+    "teacher_intro": "Welcome to lesson 19: Adjectives and descriptions. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 20,
+    "unit": "Sentence building",
+    "title": "Review: build your own sentences",
+    "description": "Construct and transform sentences from English prompts.",
+    "teacher_intro": "Welcome to lesson 20: Review: build your own sentences. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 21,
+    "unit": "Everyday life",
+    "title": "Family members",
+    "description": "Talk about parents, siblings and relatives.",
+    "teacher_intro": "Welcome to lesson 21: Family members. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 22,
+    "unit": "Everyday life",
+    "title": "Work and occupations",
+    "description": "Say what you do and ask about someone's work.",
+    "teacher_intro": "Welcome to lesson 22: Work and occupations. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 23,
+    "unit": "Everyday life",
+    "title": "Daily routines",
+    "description": "Describe a normal day using common verbs.",
+    "teacher_intro": "Welcome to lesson 23: Daily routines. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 24,
+    "unit": "Everyday life",
+    "title": "Time and days",
+    "description": "Ask the time and talk about days of the week.",
+    "teacher_intro": "Welcome to lesson 24: Time and days. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 25,
+    "unit": "Everyday life",
+    "title": "At home",
+    "description": "Name rooms, furniture and household objects.",
+    "teacher_intro": "Welcome to lesson 25: At home. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 26,
+    "unit": "Everyday life",
+    "title": "Food and drink",
+    "description": "Say what you eat and drink and what you like.",
+    "teacher_intro": "Welcome to lesson 26: Food and drink. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 27,
+    "unit": "Everyday life",
+    "title": "Likes and dislikes",
+    "description": "Use thích and không thích in useful sentences.",
+    "teacher_intro": "Welcome to lesson 27: Likes and dislikes. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 28,
+    "unit": "Everyday life",
+    "title": "Hobbies and free time",
+    "description": "Talk about activities and interests.",
+    "teacher_intro": "Welcome to lesson 28: Hobbies and free time. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 29,
+    "unit": "Everyday life",
+    "title": "Weather",
+    "description": "Describe the weather and ask what it is like.",
+    "teacher_intro": "Welcome to lesson 29: Weather. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 30,
+    "unit": "Everyday life",
+    "title": "Review: a day in your life",
+    "description": "Describe your routine and preferences.",
+    "teacher_intro": "Welcome to lesson 30: Review: a day in your life. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 31,
+    "unit": "Practical conversations",
+    "title": "Ordering in a café",
+    "description": "Order drinks and simple food politely.",
+    "teacher_intro": "Welcome to lesson 31: Ordering in a café. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 32,
+    "unit": "Practical conversations",
+    "title": "Eating at a restaurant",
+    "description": "Ask about dishes, prices and the bill.",
+    "teacher_intro": "Welcome to lesson 32: Eating at a restaurant. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 33,
+    "unit": "Practical conversations",
+    "title": "Shopping and prices",
+    "description": "Ask how much something costs and understand amounts.",
+    "teacher_intro": "Welcome to lesson 33: Shopping and prices. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 34,
+    "unit": "Practical conversations",
+    "title": "Transport",
+    "description": "Use common phrases for taxis, buses and getting around.",
+    "teacher_intro": "Welcome to lesson 34: Transport. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 35,
+    "unit": "Practical conversations",
+    "title": "Directions",
+    "description": "Ask for and understand simple directions.",
+    "teacher_intro": "Welcome to lesson 35: Directions. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 36,
+    "unit": "Practical conversations",
+    "title": "At the market",
+    "description": "Buy everyday items and quantities.",
+    "teacher_intro": "Welcome to lesson 36: At the market. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 37,
+    "unit": "Practical conversations",
+    "title": "Making plans",
+    "description": "Suggest a time and arrange to meet.",
+    "teacher_intro": "Welcome to lesson 37: Making plans. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 38,
+    "unit": "Practical conversations",
+    "title": "Invitations",
+    "description": "Invite someone and accept or decline politely.",
+    "teacher_intro": "Welcome to lesson 38: Invitations. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 39,
+    "unit": "Practical conversations",
+    "title": "At a hotel",
+    "description": "Check in and ask for basic services.",
+    "teacher_intro": "Welcome to lesson 39: At a hotel. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 40,
+    "unit": "Practical conversations",
+    "title": "Review: getting around town",
+    "description": "Role-play a day out using practical conversations.",
+    "teacher_intro": "Welcome to lesson 40: Review: getting around town. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 41,
+    "unit": "Expanding your speech",
+    "title": "Talking about the past",
+    "description": "Use time expressions and đã in common past contexts.",
+    "teacher_intro": "Welcome to lesson 41: Talking about the past. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 42,
+    "unit": "Expanding your speech",
+    "title": "Talking about the future",
+    "description": "Use sẽ and time phrases to talk about plans.",
+    "teacher_intro": "Welcome to lesson 42: Talking about the future. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 43,
+    "unit": "Expanding your speech",
+    "title": "What you are doing now",
+    "description": "Use đang to describe actions in progress.",
+    "teacher_intro": "Welcome to lesson 43: What you are doing now. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 44,
+    "unit": "Expanding your speech",
+    "title": "Can, must and should",
+    "description": "Use có thể, phải and nên.",
+    "teacher_intro": "Welcome to lesson 44: Can, must and should. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 45,
+    "unit": "Expanding your speech",
+    "title": "Comparisons",
+    "description": "Compare people, places and things.",
+    "teacher_intro": "Welcome to lesson 45: Comparisons. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 46,
+    "unit": "Expanding your speech",
+    "title": "Giving reasons",
+    "description": "Connect ideas with vì, nên and nhưng.",
+    "teacher_intro": "Welcome to lesson 46: Giving reasons. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 47,
+    "unit": "Expanding your speech",
+    "title": "Making requests",
+    "description": "Ask people to do things politely.",
+    "teacher_intro": "Welcome to lesson 47: Making requests. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 48,
+    "unit": "Expanding your speech",
+    "title": "Explaining problems",
+    "description": "Describe simple problems and ask for help.",
+    "teacher_intro": "Welcome to lesson 48: Explaining problems. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 49,
+    "unit": "Expanding your speech",
+    "title": "Opinions and preferences",
+    "description": "Express and explain what you think.",
+    "teacher_intro": "Welcome to lesson 49: Opinions and preferences. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 50,
+    "unit": "Expanding your speech",
+    "title": "Review: longer answers",
+    "description": "Join sentences into more natural responses.",
+    "teacher_intro": "Welcome to lesson 50: Review: longer answers. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 51,
+    "unit": "Real-world Vietnamese",
+    "title": "Meeting someone for the first time",
+    "description": "Handle a longer introductory conversation.",
+    "teacher_intro": "Welcome to lesson 51: Meeting someone for the first time. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 52,
+    "unit": "Real-world Vietnamese",
+    "title": "Talking about your family and background",
+    "description": "Give a short account of your life.",
+    "teacher_intro": "Welcome to lesson 52: Talking about your family and background. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 53,
+    "unit": "Real-world Vietnamese",
+    "title": "Work and study conversation",
+    "description": "Discuss work, study and plans.",
+    "teacher_intro": "Welcome to lesson 53: Work and study conversation. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 54,
+    "unit": "Real-world Vietnamese",
+    "title": "A full restaurant conversation",
+    "description": "Handle ordering, questions and payment.",
+    "teacher_intro": "Welcome to lesson 54: A full restaurant conversation. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 55,
+    "unit": "Real-world Vietnamese",
+    "title": "Travel and unexpected situations",
+    "description": "Ask for help and explain what you need.",
+    "teacher_intro": "Welcome to lesson 55: Travel and unexpected situations. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 56,
+    "unit": "Real-world Vietnamese",
+    "title": "Phone and messaging phrases",
+    "description": "Use common expressions for calls and messages.",
+    "teacher_intro": "Welcome to lesson 56: Phone and messaging phrases. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 57,
+    "unit": "Real-world Vietnamese",
+    "title": "Natural responses and conversation fillers",
+    "description": "Recognise common short responses in speech.",
+    "teacher_intro": "Welcome to lesson 57: Natural responses and conversation fillers. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 58,
+    "unit": "Real-world Vietnamese",
+    "title": "Listening: everyday dialogue",
+    "description": "Understand connected Northern Vietnamese speech.",
+    "teacher_intro": "Welcome to lesson 58: Listening: everyday dialogue. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 59,
+    "unit": "Real-world Vietnamese",
+    "title": "Tell a short story",
+    "description": "Describe an event in a simple sequence.",
+    "teacher_intro": "Welcome to lesson 59: Tell a short story. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 60,
+    "unit": "Real-world Vietnamese",
+    "title": "Final conversation practice",
+    "description": "Combine the course language in extended role-plays.",
+    "teacher_intro": "Welcome to lesson 60: Final conversation practice. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  },
+  {
+    "id": 61,
+    "unit": "Real-world Vietnamese",
+    "title": "Course review and next steps",
+    "description": "Review core structures and plan further study.",
+    "teacher_intro": "Welcome to lesson 61: Course review and next steps. I will explain the idea in English. Listen, think about the Vietnamese sentence, and say your answer aloud before revealing it.",
+    "cards": [],
+    "audio": {
+      "teacher": null,
+      "vietnamese_slow": null,
+      "vietnamese_natural": null
+    },
+    "recording_status": "Recording required"
+  }
+]
