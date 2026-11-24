@@ -4453,14 +4453,30 @@
     "id": 9,
     "unit": "Foundations",
     "title": "Age and basic details",
-    "description": "Ask and answer age and give a simple personal detail.",
-    "teacher_intro": "Now use numbers to talk about age. Vietnamese expresses age without a separate word for 'am' in this pattern. Build the question first, then answer it.",
-    "background": "Tuổi means age or years of age. Bao nhiêu means how many/how much. The pattern bạn bao nhiêu tuổi? is a straightforward learner question.",
-    "culture": "Age can help Vietnamese speakers choose suitable pronouns and forms of address. In some situations asking age early is practical rather than intrusive, because it helps establish whether to use anh, chị, em, cô, chú and so on.",
+    "description": "A 45–60 minute lesson on asking and answering age, names, origin, current residence, work and languages, then combining the details in a natural first-meeting introduction.",
+    "teacher_intro": "Welcome to Lesson 9: Age and basic details. Allow 45–60 minutes. We will ask and answer someone's age, say how old we are, ask simple personal questions and practise giving short answers. Follow Think, Speak, Reveal, Compare: pause and answer before the student voices respond.",
+    "background": "Tuổi means age or years of age. A simple age question is Bạn bao nhiêu tuổi? and the answer pattern is Tôi + number + tuổi, for example Tôi hai mươi tuổi (I am twenty years old). Vietnamese does not use a separate equivalent of the English verb 'am' in this pattern. Bạn tên là gì? asks someone's name; Tôi tên là… or Tên tôi là… gives it. Bạn sống ở đâu? asks where someone currently lives; Bạn đến từ đâu? asks where they come from. Tôi đến từ Tanzania nhưng sống ở Australia combines origin and current residence. Bạn làm nghề gì? asks about occupation; Bạn nói tiếng gì? asks what language someone speaks. Đang học means is learning; chưa means not yet.",
+    "culture": "Questions about age and personal details depend on context. Bạn bao nhiêu tuổi? is useful for classroom practice and familiar exchanges, but asking a stranger's age immediately may feel too personal. Vietnamese pronouns and forms of address reflect age, relationship and social context. Bạn is a convenient classroom default, but real speakers may use anh, chị, em, cô, chú, bác or other relationship terms. Distinguish origin (đến từ) from current residence (sống ở) and workplace (làm việc ở). These are different facts and should be answered with the matching phrase. Học sinh generally refers to school pupils, while sinh viên generally refers to university or college students. Treat the sample names, ages and locations as practice examples rather than personal information that must be shared.",
     "dialogue": [
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "To ask how old someone is, begin with bạn. Add bao nhiêu — how many. Finish with tuổi — years of age."
+        "line": "Welcome to Lesson 9: Age and basic details. This is a 45–60 minute lesson. We will ask and answer someone's age, say how old we are, ask simple personal questions and practise giving short answers. Follow Think, Speak, Reveal, Compare: pause and answer before the student voices respond."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I know numbers to twenty now. Can I use them to talk about my age?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. Today we will combine those numbers with tuổi, the word for age or years of age. First listen: tuổi."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "To ask someone's age in a simple classroom exchange, you can say Bạn bao nhiêu tuổi? — How old are you?"
       },
       {
         "speaker": "STUDENT 1",
@@ -4468,19 +4484,495 @@
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Good. To answer, say tôi, then your number, then tuổi. You do not need là here."
+        "line": "The answer pattern is Tôi … tuổi. For example, Tôi hai mươi tuổi — I am twenty years old."
       },
       {
         "speaker": "STUDENT 2",
-        "line": "Tôi ba mươi tuổi."
+        "line": "Tôi hai mươi tuổi."
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Exactly. Notice the difference: tôi là người Tanzania, but tôi ba mươi tuổi. Do not insert là just because English says 'I am'."
+        "line": "Notice that Vietnamese does not need a separate verb equivalent to am in this age pattern. Say the pronoun, number and tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Try another age: I am eighteen years old."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi mười tám tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. I am fifteen years old."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi mười lăm tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Remember the special number form: fifteen is mười lăm."
       },
       {
         "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
-        "line": "Native recording slot: age question and answers with several numbers. No recording is included yet."
+        "line": "Recording prompt — Bạn bao nhiêu tuổi? / Tôi hai mươi tuổi. Record the question and answer slowly, then in a natural conversational rhythm. Audio is not included yet."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask your partner's age."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn bao nhiêu tuổi?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi mười tám tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now swap roles. Ask and answer with a different age."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn bao nhiêu tuổi?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi hai mươi tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. In real life, age questions depend on relationship and context. It is not always appropriate to ask a stranger's age immediately. The classroom pattern is for practice."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's add a question about someone's name. Bạn tên là gì? means What is your name?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn tên là gì?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A simple answer is Tôi tên là… — My name is…"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi tên là An."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. You can also say Tên tôi là An. Both patterns are useful."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tên tôi là An."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask where someone lives: Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Answer: Tôi sống ở Australia — I live in Australia."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi sống ở Australia."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Sống means live; ở introduces the place in this sentence."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask where someone comes from: Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Answer: Tôi đến từ Tanzania — I come from Tanzania."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Keep the difference clear: đến từ asks about origin; sống ở asks where someone lives now."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You can combine the two facts: Tôi đến từ Tanzania nhưng sống ở Australia — I am from Tanzania but live in Australia."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania nhưng sống ở Australia."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Nhưng means but. This is a natural way to contrast origin and current residence."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask about someone's work or study. Bạn làm nghề gì? means What do you do for a living?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn làm nghề gì?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A simple answer can be Tôi là giáo viên — I am a teacher. Nghề means profession or occupation."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là giáo viên."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "If you are a student, you can say Tôi là học sinh or Tôi là sinh viên, depending on the educational context."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi là sinh viên."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Học sinh is generally used for school pupils; sinh viên is generally used for university or college students."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You can also ask Bạn làm việc ở đâu? — Where do you work?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn làm việc ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Answer: Tôi làm việc ở Sydney — I work in Sydney."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi làm việc ở Sydney."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Làm việc means work. This is a different question from Bạn sống ở đâu? — Where do you live?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's practise a few basic personal details. Bạn có gia đình chưa? can ask whether someone has a family yet, but it may be personal. For this course, we will focus on less sensitive everyday details."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "What other simple details can I ask?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You can ask Bạn nói tiếng gì? — What language do you speak?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn nói tiếng gì?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A simple answer is Tôi nói tiếng Anh — I speak English."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi nói tiếng Anh."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You can add another language with và, meaning and: Tôi nói tiếng Anh và tiếng Bồ Đào Nha — I speak English and Portuguese."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi nói tiếng Anh và tiếng Bồ Đào Nha."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Tiếng introduces a language name. Tiếng Anh is English; tiếng Việt is Vietnamese; tiếng Bồ Đào Nha is Portuguese."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask whether someone speaks Vietnamese: Bạn nói tiếng Việt không?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn nói tiếng Việt không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A positive answer is Có, tôi nói một chút — Yes, I speak a little."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Có, tôi nói một chút."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A negative answer is Không, tôi chưa nói tiếng Việt tốt — No, I don't speak Vietnamese well yet. Chưa means not yet."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không, tôi chưa nói tiếng Việt tốt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. You can also say Tôi đang học tiếng Việt — I am learning Vietnamese. Đang marks an action in progress."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đang học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now we will build a short personal introduction. Listen once, then repeat it in sections."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Tôi tên là An. Tôi đến từ Tanzania nhưng sống ở Australia. Tôi nói tiếng Anh và đang học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. That introduction gives a name, origin, current residence, a language and something you are learning."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Add age to the introduction: Tôi hai mươi tuổi. Put it after your name if you want."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Tôi tên là An. Tôi hai mươi tuổi. Tôi đến từ Tanzania nhưng sống ở Australia."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Now make the same introduction with a different age and place."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin chào. Tôi tên là Minh. Tôi mười tám tuổi. Tôi sống ở Hà Nội."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Hà Nội is a place name. Remember to pronounce the tones clearly."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording prompt — model the two full introductions at slow teaching speed and natural conversational speed. Leave a pause after each sentence for learners to repeat. Audio has not yet been recorded."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now a question-and-answer drill. Ask: How old are you?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn bao nhiêu tuổi?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi mười chín tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask: What is your name?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn tên là gì?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi tên là An."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask: Where do you live?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi sống ở Australia."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask: Where are you from?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask: What language do you speak?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn nói tiếng gì?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi nói tiếng Anh."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask: What do you do?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn làm nghề gì?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là giáo viên."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now listen to the difference between these three questions: Bạn bao nhiêu tuổi? (How old are you?), Bạn sống ở đâu? (Where do you live?), and Bạn đến từ đâu? (Where are you from?). They ask for different information."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Age, current home and origin."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Do not answer all three with the same place or number. Listen to the question word and phrase."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's practise numbers inside age answers. I will say an age in English. Answer in Vietnamese."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Twenty-one. For now, use the number pattern you know and say tuổi after it."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Hai mươi mốt tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Mốt is used for one in certain numbers after twenty. We will study numbers beyond twenty in a later lesson; for now, learn this age phrase as a useful example."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Twenty-two."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Hai mươi hai tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Twenty-five."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Hai mươi lăm tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Lăm is used in the five position in this compound number too. We will practise larger numbers in a later lesson."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now practise a polite age question with an older person. Rather than using bạn, you may use an appropriate relationship term such as anh or chị, depending on the person and your relationship. For this exercise, repeat the structure with bạn."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn bao nhiêu tuổi?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. In real conversation, choose the form of address carefully. Age and social relationship affect pronoun choice in Vietnamese."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now a mini-dialogue. Student 1 is meeting Student 2 for the first time. Ask the questions naturally, not as a rapid list."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Bạn tên là gì?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi tên là Minh. Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi tên là An."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn bao nhiêu tuổi?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi hai mươi tuổi. Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi mười tám tuổi."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Việt Nam. Tôi sống ở Hà Nội."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania nhưng sống ở Australia."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn nói tiếng Việt không?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Có, tôi đang học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. You have made a first-meeting conversation using greetings, names, age, origin, residence and language learning."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Final challenge. Without reading, introduce yourself in five sentences: your name, age, where you come from, where you live and a language you speak or are learning."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Tôi tên là An. Tôi hai mươi tuổi. Tôi đến từ Tanzania nhưng sống ở Australia. Tôi nói tiếng Anh và đang học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Well done. Review the age question and the difference between origin and current residence. Lesson 10 will bring the first-conversation skills together in a review."
       }
     ],
     "cards": [
@@ -4488,34 +4980,154 @@
         "english": "How old are you?",
         "vietnamese": "Bạn bao nhiêu tuổi?",
         "pronunciation": "bạn bao nhiêu tuổi",
-        "note": "Bao nhiêu = how many; tuổi = age."
+        "note": "A simple classroom age question."
       },
       {
-        "english": "I'm thirty years old.",
-        "vietnamese": "Tôi ba mươi tuổi.",
-        "pronunciation": "tôi ba mươi tuổi",
-        "note": "No là is needed in this age pattern."
+        "english": "I am twenty years old.",
+        "vietnamese": "Tôi hai mươi tuổi.",
+        "pronunciation": "tôi hai mươi tuổi",
+        "note": "Tôi + number + tuổi. Vietnamese does not need a separate 'am' here."
       },
       {
-        "english": "I'm twenty-five years old.",
-        "vietnamese": "Tôi hai mươi lăm tuổi.",
-        "pronunciation": "tôi hai mươi lăm tuổi",
-        "note": "Reuse the number pattern from lesson 8."
+        "english": "I am eighteen years old.",
+        "vietnamese": "Tôi mười tám tuổi.",
+        "pronunciation": "tôi mười tám tuổi",
+        "note": "Mười tám is eighteen."
       },
       {
-        "english": "How many years?",
-        "vietnamese": "Bao nhiêu tuổi?",
-        "pronunciation": "bao nhiêu tuổi",
-        "note": "A shortened form can occur when the context is already clear."
+        "english": "I am fifteen years old.",
+        "vietnamese": "Tôi mười lăm tuổi.",
+        "pronunciation": "tôi mười lăm tuổi",
+        "note": "Fifteen uses the special form mười lăm."
+      },
+      {
+        "english": "What is your name?",
+        "vietnamese": "Bạn tên là gì?",
+        "pronunciation": "bạn tên là gì",
+        "note": "A useful first-meeting question."
+      },
+      {
+        "english": "My name is An.",
+        "vietnamese": "Tôi tên là An.",
+        "pronunciation": "tôi tên là an",
+        "note": "Tôi tên là… means my name is…"
+      },
+      {
+        "english": "Where do you live?",
+        "vietnamese": "Bạn sống ở đâu?",
+        "pronunciation": "bạn sống ở đâu",
+        "note": "Sống means live; this asks about current residence."
+      },
+      {
+        "english": "I live in Australia.",
+        "vietnamese": "Tôi sống ở Australia.",
+        "pronunciation": "tôi sống ở australia",
+        "note": "A current-residence answer."
+      },
+      {
+        "english": "Where are you from?",
+        "vietnamese": "Bạn đến từ đâu?",
+        "pronunciation": "bạn đến từ đâu",
+        "note": "Đến từ asks about origin."
+      },
+      {
+        "english": "I come from Tanzania.",
+        "vietnamese": "Tôi đến từ Tanzania.",
+        "pronunciation": "tôi đến từ tanzania",
+        "note": "An origin answer."
+      },
+      {
+        "english": "I am from Tanzania but live in Australia.",
+        "vietnamese": "Tôi đến từ Tanzania nhưng sống ở Australia.",
+        "pronunciation": "tôi đến từ tanzania nhưng sống ở australia",
+        "note": "Nhưng means but."
+      },
+      {
+        "english": "What do you do for a living?",
+        "vietnamese": "Bạn làm nghề gì?",
+        "pronunciation": "bạn làm nghề gì",
+        "note": "Nghề means profession or occupation."
       },
       {
         "english": "I am a teacher.",
         "vietnamese": "Tôi là giáo viên.",
         "pronunciation": "tôi là giáo viên",
-        "note": "Here là is used because you are identifying a role. Compare this with the age sentence."
+        "note": "Là links the subject to an identity or role."
+      },
+      {
+        "english": "Where do you work?",
+        "vietnamese": "Bạn làm việc ở đâu?",
+        "pronunciation": "bạn làm việc ở đâu",
+        "note": "Different from asking where someone lives."
+      },
+      {
+        "english": "I work in Sydney.",
+        "vietnamese": "Tôi làm việc ở Sydney.",
+        "pronunciation": "tôi làm việc ở sydney",
+        "note": "Làm việc means work."
+      },
+      {
+        "english": "What language do you speak?",
+        "vietnamese": "Bạn nói tiếng gì?",
+        "pronunciation": "bạn nói tiếng gì",
+        "note": "Tiếng gì asks which language."
+      },
+      {
+        "english": "I speak English.",
+        "vietnamese": "Tôi nói tiếng Anh.",
+        "pronunciation": "tôi nói tiếng anh",
+        "note": "Tiếng Anh means English."
+      },
+      {
+        "english": "I speak English and Portuguese.",
+        "vietnamese": "Tôi nói tiếng Anh và tiếng Bồ Đào Nha.",
+        "pronunciation": "tôi nói tiếng anh và tiếng bồ đào nha",
+        "note": "Và means and."
+      },
+      {
+        "english": "Do you speak Vietnamese?",
+        "vietnamese": "Bạn nói tiếng Việt không?",
+        "pronunciation": "bạn nói tiếng việt không",
+        "note": "Không at the end makes a yes-or-no question."
+      },
+      {
+        "english": "Yes, I speak a little.",
+        "vietnamese": "Có, tôi nói một chút.",
+        "pronunciation": "có, tôi nói một chút",
+        "note": "Một chút means a little."
+      },
+      {
+        "english": "I am learning Vietnamese.",
+        "vietnamese": "Tôi đang học tiếng Việt.",
+        "pronunciation": "tôi đang học tiếng việt",
+        "note": "Đang marks an action in progress."
+      },
+      {
+        "english": "I am twenty-one years old.",
+        "vietnamese": "Tôi hai mươi mốt tuổi.",
+        "pronunciation": "tôi hai mươi mốt tuổi",
+        "note": "Mốt is used for one in certain numbers after twenty."
+      },
+      {
+        "english": "I am twenty-five years old.",
+        "vietnamese": "Tôi hai mươi lăm tuổi.",
+        "pronunciation": "tôi hai mươi lăm tuổi",
+        "note": "Lăm is used for five in this compound number."
+      },
+      {
+        "english": "I am not good at Vietnamese yet.",
+        "vietnamese": "Tôi chưa nói tiếng Việt tốt.",
+        "pronunciation": "tôi chưa nói tiếng việt tốt",
+        "note": "Chưa means not yet."
+      },
+      {
+        "english": "My name is…",
+        "vietnamese": "Tên tôi là…",
+        "pronunciation": "tên tôi là",
+        "note": "An alternative to Tôi tên là…"
       }
     ],
-    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "recording_status": "Complete written 45–60 minute lesson script with Northern Vietnamese native-speaker recording prompts; actual teacher, student and native audio recordings have not yet been supplied.",
     "audio": {
       "teacher": null,
       "student_1": null,
