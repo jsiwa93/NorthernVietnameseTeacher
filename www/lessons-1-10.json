@@ -2989,22 +2989,174 @@
     "id": 7,
     "unit": "Foundations",
     "title": "Polite words",
-    "description": "Use thanks, apologies, excuse me and simple requests.",
-    "teacher_intro": "Politeness in Vietnamese is not only a list of magic words. It also comes from choosing the right way to address someone. First learn a few useful expressions, then notice how they fit into a relationship.",
-    "background": "Cảm ơn means 'thank you'. Xin lỗi is used for 'sorry' and can also get someone's attention politely. Làm ơn is a request expression similar to 'please'.",
-    "culture": "A phrase can be grammatically correct but still sound distant or overly formal if the pronouns do not fit. Listen to how Vietnamese speakers address one another, and learn the relationship terms alongside the phrases.",
+    "description": "A guided 45–60 minute lesson on thanking, apologising, getting attention, asking permission, requesting help and asking someone to repeat or explain. Practise complete, natural Northern Vietnamese exchanges.",
+    "teacher_intro": "Welcome to Lesson 7. Today you will learn to thank people, apologise, get someone's attention, ask for help, ask someone to repeat something and respond politely. Allow 45–60 minutes. Follow Think, Speak, Reveal, Compare: listen to the explanation, pause and answer aloud before comparing with the student voices. We use bạn and tôi as classroom defaults; real Vietnamese address terms depend on age, relationship and setting.",
+    "background": "Cảm ơn means thank you. Cảm ơn nhiều adds emphasis: thanks a lot. Không có gì is a common response to thanks, similar to you're welcome or it's nothing. Xin lỗi means sorry and can also politely attract someone's attention. Không sao reassures someone after an apology: it's okay or no problem. Làm ơn introduces a request, as in Làm ơn giúp tôi (Please help me). Xin phép signals asking permission or politely excusing yourself. Useful complete request patterns include Bạn có thể… không? (Can you…?) and Bạn có thể… được không? (Could you…?). Chưa means not yet; nói lại means say again; giải thích means explain; chậm hơn means more slowly; một chút means a little. Cho tôi… can introduce a request for an item. The exact choice of expression depends on context, tone and the relationship between speakers.",
+    "culture": "Vietnamese politeness is not carried by one word equivalent to English please. It is expressed through word choice, tone, the structure of a request and especially the way speakers address one another. Bạn is a useful classroom peer pronoun, but it is not a universal form of address. Vietnamese speakers commonly choose relationship terms such as anh, chị, em, cô, chú or bác according to age, familiarity and social relationship. Cảm ơn and xin lỗi are widely useful, but do not assume every English use of please, excuse me or you're welcome maps to one Vietnamese expression. Không có gì commonly responds to thanks; không sao commonly reassures after an apology. Làm ơn can sound direct if used without a suitable tone or context, so practise it as part of a complete courteous request. Observe how people around you speak and adapt your address terms to the situation.",
     "dialogue": [
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "To say thank you, use cảm ơn. Two syllables: cảm… ơn. Now say it as one smooth expression."
+        "line": "Welcome to Lesson 7. Today you will learn to thank people, apologise, get someone's attention, ask for help, ask someone to repeat something and respond politely. Allow 45–60 minutes. Our method is Think, Speak, Reveal, Compare: listen, pause, answer aloud, then compare."
       },
       {
         "speaker": "STUDENT 1",
+        "line": "I know cảm ơn and xin lỗi. Are those the main polite words?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "They are two essential expressions, but politeness also depends on your tone, the situation and the way you address the other person. We will build useful complete sentences, not just memorise isolated words."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "First expression: cảm ơn — thank you. Listen to both syllables: cảm ơn. Keep the written tone marks in mind."
+      },
+      {
+        "speaker": "STUDENT 2",
         "line": "Cảm ơn."
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "To apologise or politely get someone's attention, use xin lỗi. Now add 'please help me': làm ơn giúp tôi."
+        "line": "Good. Say it again clearly, without rushing the two syllables."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — cảm ơn. First say it slowly, then naturally, then repeat it three times. Actual audio recording is not included."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You can make your thanks a little stronger with nhiều: cảm ơn nhiều — thank you very much / thanks a lot."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Cảm ơn nhiều."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Another useful expression is cảm ơn bạn — thank you. Here bạn is the classroom word for you."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Cảm ơn bạn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now imagine someone thanks you. A common response is không có gì — you're welcome / it's nothing."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không có gì."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Listen to the difference in meaning. Không có gì is a natural response to thanks. Không sao often means it's okay or no problem, especially after an apology."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So I should not use them as if they were exactly the same."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Practise the exchange. I say cảm ơn bạn. You respond."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không có gì."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now reverse the roles. Thank your partner."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Cảm ơn bạn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không có gì."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. In a real conversation, the relationship pronouns may change. For now, bạn is our consistent classroom choice."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Our second key expression is xin lỗi. It can mean sorry, and it can also politely get someone's attention, similar to excuse me."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Repeat it slowly. Notice the hỏi tone mark in lỗi."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — xin lỗi. Record a careful version and a natural conversational version. Then model it as an apology and as a polite attention-getter. Actual recording is not included."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "If you accidentally bump into someone, you can say xin lỗi. The other person may reassure you with không sao — it's okay / no problem."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin lỗi."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không sao."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Now say: Sorry, I'm late. Use xin lỗi and tôi đến muộn."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin lỗi, tôi đến muộn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is a useful complete sentence. Đến muộn means to arrive late."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Try another apology: Sorry, I don't understand. Tôi chưa hiểu means I don't understand yet."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi, tôi chưa hiểu."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Chưa means not yet. This is a useful way to explain a difficulty without pretending you understood."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now let's get someone's attention politely. Xin lỗi, cho tôi hỏi… means Excuse me, may I ask…"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin lỗi, cho tôi hỏi…"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Cho tôi hỏi literally introduces a question you would like to ask. It is a useful phrase before asking for directions or information."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi, cho tôi hỏi, nhà vệ sinh ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. That means Excuse me, may I ask, where is the toilet? Nhà vệ sinh is a common polite term for toilet or restroom."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — Xin lỗi, cho tôi hỏi, nhà vệ sinh ở đâu? Model it as one smooth polite question, first slowly and then naturally. Actual recording is not included."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now requests. Làm ơn is a polite request expression similar to please. A simple example is làm ơn giúp tôi — please help me."
       },
       {
         "speaker": "STUDENT 2",
@@ -3012,11 +3164,363 @@
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Good. These are useful phrases. In real conversation, also choose an appropriate address term for the person you are speaking to."
+        "line": "Good. This is clear and direct. Help is giúp; tôi is me / I in this classroom pattern."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You can also put the request into a question: Bạn có thể giúp tôi không? — Can you help me?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn có thể giúp tôi không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Có thể means can or be able to. Không at the end makes this a yes-or-no question."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So the shape is Bạn có thể… không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Try: Can you speak more slowly? The sentence is Bạn có thể nói chậm hơn không?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn có thể nói chậm hơn không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Nói is speak; chậm hơn is more slowly. This sentence is especially useful when learning a language."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A slightly fuller version is Bạn có thể nói chậm hơn một chút được không? — Could you speak a little more slowly?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn có thể nói chậm hơn một chút được không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Một chút means a little. Được không is another way to ask whether something is possible or acceptable. Learn this as a complete polite request."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask someone to repeat something: Bạn có thể nói lại được không? — Could you say that again?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn có thể nói lại được không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Lại means again in this expression. You can also say Bạn nói lại được không? in a shorter conversational form."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn nói lại được không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now combine the expressions: Xin lỗi, bạn có thể nói lại được không?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi, bạn có thể nói lại được không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. You have used xin lỗi to soften the request, then asked the person to repeat."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Another useful phrase is Tôi không hiểu — I don't understand. But Tôi chưa hiểu — I don't understand yet — can sound more open to further explanation."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi chưa hiểu. Bạn có thể giải thích lại được không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Giải thích means explain. The full question asks whether the person can explain again."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's practise asking for something. Cho tôi… means give me… or let me have… depending on context. Add the item after it."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Cho tôi nước, please?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For a natural Vietnamese request, you can say Cho tôi nước, làm ơn. In a café, you may hear or use Cho tôi một cốc nước — give me a glass of water, please. The setting and tone matter."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Cho tôi một cốc nước, làm ơn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Một cốc nước means a glass of water. Remember that a bare request can sound direct, so use a friendly tone and an appropriate address term."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Another useful request is Bạn có thể cho tôi biết… không? — Could you tell me…?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn có thể cho tôi biết nhà vệ sinh ở đâu không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. That means Could you tell me where the toilet is? It is a longer but very practical question."
       },
       {
         "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
-        "line": "Native recording slot: thanks, apology and polite request in natural conversational intonation. No recording is included yet."
+        "line": "Recording script — Bạn có thể cho tôi biết nhà vệ sinh ở đâu không? Speak in a calm, courteous tone. Actual recording is not included."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now we will look at xin phép. Xin phép is used when asking permission or politely excusing yourself before doing something."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin phép."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For example, Xin phép, tôi đi trước nhé means Excuse me, I'll leave first, okay? This is a useful expression when leaving a gathering."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin phép, tôi đi trước nhé."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Nhé can soften a statement or invite agreement, depending on context. Here it makes the announcement feel conversational."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You may also hear Xin phép tôi… when someone is asking permission to do something. Listen for the phrase as a polite signal."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So xin lỗi is sorry or excuse me, while xin phép is asking permission or excusing myself."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is a useful first distinction. They can overlap in English translation, but their usual functions are different."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Politeness also comes from address terms. Bạn is useful between peers, but Vietnamese speakers often choose anh, chị, em, cô, chú or bác according to age and relationship."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Does that mean I should not call everyone bạn?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Bạn is our classroom default, not a universal word for every person in every situation. Observe how people address one another, and follow the relationship that fits."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For a simple practice exchange, keep using bạn. Say thank you to a classmate."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Cảm ơn bạn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không có gì."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now apologise for arriving late."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin lỗi, tôi đến muộn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không sao."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask for help."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn có thể giúp tôi không?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Được. Tôi giúp bạn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Được means okay / can do. Tôi giúp bạn means I will help you."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask someone to speak more slowly."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi, bạn có thể nói chậm hơn một chút được không?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Được, tôi sẽ nói chậm hơn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Tôi sẽ nói chậm hơn means I will speak more slowly. Sẽ marks a future action."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's do a listening-and-response drill. I will give the situation in English. Think first, then say the Vietnamese phrase aloud."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Situation one: Someone gives you directions. You want to say thank you very much."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Cảm ơn nhiều."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Situation two: You accidentally interrupt someone. Get their attention politely before asking a question."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin lỗi, cho tôi hỏi…"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Situation three: You did not hear the last sentence. Ask the person to repeat it."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi, bạn có thể nói lại được không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Situation four: Someone apologises for a small mistake. Reassure them."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Không sao."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Situation five: You need assistance carrying something. Ask politely."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn có thể giúp tôi không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Situation six: You are leaving before the others. Excuse yourself politely."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin phép, tôi đi trước nhé."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now compare the core expressions. Cảm ơn expresses thanks. Xin lỗi apologises or gets attention. Không sao reassures after an apology. Không có gì responds to thanks. Làm ơn introduces a request. Xin phép signals permission or excusing yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "The English translations sometimes overlap, so I need to remember the situation."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Context is part of meaning. Do not translate each phrase mechanically."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's build a short conversation in a public place. One person needs help finding the restroom."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi, cho tôi hỏi, nhà vệ sinh ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Nhà vệ sinh ở bên kia."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bên kia means over there / on the other side. The answer is a simple direction."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Cảm ơn bạn nhiều."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Không có gì."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now imagine you did not understand the direction. Ask for it again."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi, tôi chưa hiểu. Bạn có thể nói lại được không?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Được. Nhà vệ sinh ở bên kia."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. This is a complete practical exchange: attract attention, explain the difficulty, ask for repetition and thank the person."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — full public-place dialogue. Record each line separately, then the complete exchange at natural speed. Actual audio is not included."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Final speaking challenge. Without looking at the cards, say: thank you; you're welcome; sorry; no problem; please help me; could you repeat that; and excuse me, may I ask?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Cảm ơn. Không có gì. Xin lỗi. Không sao. Làm ơn giúp tôi. Bạn có thể nói lại được không? Xin lỗi, cho tôi hỏi…"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Finish by creating your own short conversation. Include one thank-you, one apology or attention-getter, and one polite request. Use bạn for the classroom partner, and speak with a calm, friendly tone."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi, bạn có thể giúp tôi không?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Được. Tôi giúp bạn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Cảm ơn bạn nhiều."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Không có gì."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That completes Lesson 7. Review the expressions aloud tomorrow, especially the difference between không có gì and không sao. In Lesson 8, we will learn numbers from zero to twenty and use them in simple questions."
       }
     ],
     "cards": [
@@ -3027,37 +3531,121 @@
         "note": "A core expression of thanks."
       },
       {
+        "english": "Thank you very much / thanks a lot.",
+        "vietnamese": "Cảm ơn nhiều.",
+        "pronunciation": "cảm ơn nhiều",
+        "note": "Nhiều means much or a lot."
+      },
+      {
+        "english": "Thank you.",
+        "vietnamese": "Cảm ơn bạn.",
+        "pronunciation": "cảm ơn bạn",
+        "note": "Bạn is the classroom peer pronoun."
+      },
+      {
+        "english": "You're welcome / it's nothing.",
+        "vietnamese": "Không có gì.",
+        "pronunciation": "không có gì",
+        "note": "A common response to someone thanking you."
+      },
+      {
         "english": "Sorry / excuse me.",
         "vietnamese": "Xin lỗi.",
         "pronunciation": "xin lỗi",
-        "note": "Can apologise or politely attract someone's attention."
+        "note": "Used to apologise or politely attract someone's attention."
+      },
+      {
+        "english": "It's okay / no problem.",
+        "vietnamese": "Không sao.",
+        "pronunciation": "không sao",
+        "note": "A common reassurance after an apology."
       },
       {
         "english": "Please help me.",
         "vietnamese": "Làm ơn giúp tôi.",
         "pronunciation": "làm ơn giúp tôi",
-        "note": "A clear request. In conversation, the pronoun may change with the relationship."
+        "note": "Làm ơn introduces a polite request; tôi is me/I."
       },
       {
-        "english": "No problem / that's okay.",
-        "vietnamese": "Không sao.",
-        "pronunciation": "không sao",
-        "note": "A common response to an apology. Literally, không = no/not; sao = problem/what is wrong in this expression."
+        "english": "Can you help me?",
+        "vietnamese": "Bạn có thể giúp tôi không?",
+        "pronunciation": "bạn có thể giúp tôi không",
+        "note": "A yes-or-no question using có thể… không."
       },
       {
-        "english": "Thank you very much.",
-        "vietnamese": "Cảm ơn nhiều.",
-        "pronunciation": "cảm ơn nhiều",
-        "note": "Nhiều means much/a lot. A simple way to strengthen your thanks."
+        "english": "Can you speak more slowly?",
+        "vietnamese": "Bạn có thể nói chậm hơn không?",
+        "pronunciation": "bạn có thể nói chậm hơn không",
+        "note": "Nói = speak; chậm hơn = more slowly."
+      },
+      {
+        "english": "Could you speak a little more slowly?",
+        "vietnamese": "Bạn có thể nói chậm hơn một chút được không?",
+        "pronunciation": "bạn có thể nói chậm hơn một chút được không",
+        "note": "Một chút means a little; được không makes a polite possibility question."
+      },
+      {
+        "english": "Could you say that again?",
+        "vietnamese": "Bạn có thể nói lại được không?",
+        "pronunciation": "bạn có thể nói lại được không",
+        "note": "Lại means again in this expression."
+      },
+      {
+        "english": "I don't understand yet.",
+        "vietnamese": "Tôi chưa hiểu.",
+        "pronunciation": "tôi chưa hiểu",
+        "note": "Chưa means not yet; useful when asking for clarification."
+      },
+      {
+        "english": "Excuse me, may I ask…?",
+        "vietnamese": "Xin lỗi, cho tôi hỏi…",
+        "pronunciation": "xin lỗi, cho tôi hỏi",
+        "note": "A polite way to get attention before asking a question."
       },
       {
         "english": "Excuse me, where is the toilet?",
         "vietnamese": "Xin lỗi, nhà vệ sinh ở đâu?",
         "pronunciation": "xin lỗi · nhà vệ sinh ở đâu",
-        "note": "A practical phrase. Nhà vệ sinh is a polite/common term for toilet or restroom."
+        "note": "Nhà vệ sinh is a common polite term for toilet/restroom."
+      },
+      {
+        "english": "Could you tell me where the toilet is?",
+        "vietnamese": "Bạn có thể cho tôi biết nhà vệ sinh ở đâu không?",
+        "pronunciation": "bạn có thể cho tôi biết nhà vệ sinh ở đâu không",
+        "note": "Cho tôi biết means tell me / let me know."
+      },
+      {
+        "english": "Please give me a glass of water.",
+        "vietnamese": "Cho tôi một cốc nước, làm ơn.",
+        "pronunciation": "cho tôi một cốc nước, làm ơn",
+        "note": "Một cốc nước means a glass of water; use a friendly tone."
+      },
+      {
+        "english": "Excuse me / may I…? (asking permission)",
+        "vietnamese": "Xin phép.",
+        "pronunciation": "xin phép",
+        "note": "Used to ask permission or politely excuse yourself before an action."
+      },
+      {
+        "english": "Excuse me, I'll leave first, okay?",
+        "vietnamese": "Xin phép, tôi đi trước nhé.",
+        "pronunciation": "xin phép, tôi đi trước nhé",
+        "note": "A conversational way to announce that you are leaving first."
+      },
+      {
+        "english": "I arrived late.",
+        "vietnamese": "Tôi đến muộn.",
+        "pronunciation": "tôi đến muộn",
+        "note": "Đến muộn means to arrive late."
+      },
+      {
+        "english": "Could you explain it again?",
+        "vietnamese": "Bạn có thể giải thích lại được không?",
+        "pronunciation": "bạn có thể giải thích lại được không",
+        "note": "Giải thích means explain; lại means again."
       }
     ],
-    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "recording_status": "Complete written 45–60 minute lesson script with native-speaker recording prompts; teacher, student and native audio recordings have not yet been supplied.",
     "audio": {
       "teacher": null,
       "student_1": null,
