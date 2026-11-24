@@ -509,5 +509,460 @@
       "native_slow": null,
       "native_natural": null
     }
+  },
+  {
+    "id": 12,
+    "unit": "Sentence building",
+    "title": "The verb 'to be' and identity",
+    "description": "Use là to identify people and things, and distinguish identity sentences from action sentences.",
+    "teacher_intro": "Welcome to Lesson 12. This 45–60 minute lesson teaches là in identity statements. You will learn how to say what someone is, introduce a name, express nationality, ask yes/no identity questions and form negative identity statements. The most important comparison is Tôi là giáo viên (I am a teacher) versus Tôi học tiếng Việt (I study Vietnamese).",
+    "background": "Là commonly links a subject to a noun phrase that identifies or classifies it: Tôi là học sinh (I am a student), Cô ấy là giáo viên (She is a teacher). It is not inserted before ordinary action verbs: Tôi học tiếng Việt, not *Tôi là học tiếng Việt. Vietnamese has no separate indefinite article equivalent to English 'a' in these simple identity statements. A common yes/no identity question is có phải là … không? A negative identity statement uses không phải là: Tôi không phải là sinh viên.",
+    "culture": "In Vietnamese, identity and relationship are often expressed through context-sensitive forms of address. Bạn is useful as a classroom default, but everyday speakers may use anh, chị, em, cô, chú and other kinship terms depending on age, relationship and setting. National identity can be expressed with người + country name, while origin can be expressed with đến từ. Residence uses an action verb such as sống. These distinctions help avoid treating nationality, birthplace and current home as the same idea.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Welcome to Lesson 12. Today we learn the Vietnamese word là. It is often translated as 'to be' when identifying or describing what someone or something is. We will compare identity sentences with action sentences, because they work differently."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So if I want to say 'I am a student', I use là?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Tôi là học sinh means 'I am a student'. The pattern is SUBJECT + là + IDENTITY or CATEGORY."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Listen to the parts: tôi — là — học sinh. Now say the complete sentence: Tôi là học sinh."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi là học sinh."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Now change the identity. Tôi là giáo viên means 'I am a teacher'. The structure stays the same."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Try 'I am a student of Vietnamese'. For our simple practice, say Tôi là học sinh tiếng Việt only if you mean a Vietnamese-language learner in a suitable context; a more natural expression is Tôi là người học tiếng Việt — I am a learner of Vietnamese."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là người học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Notice người học means learner, literally a person who learns."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now use a name. Tôi là Jeremiah means 'I am Jeremiah'. In an introduction, you can also simply say Tôi tên là Jeremiah — My name is Jeremiah. We will keep those patterns distinct."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So là can connect me with a name or an identity."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. It links the subject to a noun phrase or identity. Here are more examples: Anh ấy là bác sĩ — He is a doctor. Cô ấy là giáo viên — She is a teacher."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Vietnamese does not change là for I, you, he or she. It remains là."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là… Bạn là… Anh ấy là… Cô ấy là… The same word each time."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Now compare this with an action sentence. Tôi học tiếng Việt means 'I study Vietnamese'. Do not add là before the action verb học."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So Tôi là học tiếng Việt is wrong for 'I study Vietnamese'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Say Tôi học tiếng Việt. The verb học is already the action. Là is not a general word that you place before every verb."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Compare the two: Tôi là giáo viên — I am a teacher. Tôi dạy tiếng Việt — I teach Vietnamese. The first identifies what I am; the second tells you what I do."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Identity uses là; an action uses the action verb directly."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is today's most important distinction."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's practise occupations. Tôi là bác sĩ — I am a doctor. Tôi là nhân viên — I am an employee or staff member. Tôi là sinh viên — I am a university student."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Do I need an article like 'a' before the job?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "No separate word for English 'a' is normally used in these simple identity sentences. Say Tôi là bác sĩ, not a word-for-word translation with an extra article."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now say 'She is a student': Cô ấy là sinh viên."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Cô ấy là sinh viên."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. 'He is a teacher': Anh ấy là giáo viên."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Anh ấy là giáo viên."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now let's describe nationality or origin carefully. Tôi là người Tanzania means 'I am Tanzanian' or literally 'I am a Tanzania person'. Người before a country name can express nationality or a person's national origin."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là người Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. If you want to say 'I am from Tanzania', use Tôi đến từ Tanzania. That is an origin statement, not the same structure as an identity statement."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You can combine identity and residence: Tôi là người Tanzania, nhưng tôi sống ở Úc. I am Tanzanian, but I live in Australia."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "The first part uses là; the second part uses the action verb sống."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Listen to the whole sentence and repeat it naturally: Tôi là người Tanzania, nhưng tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now questions. To ask 'Are you a student?' you can say Bạn có phải là sinh viên không? This is a yes/no question pattern: có phải là … không?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So I keep là inside the identity phrase and put có phải before it, then không at the end."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. The full pattern is Bạn có phải là sinh viên không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A short answer can be: Vâng, tôi là sinh viên — Yes, I am a student. Or: Không, tôi không phải là sinh viên — No, I am not a student."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Is the negative form different from putting không at the end of the question?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. In a negative statement, không comes before phải: Tôi không phải là sinh viên. Do not confuse that with the question marker at the end."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's practise with occupations. Bạn có phải là giáo viên không? — Are you a teacher? Answer: Không, tôi không phải là giáo viên. Tôi là sinh viên."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không, tôi không phải là giáo viên. Tôi là sinh viên."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Now a useful contrast: Bạn là ai? means 'Who are you?' A simple answer is Tôi là Jeremiah."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn là ai? Tôi là Jeremiah."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. You can also ask Bạn làm nghề gì? — What do you do for work? That question uses làm, an action verb, not là."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A cultural and social note: Vietnamese forms of address are relationship-sensitive. In this beginner lesson, bạn is a convenient classroom 'you', but everyday speakers often choose kinship terms such as anh, chị, em or cô according to age, relationship and situation. We will practise those choices in a later lesson."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So the grammar pattern is useful, but I need to choose the right way to address the person."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Precisely. Now let's do a correction drill. Incorrect: Tôi học sinh. Add là to connect the subject and identity."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi là học sinh."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Incorrect: Tôi là học tiếng Việt. Remove là because học is an action verb."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Incorrect: Cô ấy giáo viên. Add là."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Cô ấy là giáo viên."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Incorrect: Tôi là người Tanzania nhưng tôi là sống ở Úc. Keep là in the identity phrase, but use sống directly for the action."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là người Tanzania, nhưng tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Now build a short introduction with three sentences: your name, your national origin, and where you live. Use Tôi tên là…, Tôi là người…, and Tôi sống ở…"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi tên là Jeremiah. Tôi là người Tanzania. Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Very good. If you want to connect the last two ideas, say Tôi là người Tanzania, nhưng tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now listen to a short exchange. A asks: Bạn là người nước nào? B answers: Tôi là người Tanzania. A asks: Bạn sống ở đâu? B answers: Tôi sống ở Úc."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn là người nước nào?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi là người Tanzania."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Notice the difference: người nước nào asks what nationality or country a person is from; sống ở đâu asks where they live."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Northern pronunciation practice. Listen for the tones in là, học, giáo viên, người, sống, nước and Úc. Repeat slowly first, then at natural speed."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording prompt — slow: Tôi là học sinh. Pause. Tôi là giáo viên. Pause. Anh ấy là bác sĩ. Pause. Tôi là người Tanzania. Pause. Tôi sống ở Úc."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording prompt — natural: Tôi là học sinh. Tôi học tiếng Việt. Cô ấy là giáo viên. Anh ấy là bác sĩ. Tôi là người Tanzania, nhưng tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Listen once without repeating. On the second pass, repeat each sentence. On the third pass, cover the text and produce the Vietnamese from the English meaning."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I understand the difference now. Là identifies what someone is; an action verb tells what someone does."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Final challenge: say one identity sentence, one action sentence, one negative identity sentence, and one sentence combining nationality with residence."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi là người Tanzania. Tôi học tiếng Việt. Tôi không phải là giáo viên. Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent work. In Lesson 13, we will develop people words and pronouns, including how to address people naturally in different relationships."
+      }
+    ],
+    "cards": [
+      {
+        "english": "I am a student.",
+        "vietnamese": "Tôi là học sinh.",
+        "pronunciation": "tôi là học sinh",
+        "note": "Identity pattern: subject + là + category."
+      },
+      {
+        "english": "I am a teacher.",
+        "vietnamese": "Tôi là giáo viên.",
+        "pronunciation": "tôi là giáo viên",
+        "note": "Là links the subject to an identity."
+      },
+      {
+        "english": "I am a university student.",
+        "vietnamese": "Tôi là sinh viên.",
+        "pronunciation": "tôi là sinh viên",
+        "note": "Sinh viên usually refers to a university/college student."
+      },
+      {
+        "english": "I am a doctor.",
+        "vietnamese": "Tôi là bác sĩ.",
+        "pronunciation": "tôi là bác sĩ",
+        "note": "No separate article 'a' is needed."
+      },
+      {
+        "english": "He is a teacher.",
+        "vietnamese": "Anh ấy là giáo viên.",
+        "pronunciation": "anh ấy là giáo viên",
+        "note": "Là does not change for the subject."
+      },
+      {
+        "english": "She is a student.",
+        "vietnamese": "Cô ấy là sinh viên.",
+        "pronunciation": "cô ấy là sinh viên",
+        "note": "Keep the same identity pattern."
+      },
+      {
+        "english": "I am Jeremiah.",
+        "vietnamese": "Tôi là Jeremiah.",
+        "pronunciation": "tôi là Jeremiah",
+        "note": "Là can connect a person with a name."
+      },
+      {
+        "english": "My name is Jeremiah.",
+        "vietnamese": "Tôi tên là Jeremiah.",
+        "pronunciation": "tôi tên là Jeremiah",
+        "note": "Tên là is the common name-introduction pattern."
+      },
+      {
+        "english": "I am Tanzanian.",
+        "vietnamese": "Tôi là người Tanzania.",
+        "pronunciation": "tôi là người Tanzania",
+        "note": "Người + country name can express nationality."
+      },
+      {
+        "english": "I am from Tanzania.",
+        "vietnamese": "Tôi đến từ Tanzania.",
+        "pronunciation": "tôi đến từ Tanzania",
+        "note": "Đến từ expresses origin; compare it with identity using là."
+      },
+      {
+        "english": "I live in Australia.",
+        "vietnamese": "Tôi sống ở Úc.",
+        "pronunciation": "tôi sống ở Úc",
+        "note": "Sống is an action verb; do not put là before it."
+      },
+      {
+        "english": "I am Tanzanian, but I live in Australia.",
+        "vietnamese": "Tôi là người Tanzania, nhưng tôi sống ở Úc.",
+        "pronunciation": "tôi là người Tanzania nhưng tôi sống ở Úc",
+        "note": "Combine an identity clause and an action clause."
+      },
+      {
+        "english": "I study Vietnamese.",
+        "vietnamese": "Tôi học tiếng Việt.",
+        "pronunciation": "tôi học tiếng Việt",
+        "note": "Action sentence: no là before học."
+      },
+      {
+        "english": "Correct: Tôi học sinh.",
+        "vietnamese": "Tôi là học sinh.",
+        "pronunciation": "tôi là học sinh",
+        "note": "Add là to connect the subject to an identity."
+      },
+      {
+        "english": "Correct: Tôi là học tiếng Việt.",
+        "vietnamese": "Tôi học tiếng Việt.",
+        "pronunciation": "tôi học tiếng Việt",
+        "note": "Remove là because học is an action verb."
+      },
+      {
+        "english": "Are you a student?",
+        "vietnamese": "Bạn có phải là sinh viên không?",
+        "pronunciation": "bạn có phải là sinh viên không",
+        "note": "Yes/no identity question: có phải là … không?"
+      },
+      {
+        "english": "Yes, I am a student.",
+        "vietnamese": "Vâng, tôi là sinh viên.",
+        "pronunciation": "vâng tôi là sinh viên",
+        "note": "A simple affirmative response."
+      },
+      {
+        "english": "No, I am not a student.",
+        "vietnamese": "Không, tôi không phải là sinh viên.",
+        "pronunciation": "không tôi không phải là sinh viên",
+        "note": "Negative identity: không phải là."
+      },
+      {
+        "english": "Are you a teacher?",
+        "vietnamese": "Bạn có phải là giáo viên không?",
+        "pronunciation": "bạn có phải là giáo viên không",
+        "note": "Keep không at the end of the yes/no question."
+      },
+      {
+        "english": "No, I am not a teacher. I am a student.",
+        "vietnamese": "Không, tôi không phải là giáo viên. Tôi là sinh viên.",
+        "pronunciation": "không tôi không phải là giáo viên tôi là sinh viên",
+        "note": "Use the negative identity pattern, then a positive identity."
+      },
+      {
+        "english": "Who are you?",
+        "vietnamese": "Bạn là ai?",
+        "pronunciation": "bạn là ai",
+        "note": "Ai replaces the identity information."
+      },
+      {
+        "english": "I am a learner of Vietnamese.",
+        "vietnamese": "Tôi là người học tiếng Việt.",
+        "pronunciation": "tôi là người học tiếng Việt",
+        "note": "Người học means learner."
+      },
+      {
+        "english": "What do you do for work?",
+        "vietnamese": "Bạn làm nghề gì?",
+        "pronunciation": "bạn làm nghề gì",
+        "note": "This asks about an activity/occupation using làm."
+      },
+      {
+        "english": "What nationality are you?",
+        "vietnamese": "Bạn là người nước nào?",
+        "pronunciation": "bạn là người nước nào",
+        "note": "Người nước nào asks about national identity."
+      },
+      {
+        "english": "Build: I am Tanzanian, but I live in Australia.",
+        "vietnamese": "Tôi là người Tanzania, nhưng tôi sống ở Úc.",
+        "pronunciation": "tôi là người Tanzania nhưng tôi sống ở Úc",
+        "note": "Use là for identity and sống directly for residence."
+      }
+    ],
+    "recording_status": "Expanded 45–60 minute written lesson with Northern Vietnamese recording prompts. Actual audio files are not included.",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
   }
 ]
