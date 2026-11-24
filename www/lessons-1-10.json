@@ -3658,81 +3658,789 @@
     "id": 8,
     "unit": "Foundations",
     "title": "Numbers 0–20",
-    "description": "Count from zero to twenty and use numbers in simple questions.",
-    "teacher_intro": "Numbers are building blocks you will use every day. Learn the basic sequence, then use it in a question. Say each number aloud; pay special attention to the tones.",
-    "background": "The basic numbers are không, một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười. From eleven to nineteen, the pattern is mười + number. Twenty is hai mươi.",
-    "culture": "Vietnamese number forms can change slightly in compounds: for example, five is năm, but in some number combinations it is pronounced/lowered to lăm, as in mười lăm (15). This is a regular spoken pattern.",
+    "description": "A 45–60 minute guided lesson counting from zero to twenty, recognising numbers in random order, using the special form mười lăm, and asking and answering simple quantity questions.",
+    "teacher_intro": "Welcome to Lesson 8: Numbers 0–20. Allow 45–60 minutes. Learn the numbers with their tones, practise the full sequence forwards and backwards, then use them with simple quantities. Follow Think, Speak, Reveal, Compare: pause before the student voices answer and say each number aloud.",
+    "background": "The numbers from zero to ten are không, một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười. Eleven to nineteen generally follow mười + the unit number: mười một, mười hai, mười ba, mười bốn, mười lăm, mười sáu, mười bảy, mười tám, mười chín. Fifteen is the special form mười lăm, not mười năm. Twenty is hai mươi, literally two tens. Numbers are followed by a classifier and noun where Vietnamese uses one, for example hai quyển sách (two books). Bao nhiêu asks how many or how much. Mấy is also common in questions about small quantities of countable things.",
+    "culture": "Vietnamese speakers use classifiers between numbers and many nouns. Quyển is used for books: một quyển sách, hai quyển sách. Cái is a common general classifier for many objects, although the appropriate classifier depends on the noun. In the number fifteen, năm changes to lăm: mười lăm. Do not change năm everywhere; five on its own remains năm, as in counting or năm quyển sách. Bao nhiêu is a broadly useful way to ask about quantity or amount; mấy is also common with countable items and often suggests a relatively small number. When giving a phone number, digits are generally spoken one by one. Pronunciation and tone are essential: learn the sound of each number rather than relying on spelling alone.",
     "dialogue": [
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Start with one to five: một, hai, ba, bốn, năm. Now six to ten: sáu, bảy, tám, chín, mười."
+        "line": "Welcome to Lesson 8: Numbers 0–20. This is a 45–60 minute lesson. We will learn the numbers in order, notice the special form for fifteen, ask how many things there are and practise hearing numbers clearly. Use Think, Speak, Reveal, Compare: pause before the student answers and say the number aloud."
       },
       {
         "speaker": "STUDENT 1",
-        "line": "So eleven is ten plus one?"
+        "line": "I know a few numbers already, but I mix them up when I hear them."
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Exactly. Mười một. Twelve is mười hai. Continue the same pattern through fourteen."
+        "line": "That is normal. Learn the sound and tone together. Do not learn only the spelling. We will begin slowly, then use the numbers in short patterns."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Zero is không. Listen for the initial consonant and the ngang tone."
       },
       {
         "speaker": "STUDENT 2",
-        "line": "But fifteen is mười lăm, not mười năm?"
+        "line": "Không."
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Correct. In this number pattern, năm changes to lăm. Twenty is hai mươi."
+        "line": "One is một. Notice the nặng tone mark. Keep the final consonant short; do not add an extra vowel."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Một."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Two is hai."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Hai."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Three is ba."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Ba."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Four is bốn. Notice the sắc tone."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bốn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Five is năm."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Năm."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now say the first group in order: one, two, three, four, five."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Một, hai, ba, bốn, năm."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Repeat it without looking. Keep each number distinct."
       },
       {
         "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
-        "line": "Native recording slot: count 0–20 slowly, then at natural speed; include a separate 15 and 20 contrast. No recording is included yet."
+        "line": "Recording prompt: một, hai, ba, bốn, năm. Record each number separately with a short pause, then the sequence at natural speed. This is a script prompt; audio is not included."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Six is sáu. Notice the sắc tone."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Sáu."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Seven is bảy. Notice the hỏi tone."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bảy."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Eight is tám."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tám."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Nine is chín."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Chín."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ten is mười. Notice the huyền tone."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mười."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now the second group: sáu, bảy, tám, chín, mười."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Sáu, bảy, tám, chín, mười."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Put the two groups together. Count from one to ten without stopping."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now count backwards from ten to one. Take your time."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mười, chín, tám, bảy, sáu, năm, bốn, ba, hai, một."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Zero is không. Count from zero to ten."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không, một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Listen for the tone differences. Một has a nặng tone; bốn, sáu, tám and chín have sắc; bảy has hỏi; mười has huyền. The tone is part of the number."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now build eleven to fourteen. Eleven is mười một — literally ten-one."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mười một."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Twelve is mười hai."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mười hai."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Thirteen is mười ba."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mười ba."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Fourteen is mười bốn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mười bốn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The pattern is mười plus the unit number. Repeat eleven to fourteen."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mười một, mười hai, mười ba, mười bốn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now comes a special form. Fifteen is mười lăm, not mười năm."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mười lăm."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "In this number compound, năm changes to lăm. Learn fifteen as one complete form: mười lăm."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording prompt: contrast năm and mười lăm, then repeat mười lăm three times slowly and three times naturally. Audio has not yet been recorded."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Sixteen is mười sáu."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mười sáu."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Seventeen is mười bảy."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mười bảy."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Eighteen is mười tám."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mười tám."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Nineteen is mười chín."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mười chín."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Twenty is hai mươi — two tens."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Hai mươi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Count from eleven to twenty in order."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mười một, mười hai, mười ba, mười bốn, mười lăm, mười sáu, mười bảy, mười tám, mười chín, hai mươi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Now count from zero to twenty. Keep the rhythm even."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Không, một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười, mười một, mười hai, mười ba, mười bốn, mười lăm, mười sáu, mười bảy, mười tám, mười chín, hai mươi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now we will practise recognising numbers out of order. I will say the English number; answer in Vietnamese."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Number three."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Ba."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Number eight."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tám."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Number fifteen."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mười lăm."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Number twelve."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mười hai."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Number zero."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Number twenty."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Hai mươi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now reverse the exercise. I will say the Vietnamese number; tell me the English meaning."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Mười bảy."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Seventeen."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bốn."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Four."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Mười lăm."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Fifteen."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Không."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Zero."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Mười chín."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Nineteen."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Now let's use numbers with things. Vietnamese commonly places a number before a classifier and noun. For books, use quyển: một quyển sách — one book."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Một quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Two books is hai quyển sách. The number comes first, then the classifier quyển, then sách."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Hai quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Three books is ba quyển sách."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Ba quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For a general object, cái is a common classifier. One item can be một cái; two items can be hai cái. The most suitable classifier depends on the noun."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Một cái. Hai cái."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask how many. Bao nhiêu means how many or how much, depending on the context."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bao nhiêu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "To ask how many books someone has, say Bạn có bao nhiêu quyển sách?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn có bao nhiêu quyển sách?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Có means have in this pattern. The question asks: How many books do you have?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi có ba quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That means I have three books. Notice the answer pattern: Tôi có, then the number, classifier and noun."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask your partner how many books they have."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn có bao nhiêu quyển sách?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi có năm quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Five is năm here because it is not the special fifteen form."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You may also hear mấy in questions about a small number or countable items. For example, Bạn có mấy quyển sách? — How many books do you have?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So bao nhiêu and mấy can both ask how many?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes, in many everyday questions they overlap. Bao nhiêu is a broadly useful question phrase for quantity and amount. Mấy is common with countable items and often suggests a relatively small number. Learn the examples as complete phrases."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's practise a few quantities. I have one book."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi có một quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "I have two books."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi có hai quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "I have ten books."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi có mười quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "I have fifteen books."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi có mười lăm quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Keep the special lăm form in fifteen."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Numbers are also used when giving a sequence of digits, such as a phone number. In that situation, say each digit separately rather than treating the whole string as one large number."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So I should pronounce each digit clearly."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. For example, practise this fictional sequence: không, một, hai, ba. These are four separate digits."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không, một, hai, ba."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now repeat: một, chín, tám, bảy."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Một, chín, tám, bảy."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. In a real phone number, pause naturally between groups if needed, and check that the listener has understood."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's practise a short exchange about books."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn có bao nhiêu quyển sách?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi có hai quyển sách."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Hai quyển sách."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Đúng rồi. Hai quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Đúng rồi means that's right. It is a useful confirmation."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now a listening drill. Listen carefully and write or say the number you hear. First: mười ba."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Thirteen."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Second: mười lăm."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Fifteen."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Third: bảy."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Seven."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Fourth: hai mươi."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Twenty."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Fifth: mười bốn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Fourteen."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The most important contrast today is năm versus lăm. Năm is five when counted alone and in forms such as năm quyển sách. Lăm appears in fifteen: mười lăm."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Năm. Mười lăm."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Do not change every năm into lăm. It is a special form in the teen number pattern."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now count from twenty backwards to ten."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Hai mươi, mười chín, mười tám, mười bảy, mười sáu, mười lăm, mười bốn, mười ba, mười hai, mười một, mười."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Now count from ten backwards to zero."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mười, chín, tám, bảy, sáu, năm, bốn, ba, hai, một, không."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Final challenge. Ask how many books your partner has, understand the answer, then repeat the quantity to confirm it."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn có bao nhiêu quyển sách?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi có mười lăm quyển sách."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mười lăm quyển sách. Đúng rồi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. You can now count from zero to twenty, recognise the special form mười lăm, and use numbers in a simple quantity question. Review the sequence aloud tomorrow. Lesson 9 will use numbers in age and basic personal details."
       }
     ],
     "cards": [
       {
         "english": "zero",
-        "vietnamese": "không",
+        "vietnamese": "Không.",
         "pronunciation": "không",
-        "note": "Also means 'no/not' in many contexts."
+        "note": "Zero. Không also means no or not in many contexts."
       },
       {
-        "english": "one to five",
-        "vietnamese": "một, hai, ba, bốn, năm",
-        "pronunciation": "một · hai · ba · bốn · năm",
-        "note": "Say each number clearly; notice the nặng tone in một."
+        "english": "one",
+        "vietnamese": "Một.",
+        "pronunciation": "một",
+        "note": "Notice the nặng tone and short final stop."
       },
       {
-        "english": "six to ten",
-        "vietnamese": "sáu, bảy, tám, chín, mười",
-        "pronunciation": "sáu · bảy · tám · chín · mười",
-        "note": "Learn the tone as part of each number."
+        "english": "two",
+        "vietnamese": "Hai.",
+        "pronunciation": "hai",
+        "note": "Learn the vowel and ngang tone together."
+      },
+      {
+        "english": "three",
+        "vietnamese": "Ba.",
+        "pronunciation": "ba",
+        "note": "A useful number in the first counting group."
+      },
+      {
+        "english": "four",
+        "vietnamese": "Bốn.",
+        "pronunciation": "bốn",
+        "note": "Notice the sắc tone."
+      },
+      {
+        "english": "five",
+        "vietnamese": "Năm.",
+        "pronunciation": "năm",
+        "note": "Five when counted alone and in examples such as năm quyển sách."
+      },
+      {
+        "english": "six",
+        "vietnamese": "Sáu.",
+        "pronunciation": "sáu",
+        "note": "Notice the sắc tone."
+      },
+      {
+        "english": "seven",
+        "vietnamese": "Bảy.",
+        "pronunciation": "bảy",
+        "note": "Notice the hỏi tone."
+      },
+      {
+        "english": "eight",
+        "vietnamese": "Tám.",
+        "pronunciation": "tám",
+        "note": "Notice the sắc tone."
+      },
+      {
+        "english": "nine",
+        "vietnamese": "Chín.",
+        "pronunciation": "chín",
+        "note": "Notice the sắc tone."
+      },
+      {
+        "english": "ten",
+        "vietnamese": "Mười.",
+        "pronunciation": "mười",
+        "note": "Ten; the starting point for the teen pattern."
       },
       {
         "english": "eleven",
-        "vietnamese": "mười một",
+        "vietnamese": "Mười một.",
         "pronunciation": "mười một",
         "note": "Literally ten-one."
       },
       {
+        "english": "twelve",
+        "vietnamese": "Mười hai.",
+        "pronunciation": "mười hai",
+        "note": "Ten plus two."
+      },
+      {
+        "english": "thirteen",
+        "vietnamese": "Mười ba.",
+        "pronunciation": "mười ba",
+        "note": "Ten plus three."
+      },
+      {
+        "english": "fourteen",
+        "vietnamese": "Mười bốn.",
+        "pronunciation": "mười bốn",
+        "note": "Ten plus four."
+      },
+      {
         "english": "fifteen",
-        "vietnamese": "mười lăm",
+        "vietnamese": "Mười lăm.",
         "pronunciation": "mười lăm",
-        "note": "Năm changes to lăm in this number compound."
+        "note": "Special form: năm changes to lăm in this number compound."
+      },
+      {
+        "english": "sixteen",
+        "vietnamese": "Mười sáu.",
+        "pronunciation": "mười sáu",
+        "note": "Ten plus six."
+      },
+      {
+        "english": "seventeen",
+        "vietnamese": "Mười bảy.",
+        "pronunciation": "mười bảy",
+        "note": "Ten plus seven."
+      },
+      {
+        "english": "eighteen",
+        "vietnamese": "Mười tám.",
+        "pronunciation": "mười tám",
+        "note": "Ten plus eight."
+      },
+      {
+        "english": "nineteen",
+        "vietnamese": "Mười chín.",
+        "pronunciation": "mười chín",
+        "note": "Ten plus nine."
       },
       {
         "english": "twenty",
-        "vietnamese": "hai mươi",
+        "vietnamese": "Hai mươi.",
         "pronunciation": "hai mươi",
-        "note": "Mươi is the tens element. Twenty is two-tens."
+        "note": "Literally two tens."
       },
       {
-        "english": "How many?",
+        "english": "How many? / How much?",
         "vietnamese": "Bao nhiêu?",
         "pronunciation": "bao nhiêu",
-        "note": "A useful question phrase for quantity, price and age."
+        "note": "A broadly useful question phrase for quantity and amount."
+      },
+      {
+        "english": "How many books do you have?",
+        "vietnamese": "Bạn có bao nhiêu quyển sách?",
+        "pronunciation": "bạn có bao nhiêu quyển sách",
+        "note": "Có means have; quyển is a classifier for books."
+      },
+      {
+        "english": "I have three books.",
+        "vietnamese": "Tôi có ba quyển sách.",
+        "pronunciation": "tôi có ba quyển sách",
+        "note": "Number + classifier + noun."
+      },
+      {
+        "english": "I have fifteen books.",
+        "vietnamese": "Tôi có mười lăm quyển sách.",
+        "pronunciation": "tôi có mười lăm quyển sách",
+        "note": "Keep the special lăm form in fifteen."
       }
     ],
-    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "recording_status": "Complete written 45–60 minute lesson script with Northern Vietnamese native-speaker recording prompts; actual teacher, student and native audio recordings have not yet been supplied.",
     "audio": {
       "teacher": null,
       "student_1": null,
