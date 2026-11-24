@@ -5930,5 +5930,944 @@
       "native_slow": null,
       "native_natural": null
     }
+  },
+  {
+    "id": 11,
+    "unit": "Sentence building",
+    "title": "Vietnamese word order",
+    "description": "Build natural subject–verb–object sentences, add time and place, and place không correctly in statements and questions.",
+    "teacher_intro": "Welcome to Lesson 11: Vietnamese word order. Set aside about 45–60 minutes. You already know useful words and phrases; now we will arrange them into clear sentences. The method is Think → Speak → Reveal → Compare. Pause before each answer, say it aloud, then compare the word order. Today’s core pattern is subject + verb + object. We will also add time and location phrases, make negative sentences with không, and ask yes-or-no questions.",
+    "background": "A neutral Vietnamese statement commonly follows Subject–Verb–Object (SVO): Tôi học tiếng Việt (I study Vietnamese). Vietnamese verbs do not conjugate for person or number: học remains học with tôi, bạn or cô ấy. A direct object normally follows its verb. A location phrase often follows the verb or the activity it describes: Tôi sống ở Úc; Tôi học tiếng Việt ở nhà. Time expressions such as hôm nay (today) and mỗi ngày (every day) can be placed at the beginning for a clear beginner pattern. In a negative statement, không normally comes before the verb: Tôi không uống cà phê. In a yes-or-no question, không can appear at the end: Bạn uống cà phê không? These are useful patterns, not a claim that every natural Vietnamese sentence must contain every element.",
+    "culture": "Vietnamese conversation often omits a subject when the person is obvious from context. In this lesson, we deliberately keep tôi and bạn visible so the sentence structure is easy to hear and practise. Real speakers may also move time phrases for emphasis. Learn the clear neutral patterns first; later lessons can build more flexible conversational word order. For polite, natural speech, remember that the right form of address depends on age, relationship and situation, even though the basic sentence order stays recognisable.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Welcome to Lesson 11: Vietnamese word order. This is the first lesson in our sentence-building unit. Set aside about 45–60 minutes. Today you will stop translating every word separately and start building short, natural Vietnamese sentences."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "We have learned many words already. How do I put them together?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "We will use words you already know: tôi, bạn, học, sống, uống, thích, tiếng Việt, cà phê, ở Úc, hôm nay and mỗi ngày. The new skill is arranging them in the right order."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So today is more about building sentences than learning a long vocabulary list?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Listen, think, speak aloud, and only then compare your answer. The most useful pattern today is subject, verb, object."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording prompt: Say slowly and naturally: Tôi học tiếng Việt. Tôi uống cà phê. Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "First, compare a simple English sentence: 'I study Vietnamese.' Vietnamese uses the same basic order: Tôi học tiếng Việt. Tôi is the subject, học is the verb, and tiếng Việt is the object."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Does the Vietnamese sentence begin with the action or with the person?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "It begins with the person or subject: Tôi. The action học comes next, and the thing being studied, tiếng Việt, comes after the verb."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Can I move tiếng Việt to the beginning and keep the same ordinary meaning?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Not in a basic neutral sentence. Keep the normal order: Tôi học tiếng Việt."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's label the three parts. SUBJECT: tôi. VERB: học. OBJECT: tiếng Việt. Say each part separately, then join them without inserting extra words."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "What is the subject in Tôi học tiếng Việt?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi — I. It tells us who performs the action."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "What is the object?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tiếng Việt — Vietnamese. It is what I study."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi / học / tiếng Việt. Tôi học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Vietnamese verbs do not change form for I, you, he or she. The verb học stays học. The subject tells us who is doing it."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "How do I say 'You study Vietnamese'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn học tiếng Việt. Replace tôi with bạn. The verb học stays exactly the same."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "And 'She studies Vietnamese'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Cô ấy học tiếng Việt. Again, học does not receive an English-style ending such as -s."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Bạn học tiếng Việt. Cô ấy học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now use a different verb. Uống means drink. A simple sentence is Tôi uống cà phê — I drink coffee. The order is still subject, verb, object."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "How would I say 'I drink water'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi uống nước. Tôi is the subject, uống is the verb, and nước is the object."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "What about 'You drink coffee'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn uống cà phê. Only the subject changes; the basic order remains the same."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi uống nước. Bạn uống cà phê."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A sentence can also have no direct object. Tôi ngủ means I sleep. The pattern is subject plus verb. Do not add an object just because English grammar lessons mention one."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "How do I say 'I sleep'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi ngủ. There is no object after ngủ in this sentence."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "How do I say 'I work'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi làm việc. Làm việc is the expression meaning work; learn it as a unit."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi ngủ. Tôi làm việc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You already know how to say where you live. In Tôi sống ở Úc, the verb sống comes before the location phrase ở Úc. The place follows the action."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Where does ở Úc go: before or after sống?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "After sống: Tôi sống ở Úc. The location phrase completes the sentence."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "How do I say 'I live in Tanzania'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi sống ở Tanzania. Keep the same order and change the place name."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi sống ở Úc. Tôi sống ở Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's add a time phrase. Hôm nay means today. You can put it at the beginning for emphasis or before the verb phrase: Hôm nay tôi học tiếng Việt. This is a natural way to say 'Today I study Vietnamese.'"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "How do I say 'Today I study Vietnamese'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Hôm nay tôi học tiếng Việt. Time phrase first, then subject, verb and object."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Can I also say Tôi học tiếng Việt hôm nay?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. A time phrase can appear at the end too, depending on context and emphasis. For this lesson, practise the clear time-first pattern."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Hôm nay tôi học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Mỗi ngày means every day. Put it before the main clause: Mỗi ngày tôi học tiếng Việt — Every day I study Vietnamese. It tells us how often."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "How do I say 'Every day I drink water'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Mỗi ngày tôi uống nước. The time or frequency phrase comes first."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "What changes if I say hôm nay instead of mỗi ngày?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The meaning changes from a repeated habit to today: Hôm nay tôi uống nước."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Mỗi ngày tôi uống nước. Hôm nay tôi uống nước."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now let's build a longer sentence: Hôm nay tôi học tiếng Việt ở nhà. Hôm nay is the time, tôi is the subject, học is the verb, tiếng Việt is the object, and ở nhà is the location."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Which part tells us where the studying happens?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ở nhà — at home. It comes after the main action and object in this example."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "How would you say 'Today I study Vietnamese in Australia'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Hôm nay tôi học tiếng Việt ở Úc. Keep the same sequence and replace the location."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Hôm nay tôi học tiếng Việt ở nhà. Hôm nay tôi học tiếng Việt ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A useful neutral pattern is TIME, SUBJECT, VERB, OBJECT, LOCATION. It is a helpful framework, not a rule that every sentence must contain all five parts. Leave out anything you do not need."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Do I need a time phrase in every sentence?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "No. Tôi học tiếng Việt is already a complete sentence."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Do I need a location in every sentence?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "No. Add a location only when it is useful: Tôi học tiếng Việt ở nhà."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi học tiếng Việt. Tôi học tiếng Việt ở nhà."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's practise the position of không. Không makes a verb phrase negative. It normally comes immediately before the verb: Tôi không uống cà phê — I do not drink coffee."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Where does không go in 'I don't drink coffee'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Before the verb uống: Tôi không uống cà phê. Do not put it after the verb."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "How do I say 'I don't study Chinese'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi không học tiếng Trung. Không comes before học."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi không uống cà phê. Tôi không học tiếng Trung."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Compare the positive and negative sentences. Tôi uống nước means I drink water. Tôi không uống nước means I do not drink water. The subject and verb remain in place; không is inserted before the verb."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Make 'I drink coffee' negative."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi không uống cà phê."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Make 'You study Vietnamese' negative."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn không học tiếng Việt. Keep không directly before học."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi uống cà phê. Tôi không uống cà phê."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now add a time phrase to a negative sentence: Hôm nay tôi không uống cà phê. Today I am not drinking coffee. The time phrase stays at the beginning, and không stays before the verb."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "How do I say 'Today I don't study'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Hôm nay tôi không học. Hôm nay is first; không comes before học."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "How do I say 'Every day I don't drink coffee'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Mỗi ngày tôi không uống cà phê. Grammatically possible, although the intended meaning and context matter."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Hôm nay tôi không uống cà phê."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's look at the word thích, meaning like. It behaves as the main verb in a simple sentence: Tôi thích cà phê — I like coffee. The object follows thích."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "How do I say 'I like Vietnamese'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi thích tiếng Việt. The object tiếng Việt follows thích."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "How do I say 'I like studying Vietnamese'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi thích học tiếng Việt. Here học tiếng Việt is the activity that I like."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi thích tiếng Việt. Tôi thích học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Notice that Vietnamese does not need an English-style word 'to' before every verb. In Tôi thích học tiếng Việt, the verbs and activity connect directly. Learn this useful phrase as a whole."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Is there a separate word for 'to' in Tôi thích học tiếng Việt?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "No. Do not insert a word for 'to'. Say Tôi thích học tiếng Việt."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Can I say Tôi thích uống cà phê?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. It means I like drinking coffee. The phrase uống cà phê follows thích."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi thích học tiếng Việt. Tôi thích uống cà phê."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's compare a statement with a question. Bạn học tiếng Việt means You study Vietnamese. To ask a yes-or-no question, you can add không at the end: Bạn học tiếng Việt không?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Where is không in a negative statement?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Before the verb: Bạn không học tiếng Việt."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Where is không in this yes-or-no question?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "At the end: Bạn học tiếng Việt không? Context and intonation help make it a question."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Bạn học tiếng Việt không? Tôi học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Do not confuse the two positions. Bạn không học tiếng Việt means you do not study Vietnamese. Bạn học tiếng Việt không? asks whether you study Vietnamese. The same word has a different job because of its position."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Translate: 'You don't drink coffee.'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn không uống cà phê."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Ask: 'Do you drink coffee?'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn uống cà phê không?"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Bạn không uống cà phê. Bạn uống cà phê không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now let's combine what you know about identity and background. You have practised Tôi là người Tanzania and Tôi sống ở Úc. For today, focus on where the location phrase sits: after sống."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "How do I say 'I am from Tanzania' using the phrase you learned?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi đến từ Tanzania. The phrase đến từ means come from."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "How do I say 'I live in Australia'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi sống ở Úc. The location follows sống."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi đến từ Tanzania. Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A natural short introduction can contain several sentences. Tôi là người Tanzania. Tôi sống ở Úc. Tôi học tiếng Việt. Each sentence has its own clear structure. You do not need to force everything into one long sentence."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Which sentence tells nationality or identity?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi là người Tanzania."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Which sentence tells the action you are doing?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi học tiếng Việt."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi là người Tanzania. Tôi sống ở Úc. Tôi học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's correct common beginner errors. English speakers may try to say Tôi tiếng Việt học, copying English or moving the object. For a neutral sentence, use Tôi học tiếng Việt."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "What is wrong with Tôi tiếng Việt học as a basic sentence?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The ordinary word order is not subject–object–verb. Put the verb before its object: Tôi học tiếng Việt."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Correct this: Tôi cà phê uống."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi uống cà phê. The verb uống comes before the object cà phê."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi học tiếng Việt. Tôi uống cà phê."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Another common error is changing the verb to match the subject. Vietnamese does not say họcs or họces. The verb form stays học for tôi, bạn and cô ấy."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Correct: Bạn họcS tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn học tiếng Việt. Do not add an English plural or third-person ending."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Correct: Cô ấy uốngS nước."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Cô ấy uống nước. Uống remains unchanged."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi học. Bạn học. Cô ấy học."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A third error is putting không after the verb in a negative statement. Remember: subject, không, verb, object. Tôi không uống cà phê."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Correct: Tôi uống không cà phê."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi không uống cà phê. Put không before uống."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Correct: Bạn học không tiếng Việt, when you mean 'You do not study Vietnamese.'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn không học tiếng Việt. For the yes-or-no question, Bạn học tiếng Việt không? places không at the end."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi không uống cà phê. Bạn không học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now we will do a listening-and-thinking drill. I will give you the English meaning. Pause and build the Vietnamese sentence before Student 1 answers. Pay attention to the order, not just the vocabulary."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I study Vietnamese every day."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Mỗi ngày tôi học tiếng Việt."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "I drink water today."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Hôm nay tôi uống nước."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Mỗi ngày tôi học tiếng Việt. Hôm nay tôi uống nước."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Next, practise changing just one part. Start with Tôi học tiếng Việt. Replace the subject, then the verb, then the object. This helps you create new sentences without memorising every sentence separately."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Change 'I study Vietnamese' to 'You study Vietnamese.'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn học tiếng Việt."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Change it to 'I study English.'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi học tiếng Anh. Only the object changes."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi học tiếng Việt. Bạn học tiếng Việt. Tôi học tiếng Anh."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's do a short substitution chain with uống. Tôi uống nước. Tôi uống cà phê. Bạn uống nước. Bạn không uống cà phê. Listen for the stable order and the position of không."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Say 'I don't drink water.'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi không uống nước."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Say 'You drink coffee.'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn uống cà phê."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi uống nước. Tôi không uống nước. Bạn uống cà phê."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now a location chain. Tôi học tiếng Việt ở nhà. Tôi học tiếng Việt ở trường. Tôi sống ở Úc. Tôi sống ở Tanzania. The location phrase follows the verb or the activity it belongs to."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Say 'I study Vietnamese at home.'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi học tiếng Việt ở nhà."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Say 'I live in Australia.'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi sống ở Úc."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi học tiếng Việt ở nhà. Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A quick cultural and usage note: Vietnamese often leaves out a subject when the context makes it obvious, especially in conversation. In this course we keep the subject visible while learning the structure. Later you will hear more natural shortened exchanges."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Does every natural Vietnamese sentence have to say tôi or bạn?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "No. Speakers can omit information that is clear from context. For now, include the subject so you can practise the basic sentence pattern accurately."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Why are we practising the full version first?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "It makes the word order visible and gives you a reliable foundation before learning conversational ellipsis."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi học tiếng Việt. Học tiếng Việt mỗi ngày."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's bring the patterns together in a short exchange. One person asks Bạn học tiếng Việt không? The other answers Có, tôi học tiếng Việt or Không, tôi không học tiếng Việt. Có and không give the yes-or-no response; the full sentence confirms the meaning."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Ask Student 2 whether they study Vietnamese."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn học tiếng Việt không?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Answer yes: 'Yes, I study Vietnamese.'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Có, tôi học tiếng Việt. Có confirms the positive answer."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Bạn học tiếng Việt không? Có, tôi học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now answer negatively. If you do not drink coffee, you can say Không, tôi không uống cà phê. Notice the first không answers the question, and the second không makes the verb phrase negative."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Ask: 'Do you drink coffee?'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn uống cà phê không?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Answer: 'No, I don't drink coffee.'"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Không, tôi không uống cà phê. The first không is the answer 'no'; the second is the negative marker before uống."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Bạn uống cà phê không? Không, tôi không uống cà phê."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Your final speaking challenge is to introduce yourself in four or five short sentences. Include where you are from, where you live, what you study, and one thing you like. Use the sentence patterns from earlier lessons."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "How could you begin with your background?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi là người Tanzania. You can then add Tôi sống ở Úc."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "How could you finish by saying you like studying Vietnamese?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Tôi thích học tiếng Việt. Keep thích before the activity."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Tôi là người Tanzania. Tôi sống ở Úc. Tôi học tiếng Việt. Tôi thích học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Before finishing, say these three patterns aloud without looking: Tôi học tiếng Việt. Tôi không uống cà phê. Hôm nay tôi học tiếng Việt ở nhà. Notice the subject–verb–object order, the position of không, and the time phrase at the beginning."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I can now change the person, action and object without rebuilding the whole sentence."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is the goal. Vietnamese word order is becoming a pattern you can use, not a list you must memorise."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "And I should keep không before the verb in a negative sentence, but at the end in a yes-or-no question."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Keep practising slowly, pronounce every tone clearly, and build each sentence aloud."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Native recording prompt: Record at slow speed, then natural speed: Tôi học tiếng Việt. Bạn học tiếng Việt không? Tôi không uống cà phê. Hôm nay tôi học tiếng Việt ở nhà. Tôi thích học tiếng Việt."
+      }
+    ],
+    "cards": [
+      {
+        "english": "I study Vietnamese.",
+        "vietnamese": "Tôi học tiếng Việt.",
+        "pronunciation": "tôi · học · tiếng Việt",
+        "note": "Subject + verb + object. Học comes before the thing being studied."
+      },
+      {
+        "english": "You study Vietnamese.",
+        "vietnamese": "Bạn học tiếng Việt.",
+        "pronunciation": "bạn · học · tiếng Việt",
+        "note": "The verb học does not change when the subject changes."
+      },
+      {
+        "english": "She studies Vietnamese.",
+        "vietnamese": "Cô ấy học tiếng Việt.",
+        "pronunciation": "cô ấy · học · tiếng Việt",
+        "note": "Cô ấy is a common way to say she; học stays unchanged."
+      },
+      {
+        "english": "I drink water.",
+        "vietnamese": "Tôi uống nước.",
+        "pronunciation": "tôi · uống · nước",
+        "note": "Uống is the verb; nước is its object."
+      },
+      {
+        "english": "You drink coffee.",
+        "vietnamese": "Bạn uống cà phê.",
+        "pronunciation": "bạn · uống · cà phê",
+        "note": "Keep the verb before the object."
+      },
+      {
+        "english": "I sleep.",
+        "vietnamese": "Tôi ngủ.",
+        "pronunciation": "tôi · ngủ",
+        "note": "This sentence needs no direct object."
+      },
+      {
+        "english": "I work.",
+        "vietnamese": "Tôi làm việc.",
+        "pronunciation": "tôi · làm việc",
+        "note": "Learn làm việc as the expression meaning work."
+      },
+      {
+        "english": "I live in Australia.",
+        "vietnamese": "Tôi sống ở Úc.",
+        "pronunciation": "tôi · sống · ở Úc",
+        "note": "The location phrase follows sống."
+      },
+      {
+        "english": "I live in Tanzania.",
+        "vietnamese": "Tôi sống ở Tanzania.",
+        "pronunciation": "tôi · sống · ở Tanzania",
+        "note": "Keep the same sentence pattern and change the place."
+      },
+      {
+        "english": "Today I study Vietnamese.",
+        "vietnamese": "Hôm nay tôi học tiếng Việt.",
+        "pronunciation": "hôm nay · tôi · học · tiếng Việt",
+        "note": "A time phrase can come at the beginning."
+      },
+      {
+        "english": "Every day I drink water.",
+        "vietnamese": "Mỗi ngày tôi uống nước.",
+        "pronunciation": "mỗi ngày · tôi · uống · nước",
+        "note": "Mỗi ngày expresses frequency and can lead the sentence."
+      },
+      {
+        "english": "Today I study Vietnamese at home.",
+        "vietnamese": "Hôm nay tôi học tiếng Việt ở nhà.",
+        "pronunciation": "hôm nay · tôi · học · tiếng Việt · ở nhà",
+        "note": "Time + subject + verb + object + location."
+      },
+      {
+        "english": "I do not drink coffee.",
+        "vietnamese": "Tôi không uống cà phê.",
+        "pronunciation": "tôi · không · uống · cà phê",
+        "note": "Không goes immediately before the verb in a negative statement."
+      },
+      {
+        "english": "I do not study Chinese.",
+        "vietnamese": "Tôi không học tiếng Trung.",
+        "pronunciation": "tôi · không · học · tiếng Trung",
+        "note": "The negative marker không precedes học."
+      },
+      {
+        "english": "Today I do not study.",
+        "vietnamese": "Hôm nay tôi không học.",
+        "pronunciation": "hôm nay · tôi · không · học",
+        "note": "Keep the time phrase first and không before the verb."
+      },
+      {
+        "english": "I like coffee.",
+        "vietnamese": "Tôi thích cà phê.",
+        "pronunciation": "tôi · thích · cà phê",
+        "note": "Thích is the main verb; its object follows."
+      },
+      {
+        "english": "I like Vietnamese.",
+        "vietnamese": "Tôi thích tiếng Việt.",
+        "pronunciation": "tôi · thích · tiếng Việt",
+        "note": "The object tiếng Việt follows thích."
+      },
+      {
+        "english": "I like studying Vietnamese.",
+        "vietnamese": "Tôi thích học tiếng Việt.",
+        "pronunciation": "tôi · thích · học · tiếng Việt",
+        "note": "No separate word for English 'to' is needed here."
+      },
+      {
+        "english": "I like drinking coffee.",
+        "vietnamese": "Tôi thích uống cà phê.",
+        "pronunciation": "tôi · thích · uống · cà phê",
+        "note": "The activity uống cà phê follows thích."
+      },
+      {
+        "english": "Do you study Vietnamese?",
+        "vietnamese": "Bạn học tiếng Việt không?",
+        "pronunciation": "bạn · học · tiếng Việt · không",
+        "note": "In this yes-or-no question, không appears at the end."
+      },
+      {
+        "english": "You do not study Vietnamese.",
+        "vietnamese": "Bạn không học tiếng Việt.",
+        "pronunciation": "bạn · không · học · tiếng Việt",
+        "note": "Do not confuse this with the question Bạn học tiếng Việt không?"
+      },
+      {
+        "english": "Do you drink coffee?",
+        "vietnamese": "Bạn uống cà phê không?",
+        "pronunciation": "bạn · uống · cà phê · không",
+        "note": "Final không turns the statement pattern into a yes-or-no question."
+      },
+      {
+        "english": "I am from Tanzania.",
+        "vietnamese": "Tôi đến từ Tanzania.",
+        "pronunciation": "tôi · đến từ · Tanzania",
+        "note": "Đến từ means come from; treat it as a phrase."
+      },
+      {
+        "english": "I am a Tanzanian person. I live in Australia.",
+        "vietnamese": "Tôi là người Tanzania. Tôi sống ở Úc.",
+        "pronunciation": "tôi · là · người Tanzania · tôi · sống · ở Úc",
+        "note": "Use two clear sentences rather than forcing everything into one sentence."
+      },
+      {
+        "english": "I am a Tanzanian person. I live in Australia. I study Vietnamese. I like studying Vietnamese.",
+        "vietnamese": "Tôi là người Tanzania. Tôi sống ở Úc. Tôi học tiếng Việt. Tôi thích học tiếng Việt.",
+        "pronunciation": "tôi · là · người Tanzania · tôi · sống · ở Úc · tôi · học · tiếng Việt · tôi · thích · học · tiếng Việt",
+        "note": "Final challenge: make a short introduction from several simple, correctly ordered sentences."
+      }
+    ],
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    },
+    "recording_status": "Written lesson script and native-speaker recording prompts included; actual audio recordings have not yet been supplied."
   }
 ]
