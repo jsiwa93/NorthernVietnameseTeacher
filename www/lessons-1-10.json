@@ -964,5 +964,528 @@
       "native_slow": null,
       "native_natural": null
     }
+  },
+  {
+    "id": 13,
+    "unit": "Sentence building",
+    "title": "People and pronouns",
+    "description": "Choose natural forms of address and reference for different relationships, ages and social situations.",
+    "teacher_intro": "Welcome to Lesson 13 — People and Pronouns. This 45–60 minute lesson teaches the relationship-based forms Vietnamese speakers use for I, you and other people. Use the Think → Speak → Reveal → Compare method. Pause at every prompt, say your answer aloud, then compare it with the model. Focus on who is speaking to whom, rather than memorising a single English translation for each word.",
+    "background": "Vietnamese personal reference is strongly shaped by relationship, relative age, familiarity and social setting. Tôi and bạn are useful beginner or classroom defaults, but everyday speakers often use kinship terms. Anh commonly addresses or refers to an older man in a suitable relationship; chị commonly addresses or refers to an older woman; em commonly refers to a younger person and can be either 'I' or 'you' depending on who is speaking. Cô and chú often relate to an older generation; bác, ông and bà can address older generations; cháu is a younger person's self-reference to an older person. Anh ấy and chị ấy are common third-person forms; họ is a common plural 'they'. These are practical patterns, not a rigid age chart. Vietnamese verbs do not conjugate to match the pronoun: tôi sống, em sống and anh ấy sống all use sống.",
+    "culture": "Kinship terms are part of everyday politeness and social connection in Vietnam. The right choice can make a conversation feel warm and respectful, while a poor guess can feel awkward. Age is only one factor: family preference, region, setting, familiarity and the other person's own choice matter too. When uncertain, begin with a simple polite form, listen to how people address one another, and follow their lead. Avoid assuming that English 'you' always equals bạn or that anh and chị are merely Vietnamese versions of he and she. The same person may be anh in one relationship and em in another. Adding ạ can make a question or statement more respectful, but politeness also depends on tone and whether the question is appropriate.",
+    "dialogue": [
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Welcome to Lesson 13 — People and Pronouns. Today we learn how Vietnamese speakers refer to themselves and other people. Set aside about 45–60 minutes. The key idea is that Vietnamese forms of address often express relationship, age and social context, not simply gender."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "In English I can say I, you, he or she. Is Vietnamese the same?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Not quite. Vietnamese has words that can work like pronouns, but many are also family-relationship words. The best choice depends on who is speaking to whom."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For a beginner conversation, a useful starting pair is tôi for 'I' and bạn for 'you'. Say: Tôi là Jeremiah. Bạn tên là gì?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So tôi and bạn are safe words to learn first?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "They are useful classroom defaults, especially when you do not know the relationship. In everyday conversation, Vietnamese speakers often choose a more specific form."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Listen: tôi means I or me. Bạn means you, and can also mean friend. These are not perfect one-to-one equivalents in every situation."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là người Tanzania. Bạn là người Việt Nam."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. You used tôi for yourself and bạn for the person you are addressing. The sentence pattern is familiar from Lesson 12."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now meet anh. Anh can refer to an older brother, and it is commonly used by or for a man who is older than the speaker in a familiar or polite interaction."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Does anh always mean older brother?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "No. In conversation it can be a form of address even when the people are not related. A younger speaker may address an older man as anh."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For example: Anh tên là gì? — What is your name? A younger speaker might say this to an adult man who seems a little older."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "And how might that man refer to himself?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "He may use anh when speaking to the younger person: Anh là Minh. In that relationship, the younger person may call himself or herself em."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So the same person can be anh in one conversation and em in another?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. The word depends on the relationship between the two speakers, not on a permanent label."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now chị. Chị literally means older sister and is commonly used to address a woman who is older than the speaker, or for her to refer to herself with someone younger."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could I say: Chị tên là gì?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes, if you are addressing a woman appropriately as chị. It is often warm and respectful, but you should consider age and context."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "The younger speaker can use em for I or me when speaking to an older person addressed as anh or chị. For example: Em tên là Jeremiah."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "And the older person might say: Anh tên là Minh, or Chị tên là Lan."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Notice that em does not mean only 'younger sibling' in these conversations. It can be the speaker's first-person form."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's practise a short exchange. A younger man speaks to an older man: Anh ơi, anh tên là gì?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Em tên là Jeremiah. Còn anh?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is a natural pattern for a suitable relationship. Anh ơi is a way to get the person's attention; use it with care and a friendly tone."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now imagine speaking to an older woman. You might say: Chị ơi, chị khỏe không?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "And she might reply: Chị khỏe, cảm ơn em."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. She calls herself chị and addresses the younger person as em."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "What about a woman who is younger than you? Depending on context, you may address her as em, and she may call you anh or chị."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So em can mean a younger person, but it can be I or you depending on who is speaking."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. That is one of the most important ideas in this lesson. Do not memorise a single English equivalent; learn the relationship."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Next is cô. Cô means aunt, and it is also commonly used for an adult woman who is around your parents' generation, or for a female teacher."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Would I call a female teacher cô?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Often, yes. For example: Cô ơi, em có một câu hỏi. — Teacher, I have a question. The student may refer to himself or herself as em."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Chú is commonly used for an adult man around your parents' generation, younger than the generation addressed as bác in many family-style systems."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Could I say: Chú khỏe không ạ?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. Adding ạ makes the question more respectful. You may hear: Chú khỏe không ạ?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bác can address an older adult, often someone around your grandparents' generation or an older aunt or uncle. Its exact use varies by family and region."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "And ông and bà?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ông is grandfather and can address an elderly man. Bà is grandmother and can address an elderly woman. These are respectful family-style forms, but use judgement with strangers."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's review a simple age-and-relationship map: younger adult man may be anh; younger adult woman may be chị; a younger person may be em; an older generation may be cô or chú; an older adult may be bác; elderly people may be ông or bà."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "But I shouldn't guess someone's age too confidently."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Right. When uncertain, begin politely and follow the other person's lead. You can also use a name or a neutral phrase where appropriate."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now listen to the third-person forms. Anh ấy can mean he, referring to a man. Chị ấy can mean she, referring to a woman."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So ấy helps point to the person being talked about?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. For example: Anh ấy là giáo viên. — He is a teacher. Chị ấy sống ở Hà Nội. — She lives in Hanoi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For a plural 'they', họ is a common pronoun: Họ là bạn tôi. — They are my friends. In conversation, people may also repeat names or relationship terms for clarity."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Is there a separate Vietnamese word for he and another for she in every situation?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "There are common forms such as anh ấy and chị ấy, but real usage is more relational. Vietnamese often uses names, titles or kinship terms rather than relying on a fixed he-or-she system."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now practise choosing the form in context. You are younger and speaking to an older man you know politely. You might address him as anh."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Anh ơi, anh có khỏe không ạ?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. You could answer as the older man: Anh khỏe, cảm ơn em."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You are a student speaking to a female teacher. You might say: Cô ơi, em chưa hiểu."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Cô ơi, em chưa hiểu. Could you explain again?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Chưa hiểu means 'do not understand yet'. The form cô reflects the teacher-student relationship."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now compare: Tôi chưa hiểu is a useful neutral sentence. Em chưa hiểu is more relational and may be natural when speaking to a teacher or older person."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So the verb phrase stays the same. The form of address changes."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Vietnamese verbs do not conjugate to match these pronouns. You can say tôi sống ở Úc, em sống ở Úc, or anh ấy sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's make introductions. If you are speaking to a slightly older man: Em tên là Jeremiah. Em là người Tanzania nhưng sống ở Australia."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "And if I am speaking to a woman I address as chị, I can still say em tên là Jeremiah."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. The first-person form em reflects the relationship. The sentence content stays the same."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now a polite question to an older woman: Chị sống ở đâu ạ? The particle ạ adds respect."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "And to a teacher: Cô sống ở đâu ạ?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Grammatically possible, though personal questions should fit the situation. Politeness is not only grammar; it is also knowing what is appropriate to ask."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A common beginner mistake is to translate English 'you' as bạn every time. That can sound distant or unnatural when a more specific relationship term is expected."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "But another mistake would be using anh or chị without knowing whether it fits."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Avoid treating these forms as a rigid age calculator. Regional habits, family preferences, relative age and social setting all matter."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's practise the pattern: address term + ơi to get attention. Anh ơi. Chị ơi. Cô ơi. Chú ơi. Use a gentle, friendly voice."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Does ơi mean 'hey'?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "It is an attention-getting particle, but its tone depends on the relationship and delivery. It is not automatically rude."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now repeat these pairs slowly: tôi — bạn; anh — em; chị — em; cô — em; chú — em; bác — cháu; ông — cháu; bà — cháu."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Why cháu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Cháu means grandchild, niece or nephew in family contexts, and can be used by a younger person speaking to an older generation such as bác, ông or bà."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "For example, a younger person may say: Cháu chào bác ạ. — Hello, bác. The phrase is respectful and often used when greeting an older adult."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So I should learn the pairs together, not just one word at a time."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Learn who says what to whom. The relationship determines the form."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's do a quick correction. If a young person speaks to an older man as anh, the young person may refer to himself as em. Say: Em cảm ơn anh."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Em cảm ơn anh."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. To an older woman addressed as chị: Em cảm ơn chị."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Em cảm ơn chị."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "To a teacher: Em cảm ơn cô ạ. To an older adult addressed as bác: Cháu cảm ơn bác ạ."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Em cảm ơn cô ạ. Cháu cảm ơn bác ạ."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Keep the tone marks clear: cảm ơn, chị, chú, bác, cháu. In Northern Vietnamese, practise the hỏi and ngã tones carefully, and keep final consonants crisp."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Your final task is to introduce yourself in three situations: to a peer using tôi and bạn; to an older man using em and anh; and to a teacher using em and cô."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "The words for my name, nationality and where I live do not change. I choose the address terms for the relationship."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is the lesson's central principle. Vietnamese forms of address show how people relate to one another. Start with tôi and bạn when you need a simple learning default, listen carefully, and adapt respectfully."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Well done. In the next lesson, we will build on this foundation and practise talking about family and relationships. Review the 25 prompts, speak every answer aloud, and compare your pronunciation with a native Northern Vietnamese recording when one is available."
+      }
+    ],
+    "cards": [
+      {
+        "english": "I am Jeremiah.",
+        "vietnamese": "Tôi là Jeremiah.",
+        "pronunciation": "tôi là Jeremiah",
+        "note": "Use tôi as a neutral first-person form."
+      },
+      {
+        "english": "What is your name? (classroom default)",
+        "vietnamese": "Bạn tên là gì?",
+        "pronunciation": "bạn tên là gì",
+        "note": "Bạn is a useful beginner form when addressing a peer or in a learning exercise."
+      },
+      {
+        "english": "I am from Tanzania.",
+        "vietnamese": "Tôi là người Tanzania.",
+        "pronunciation": "tôi là người Tanzania",
+        "note": "Tôi is the speaker; người introduces nationality/origin identity."
+      },
+      {
+        "english": "What is your name? (to an older man)",
+        "vietnamese": "Anh tên là gì?",
+        "pronunciation": "anh tên là gì",
+        "note": "Use anh when the relationship makes it suitable to address him as an older man."
+      },
+      {
+        "english": "I am Minh. (older man speaking to a younger person)",
+        "vietnamese": "Anh là Minh.",
+        "pronunciation": "anh là Minh",
+        "note": "The older man may refer to himself as anh in this relationship."
+      },
+      {
+        "english": "I am Jeremiah. (younger person speaking to an older person)",
+        "vietnamese": "Em tên là Jeremiah.",
+        "pronunciation": "em tên là Jeremiah",
+        "note": "Em can be the younger speaker's first-person form."
+      },
+      {
+        "english": "What is your name? (to an older woman)",
+        "vietnamese": "Chị tên là gì?",
+        "pronunciation": "chị tên là gì",
+        "note": "Chị is commonly used for an older woman in a suitable interaction."
+      },
+      {
+        "english": "I am Lan. (older woman speaking to a younger person)",
+        "vietnamese": "Chị là Lan.",
+        "pronunciation": "chị là Lan",
+        "note": "She may refer to herself as chị when speaking to someone younger."
+      },
+      {
+        "english": "Are you well? (to an older man)",
+        "vietnamese": "Anh khỏe không?",
+        "pronunciation": "anh khỏe không",
+        "note": "Address term + question. Anh is not a universal word for every man."
+      },
+      {
+        "english": "I am well, thank you. (older man to younger person)",
+        "vietnamese": "Anh khỏe, cảm ơn em.",
+        "pronunciation": "anh khỏe cảm ơn em",
+        "note": "He refers to himself as anh and addresses the younger person as em."
+      },
+      {
+        "english": "Teacher, I have a question.",
+        "vietnamese": "Cô ơi, em có một câu hỏi.",
+        "pronunciation": "cô ơi em có một câu hỏi",
+        "note": "Cô is commonly used for a female teacher; ơi gets her attention."
+      },
+      {
+        "english": "Teacher, I don't understand yet.",
+        "vietnamese": "Cô ơi, em chưa hiểu.",
+        "pronunciation": "cô ơi em chưa hiểu",
+        "note": "Em is a natural student self-reference in this context."
+      },
+      {
+        "english": "Uncle, are you well? (respectful)",
+        "vietnamese": "Chú khỏe không ạ?",
+        "pronunciation": "chú khỏe không ạ",
+        "note": "Chú can address an adult man of an older generation; ạ adds respect."
+      },
+      {
+        "english": "Hello, bác. (younger speaker)",
+        "vietnamese": "Cháu chào bác ạ.",
+        "pronunciation": "cháu chào bác ạ",
+        "note": "Cháu is often used by a younger person to an older generation."
+      },
+      {
+        "english": "He is a teacher.",
+        "vietnamese": "Anh ấy là giáo viên.",
+        "pronunciation": "anh ấy là giáo viên",
+        "note": "Anh ấy is a common way to refer to a man in third person."
+      },
+      {
+        "english": "She lives in Hanoi.",
+        "vietnamese": "Chị ấy sống ở Hà Nội.",
+        "pronunciation": "chị ấy sống ở hà nội",
+        "note": "Chị ấy is a common relational third-person form for a woman."
+      },
+      {
+        "english": "They are my friends.",
+        "vietnamese": "Họ là bạn tôi.",
+        "pronunciation": "họ là bạn tôi",
+        "note": "Họ is a common plural third-person pronoun."
+      },
+      {
+        "english": "Thank you, older brother / older man.",
+        "vietnamese": "Em cảm ơn anh.",
+        "pronunciation": "em cảm ơn anh",
+        "note": "The younger speaker uses em for I and anh for the addressee."
+      },
+      {
+        "english": "Thank you, older sister / older woman.",
+        "vietnamese": "Em cảm ơn chị.",
+        "pronunciation": "em cảm ơn chị",
+        "note": "The younger speaker uses em and addresses her as chị."
+      },
+      {
+        "english": "Thank you, teacher.",
+        "vietnamese": "Em cảm ơn cô ạ.",
+        "pronunciation": "em cảm ơn cô ạ",
+        "note": "Respectful student-to-teacher wording."
+      },
+      {
+        "english": "Thank you, bác.",
+        "vietnamese": "Cháu cảm ơn bác ạ.",
+        "pronunciation": "cháu cảm ơn bác ạ",
+        "note": "Cháu and bác form a common younger-to-older address pairing."
+      },
+      {
+        "english": "Excuse me / older brother, please listen. (attention)",
+        "vietnamese": "Anh ơi.",
+        "pronunciation": "anh ơi",
+        "note": "Ơi is an attention-getting particle; use a suitable relationship term."
+      },
+      {
+        "english": "Excuse me / older sister, please listen. (attention)",
+        "vietnamese": "Chị ơi.",
+        "pronunciation": "chị ơi",
+        "note": "Use chị ơi when addressing a woman appropriately as chị."
+      },
+      {
+        "english": "I am Tanzanian but live in Australia. (to an older person)",
+        "vietnamese": "Em là người Tanzania nhưng sống ở Australia.",
+        "pronunciation": "em là người tanzania nhưng sống ở australia",
+        "note": "Only the first-person form changes to em because of the relationship."
+      },
+      {
+        "english": "I am Tanzanian but live in Australia. (neutral beginner form)",
+        "vietnamese": "Tôi là người Tanzania nhưng sống ở Australia.",
+        "pronunciation": "tôi là người tanzania nhưng sống ở australia",
+        "note": "Use tôi as a useful neutral learning default."
+      }
+    ],
+    "recording_status": "Written lesson and recording prompts only; native audio recordings have not yet been supplied.",
+    "audio": {
+      "teacher": null,
+      "student_1": null,
+      "student_2": null,
+      "native_slow": null,
+      "native_natural": null
+    }
   }
 ]
