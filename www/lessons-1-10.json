@@ -1843,75 +1843,471 @@
     "id": 5,
     "unit": "Foundations",
     "title": "Introducing yourself",
-    "description": "Say your name, ask another person's name and introduce someone.",
-    "teacher_intro": "You can now greet someone. The next step is to tell them your name. We will build the sentence from the small pieces tên, tôi and là. Pause after each English prompt and construct the Vietnamese yourself.",
-    "background": "Tên means 'name'. Là is a linking word used in identification and classification. Vietnamese often omits a linking verb in other sentence types, so do not assume là is needed every time English uses 'am' or 'is'.",
-    "culture": "Vietnamese names commonly include a family name, optional middle name and given name. The given name is often the final element. When addressing someone, people usually use the appropriate given name with a relationship term rather than the full name alone.",
+    "description": "Build a natural personal introduction: your name, nationality, country of origin and where you live. Ask another person the same questions.",
+    "teacher_intro": "Welcome to Lesson 5. Today you will introduce yourself in Northern Vietnamese. By the end, you will be able to say your name, say where you come from, identify your nationality, explain where you live now, and ask another person those questions. We will build each sentence from small pieces. Do not simply read the answer: pause, construct it aloud, then compare. Use the neutral beginner pronoun tôi for yourself and bạn for a peer. In real conversation, Vietnamese pronouns and forms of address depend on age, relationship and setting; we will develop those choices in later lessons.",
+    "background": "Vietnamese introductions are built from reusable sentence patterns. Tên tôi là… and Tôi tên là… both mean 'My name is…' / 'I am called…'. Tôi đến từ… means 'I come from…'. Tôi là người… identifies nationality or origin by saying 'I am a … person'. Tôi sống ở… means 'I live in…'. To ask where someone comes from, use Bạn đến từ đâu?; đâu means 'where'. To ask where someone lives, use Bạn sống ở đâu? The word người means 'person'. The country name Tanzania can be used as a proper name; Úc is the usual Vietnamese name for Australia. The connector nhưng means 'but'. Notice that Vietnamese does not need an equivalent of English 'am' in every sentence: tôi sống ở Úc is complete without là.",
+    "culture": "A first introduction is usually brief. You do not need to give your full biography immediately. Start with a greeting and name, then add where you are from or where you live if it is relevant. Vietnamese speakers may ask quê bạn ở đâu? ('Where is your home place?') or quê quán to ask about family/home origins; this is not always the same as asking which country you come from. Bạn is a useful classroom pronoun between peers, but it is not a universal form of address for every real-life relationship. In later lessons you will practise choosing anh, chị, em and other kinship-based pronouns. When saying you live in Australia, say sống ở Úc. Country names are proper names, and pronunciation may be adapted naturally by Vietnamese speakers.",
     "dialogue": [
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "First say 'name': tên. Now say 'my': tôi. Put them together: tên tôi — my name."
+        "line": "Let's begin with a name. In Vietnamese, tên means 'name'. To say 'My name is…', one natural pattern is tên tôi là…"
       },
       {
         "speaker": "STUDENT 1",
-        "line": "Tên tôi."
+        "line": "Tên tôi là Linh."
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Now add là, the linking word: tên tôi là… — my name is… Put your own name at the end."
+        "line": "Good. Tên tôi là Linh: literally, 'name – I – is – Linh'. Now replace Linh with your own name. Pause and say the complete sentence."
       },
       {
         "speaker": "STUDENT 2",
-        "line": "Tên tôi là Anna."
+        "line": "Tên tôi là Minh."
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Good. To ask a peer's name, say bạn tên là gì? The word gì means 'what'."
+        "line": "There is another common order: tôi tên là… Both tên tôi là… and tôi tên là… are used. For this lesson, practise both, but keep one pattern at a time until it feels easy."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi tên là Anna."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask another person their name. Bạn means 'you' in this simple peer-to-peer practice. Gì means 'what'. Put the pieces together: bạn tên là gì?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn tên là gì?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Notice that gì stays at the end of this question. Vietnamese often places a question word where the answer would appear."
       },
       {
         "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
-        "line": "Native recording slot: name introduction and question-and-answer exchange. No recording is included yet."
+        "line": "Recording prompt: tên tôi là…; tôi tên là…; bạn tên là gì? First slow and clearly, then at natural Hanoi conversational speed. Audio recording not supplied yet."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's practise the exchange. I ask: bạn tên là gì? You answer with your own name. Pause now."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn tên là gì?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tên tôi là David."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. You can also add a polite greeting before the question: xin chào. Say the two sentences together."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Bạn tên là gì?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now we will say where a person comes from. The small word đến means 'come/arrive'. Từ means 'from'. Together, đến từ means 'come from'."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Đến từ."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "To say 'I come from Tanzania', begin with tôi, then đến từ, then the country name. Build it before the student answers."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Keep the structure in this order: tôi + đến từ + place. Now try 'I come from Australia'. Remember the Vietnamese country name Úc."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Úc is the usual Vietnamese name for Australia. Now ask 'Where do you come from?' Keep the same sentence and replace the person and place with a question word: đâu means 'where'."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Bạn đến từ đâu? Do not move đâu to the beginning. It occupies the place where the country name would go."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording prompt: tôi đến từ Tanzania; tôi đến từ Úc; bạn đến từ đâu? Contrast the tones and syllable rhythm. Audio recording not supplied yet."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now let's distinguish coming from a country and being a person of that nationality. Người means 'person'. To say 'I am Tanzanian', say tôi là người Tanzania."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi là người Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Very good. Here là is needed to identify what kind of person you are: tôi là người… Now say 'I am Australian'."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là người Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Compare the two patterns: tôi đến từ Tanzania means 'I come from Tanzania'; tôi là người Tanzania means 'I am Tanzanian'. They are related, but they do not have exactly the same structure."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So người is the word that makes the nationality pattern?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Người means person. Keep it in the sentence when you use this pattern."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask someone their nationality: bạn là người nước nào? Nước means country, and nào means which. The question means 'Which country are you from / what nationality are you?'"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn là người nước nào?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is a useful question, though in a first conversation bạn đến từ đâu? is often simpler. Practise both and notice the difference in meaning."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording prompt: tôi là người Tanzania; tôi là người Úc; bạn là người nước nào? Slow repetition then natural-speed question/answer. Audio recording not supplied yet."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now say where you live. Sống means 'live'. Ở means 'in' or 'at' for a location. Start with tôi, then sống ở, then the place."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Tôi sống ở Úc means 'I live in Australia'. There is no need to add là. Say 'I live in Tanzania'."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi sống ở Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask someone where they live. Keep sống ở and replace the location with đâu."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Compare the two questions: bạn đến từ đâu? asks where someone comes from; bạn sống ở đâu? asks where they live now. They may have different answers."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I can come from Tanzania but live in Australia."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Let's build that complete idea in Vietnamese. First say 'I am Tanzanian': tôi là người Tanzania. Then we need 'but'. The word nhưng means 'but'."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Nhưng."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "After nhưng, say 'I live in Australia': tôi sống ở Úc. Join the two parts. You may repeat tôi after nhưng to make the sentence clear."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là người Tanzania, nhưng tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. This is a complete and natural introduction detail: 'I am Tanzanian, but I live in Australia.' You can also say tôi đến từ Tanzania, nhưng tôi sống ở Úc — 'I come from Tanzania, but I live in Australia'."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Tanzania, nhưng tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Both are useful. The first states nationality; the second states country of origin. Choose the one that expresses what you mean."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording prompt: tôi là người Tanzania, nhưng tôi sống ở Úc; tôi đến từ Tanzania, nhưng tôi sống ở Úc. Read with a natural pause around nhưng. Audio recording not supplied yet."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's make a short conversation. Listen to the first speaker, then pause and answer as yourself."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Bạn tên là gì?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin chào. Tên tôi là Linh. Còn bạn?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Còn bạn? means 'And you?' or 'What about you?' It is a very useful way to return a question. Now answer with your name."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi tên là Jeremiah."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Now one person asks where the other comes from."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask where the person lives. Notice that this is a different question."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now combine nationality and residence in one longer answer."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là người Tanzania, nhưng tôi sống ở Úc."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "À, hay quá!"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "À is a conversational response like 'Oh'. Hay quá means 'That's great!' We will study reactions and natural responses in a later lesson. For now, recognise the expression."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A quick note about pronouns. We are using tôi and bạn as a clear classroom pair. In real Vietnamese, speakers often choose pronouns according to relative age and relationship. You might hear anh, chị, em, cô or chú instead. Do not try to guess these forms yet; use tôi and bạn for today's controlled practice."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So the grammar pattern stays the same, but the pronoun can change?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. The sentence frame remains useful. Later we will practise choosing the right form of address for the person you are speaking to."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let's review the four main patterns. My name is…: tên tôi là… I come from…: tôi đến từ… I am a … person: tôi là người… I live in…: tôi sống ở… Say each one aloud with your own details."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tên tôi là Jeremiah."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là người Tanzania."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask the matching questions: what is your name; where do you come from; what nationality are you; where do you live? Pause after each English prompt and build the Vietnamese question."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn tên là gì?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn là người nước nào?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. Final challenge: give a four-part introduction without looking. Say hello, give your name, say your nationality and origin, then say where you live. Finish by asking the other person their name and where they live."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Tên tôi là Jeremiah. Tôi là người Tanzania. Tôi đến từ Tanzania, nhưng tôi sống ở Úc. Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin chào. Tôi tên là Linh. Tôi là người Việt Nam. Tôi sống ở Hà Nội."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Final recording prompt: full two-person introduction. Record one slow version with pauses for learner repetition and one natural Northern Vietnamese version. Actual audio is not included in this file."
       }
     ],
     "cards": [
       {
-        "english": "My name",
-        "vietnamese": "Tên tôi",
-        "pronunciation": "tên tôi",
-        "note": "Tên = name; tôi = I/me. Vietnamese possessive relationships are often shown by word order without a separate 'my' word."
-      },
-      {
-        "english": "My name is …",
-        "vietnamese": "Tên tôi là …",
-        "pronunciation": "tên tôi là",
-        "note": "Add your name after là."
-      },
-      {
-        "english": "What is your name?",
-        "vietnamese": "Bạn tên là gì?",
-        "pronunciation": "bạn tên là gì",
-        "note": "Gì means 'what'. The question word appears at the end in this pattern."
+        "english": "My name is Linh.",
+        "vietnamese": "Tên tôi là Linh.",
+        "pronunciation": "tên tôi là Linh",
+        "note": "Tên tôi là… is a natural, clear introductory pattern."
       },
       {
         "english": "My name is Jeremiah.",
         "vietnamese": "Tên tôi là Jeremiah.",
         "pronunciation": "tên tôi là Jeremiah",
-        "note": "Names from other languages are normally kept, with pronunciation adapted naturally by the speaker."
+        "note": "Replace the name with your own. Foreign names keep their usual spelling."
       },
       {
-        "english": "I am … (identifying myself)",
-        "vietnamese": "Tôi là …",
-        "pronunciation": "tôi là",
-        "note": "Use là to identify a role, nationality or category: tôi là giáo viên — I am a teacher."
+        "english": "I am called Anna / My name is Anna.",
+        "vietnamese": "Tôi tên là Anna.",
+        "pronunciation": "tôi tên là Anna",
+        "note": "Another common order: tôi tên là…"
       },
       {
-        "english": "Build a two-person introduction.",
-        "vietnamese": "Xin chào. Bạn tên là gì? Tên tôi là …",
-        "pronunciation": "xin chào · bạn tên là gì · tên tôi là",
-        "note": "The dots mark the place where you insert your own name."
+        "english": "What is your name?",
+        "vietnamese": "Bạn tên là gì?",
+        "pronunciation": "bạn tên là gì",
+        "note": "Gì means what. Use bạn as the neutral classroom peer pronoun."
+      },
+      {
+        "english": "And you? / What about you?",
+        "vietnamese": "Còn bạn?",
+        "pronunciation": "còn bạn",
+        "note": "A compact way to return a question."
+      },
+      {
+        "english": "I come from Tanzania.",
+        "vietnamese": "Tôi đến từ Tanzania.",
+        "pronunciation": "tôi đến từ Tanzania",
+        "note": "Đến từ means come from."
+      },
+      {
+        "english": "I come from Australia.",
+        "vietnamese": "Tôi đến từ Úc.",
+        "pronunciation": "tôi đến từ Úc",
+        "note": "Úc is the usual Vietnamese name for Australia."
+      },
+      {
+        "english": "Where do you come from?",
+        "vietnamese": "Bạn đến từ đâu?",
+        "pronunciation": "bạn đến từ đâu",
+        "note": "Đâu means where and stays at the end."
+      },
+      {
+        "english": "I am Tanzanian.",
+        "vietnamese": "Tôi là người Tanzania.",
+        "pronunciation": "tôi là người Tanzania",
+        "note": "Người means person; use là người + nationality."
+      },
+      {
+        "english": "I am Australian.",
+        "vietnamese": "Tôi là người Úc.",
+        "pronunciation": "tôi là người Úc",
+        "note": "Use người Úc for an Australian person."
+      },
+      {
+        "english": "Which country are you from? / What nationality are you?",
+        "vietnamese": "Bạn là người nước nào?",
+        "pronunciation": "bạn là người nước nào",
+        "note": "Nước means country; nào means which."
+      },
+      {
+        "english": "I live in Australia.",
+        "vietnamese": "Tôi sống ở Úc.",
+        "pronunciation": "tôi sống ở Úc",
+        "note": "Sống ở means live in/at. No là is needed."
+      },
+      {
+        "english": "I live in Tanzania.",
+        "vietnamese": "Tôi sống ở Tanzania.",
+        "pronunciation": "tôi sống ở Tanzania",
+        "note": "Replace the place after ở."
+      },
+      {
+        "english": "Where do you live?",
+        "vietnamese": "Bạn sống ở đâu?",
+        "pronunciation": "bạn sống ở đâu",
+        "note": "This asks about current residence, not country of origin."
+      },
+      {
+        "english": "I am Tanzanian, but I live in Australia.",
+        "vietnamese": "Tôi là người Tanzania, nhưng tôi sống ở Úc.",
+        "pronunciation": "tôi là người Tanzania nhưng tôi sống ở Úc",
+        "note": "Nhưng means but. Repeat tôi for clarity."
+      },
+      {
+        "english": "I come from Tanzania, but I live in Australia.",
+        "vietnamese": "Tôi đến từ Tanzania, nhưng tôi sống ở Úc.",
+        "pronunciation": "tôi đến từ Tanzania nhưng tôi sống ở Úc",
+        "note": "This version emphasises origin rather than nationality."
+      },
+      {
+        "english": "Hello. My name is Jeremiah.",
+        "vietnamese": "Xin chào. Tên tôi là Jeremiah.",
+        "pronunciation": "xin chào. tên tôi là Jeremiah",
+        "note": "Combine the greeting and name."
+      },
+      {
+        "english": "Hello. What is your name?",
+        "vietnamese": "Xin chào. Bạn tên là gì?",
+        "pronunciation": "xin chào. bạn tên là gì",
+        "note": "A simple first question."
+      },
+      {
+        "english": "I am from Tanzania. I live in Australia.",
+        "vietnamese": "Tôi đến từ Tanzania. Tôi sống ở Úc.",
+        "pronunciation": "tôi đến từ Tanzania. tôi sống ở Úc",
+        "note": "Two short sentences are clear and natural."
+      },
+      {
+        "english": "Introduce yourself: name, nationality, origin and residence.",
+        "vietnamese": "Tên tôi là Jeremiah. Tôi là người Tanzania. Tôi đến từ Tanzania, nhưng tôi sống ở Úc.",
+        "pronunciation": "tên tôi là Jeremiah. tôi là người Tanzania. tôi đến từ Tanzania nhưng tôi sống ở Úc",
+        "note": "Use this as a model, then replace the details with your own."
       }
     ],
-    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "recording_status": "Expanded 45–60 minute written lesson script. Northern Vietnamese teacher/student/native recording prompts are included, but actual audio recordings have not yet been recorded or supplied.",
     "audio": {
       "teacher": null,
       "student_1": null,
