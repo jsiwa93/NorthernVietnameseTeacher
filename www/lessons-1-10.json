@@ -2320,75 +2320,663 @@
     "id": 6,
     "unit": "Foundations",
     "title": "Where are you from?",
-    "description": "Say your nationality, country of origin and where you live.",
-    "teacher_intro": "Now combine what you know: tôi, là and a new word người. Then learn how to say where you come from and where you live. Build each phrase in stages.",
-    "background": "Người means 'person' or 'people'. In người Việt, it means a Vietnamese person; in người Úc, an Australian person. Đến từ means 'come from', while sống ở means 'live in/at'.",
-    "culture": "Country and nationality labels do not always map one-to-one onto English categories. In conversation, speakers may ask quê ở đâu? ('Where is your home place/from?') as well as asking which country someone comes from.",
+    "description": "A guided 45–60 minute lesson distinguishing nationality, country or place of origin, current residence and hometown roots. Ask and answer each question naturally in Northern Vietnamese.",
+    "teacher_intro": "Welcome to Lesson 6. In Lesson 5 you learned to introduce yourself. Today we will make your introduction more precise by distinguishing where you come from, where you live now, and your quê — your home place or roots. Allow 45–60 minutes. Follow the method: listen to the English teacher, think, pause and speak aloud, then compare with the student voices. Use the neutral classroom pronoun tôi for yourself and bạn for a peer. In real conversation, pronouns and forms of address depend on age, relationship and setting.",
+    "background": "This lesson develops three related but different Vietnamese patterns. Tôi đến từ… means 'I come from…' and answers Bạn đến từ đâu? ('Where do you come from?'). Tôi sống ở… means 'I live in…' and answers Bạn sống ở đâu? ('Where do you live?'). Quê bạn ở đâu? asks about someone's home place, hometown or roots; a simple answer is Quê tôi ở… . The word quê can refer to a village, town, province, region or broader homeland depending on context. Quốc tịch means nationality. Tôi là người Tanzania identifies nationality, while Tôi đến từ Tanzania states origin. Tôi sống ở Úc states current residence. Người means person; đến từ means come from; sống ở means live in/at; đâu means where; quê means home place or roots; nhưng means but; và means and. The usual Vietnamese name for Australia is Úc. Place and city names can remain proper names inside these sentence patterns.",
+    "culture": "A person's nationality, birthplace, family roots, hometown and current residence may all be different. Vietnamese speakers may ask Bạn đến từ đâu? to ask where someone comes from, or Quê bạn ở đâu? to learn about the person's home place or roots. Quê is not always a simple synonym for country: it may refer to a village, town or province, and some people have more than one meaningful connection. Do not assume that a person's current city is their quê. Let the speaker explain. This lesson uses bạn as a classroom peer pronoun, but real Vietnamese address terms depend on age, familiarity and relationship. A short, clear answer is usually enough; you do not need to give a full biography immediately.",
     "dialogue": [
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Say 'I': tôi. Say 'person': người. Now add the country or nationality: người Tanzania — a Tanzanian person."
+        "line": "Welcome to Lesson 6. In Lesson 5 you learned to introduce yourself: your name, nationality, country of origin and where you live. Today we will make one part of that introduction more precise: where you are from."
       },
       {
         "speaker": "STUDENT 1",
+        "line": "Isn’t that the same as saying my nationality or the country I come from?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Sometimes, but not always. Someone may be Tanzanian, have grown up in Tanzania, come from a particular town, and now live in Australia. Those are related facts, but they are not identical."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Our method remains Think, Speak, Reveal, Compare. I will explain a small pattern. Pause and build your answer aloud before the student voices respond."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "So I should try to make the Vietnamese sentence myself instead of waiting to copy it."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Keep the tones and vowel marks clear. We are using contemporary Northern Vietnamese with a Hanoi reference accent."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "First, review the question Bạn đến từ đâu? It means Where do you come from? Listen to the parts: bạn — you; đến — come or arrive; từ — from; đâu — where."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Say it again as one complete question. Keep đâu with its rising tone."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — slow model: Bạn đến từ đâu? Pause. Repeat at a natural conversational pace. Actual recording is not included."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now answer with Tôi đến từ… followed by a place. For example: Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. The pattern is reusable. Replace the country with another place name when needed."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us separate three ideas. Quốc tịch means nationality. Đến từ asks where someone comes from. Sống ở asks where someone lives now."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So if I am Tanzanian but live in Australia, I can say Tôi là người Tanzania, nhưng tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. And if someone asks where you come from, you can answer Tôi đến từ Tanzania. These sentences answer different questions."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Build the nationality sentence: I am a Tanzanian person."
+      },
+      {
+        "speaker": "STUDENT 2",
         "line": "Tôi là người Tanzania."
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Exactly: tôi là người Tanzania — I am Tanzanian. To say 'I come from Tanzania', use tôi đến từ Tanzania."
+        "line": "Now build the origin sentence: I come from Tanzania."
       },
       {
-        "speaker": "STUDENT 2",
-        "line": "And 'I live in Australia' is tôi sống ở Úc?"
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania."
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Yes. Úc is the usual Vietnamese name for Australia. Now join the ideas with nhưng, meaning 'but'."
+        "line": "Now build the residence sentence: I live in Australia."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Join the three ideas. Use nhưng — but — to show the contrast between origin and present residence."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi là người Tanzania. Tôi đến từ Tanzania, nhưng tôi sống ở Úc."
       },
       {
         "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
-        "line": "Native recording slot: nationality, origin and residence sentences. No recording is included yet."
+        "line": "Recording script — three separate sentences, then the connected version, first slowly and then naturally. Actual recording is not included."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now we will learn another useful question: Bạn sống ở đâu? Where do you live?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. The answer is Tôi sống ở… followed by the place."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Notice that you do not add là. Tôi sống ở Úc is already a complete sentence."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask me where I live. Use bạn as the classroom peer pronoun."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now answer with a place you know. Try: I live in Sydney."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi sống ở Sydney."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. City names are proper names. Keep the Vietnamese sentence frame and insert the place name."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A different question is Quê bạn ở đâu? This asks about someone's home place or hometown background. Quê means homeland, home place or native place, depending on context."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Is that exactly the same as Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Not exactly. Bạn đến từ đâu? can ask where someone comes from, including a country or place. Quê bạn ở đâu? often asks about family roots or the place someone considers their hometown."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Listen to the question: Quê bạn ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Quê bạn ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A simple answer is Quê tôi ở… — My home place is in… Another possible answer is Tôi quê ở… in suitable conversational contexts. For now, practise the clear pattern Quê tôi ở…"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Quê tôi ở Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is a practice example. If your hometown is a particular city or region, name that place instead."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — Quê bạn ở đâu? Quê tôi ở… Record a careful version and a natural conversational version. Actual recording is not included."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us compare the questions side by side. Bạn đến từ đâu? asks where you come from. Bạn sống ở đâu? asks where you live. Quê bạn ở đâu? asks about your home place or roots."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "They all contain a place, but the meaning is different."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Do not answer automatically with the same sentence every time. First understand what the speaker is asking."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "I will ask three questions. Answer each one with a matching sentence. First: Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Second: Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Third: Quê bạn ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Quê tôi ở Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. These answers can all be true about one person. They describe origin, current residence and home roots."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now practise asking another person. Use Bạn đến từ đâu? and then return the question with Còn bạn? — And you?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Việt Nam. Còn bạn?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Now answer with your own information. Use a country or city that is true for you."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania. Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Remember that these are sample roles. Change the places to match the real speaker. Do not memorise a false biography."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A short note about place names: Việt Nam is Vietnam; Úc is the usual Vietnamese name for Australia; Tanzania is commonly used as the country name Tanzania."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Should I translate every city name into Vietnamese?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "No. Many city and place names are used as proper names. Keep the name recognisable and pronounce it as clearly as you can. The sentence pattern carries the grammar."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Say: I come from Tanzania, but I live in Australia."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania, nhưng tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now say: My home place is in Tanzania, and I live in Australia."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Quê tôi ở Tanzania, và tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Và means and. Nhưng means but. Choose the connector that matches the relationship between the ideas."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now let us build a longer introduction. Begin with Xin chào. Add your name: Tên tôi là… or Tôi tên là…"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Tên tôi là Jeremiah."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Next say your nationality: Tôi là người Tanzania."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi là người Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Then say where you come from: Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Finally say where you live now: Tôi sống ở Úc."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Put the information together naturally. You can use separate short sentences. You do not need to force everything into one long sentence."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — model introduction: Xin chào. Tên tôi là Jeremiah. Tôi là người Tanzania. Tôi đến từ Tanzania, nhưng tôi sống ở Úc. Slow version, then natural version. Actual recording is not included."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now listen to a two-person exchange. Person A asks where B comes from. B answers and asks the question back."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Việt Nam. Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania, nhưng tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Now add the question about current residence."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi sống ở Sydney."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Notice how the conversation moves from origin to present residence. The question tells you which answer is relevant."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Let us work on common mistakes. First, do not confuse đến từ with sống ở. Đến từ is come from; sống ở is live in."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "If I say Tôi sống ở Tanzania, I am saying I live in Tanzania, not that I come from there."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Second, do not insert là into every sentence. Tôi là người Tanzania identifies what kind of person you are. Tôi sống ở Úc does not need là."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct this sentence: Tôi là sống ở Úc."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Now correct this one if the intended meaning is I am Tanzanian: Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi là người Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. The original sentence means I come from Tanzania. It is grammatical, but it answers a different question."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A little cultural context: in Vietnamese, asking about quê can be a way of learning someone's roots. It may refer to a village, town, province or broader home region, not only a country."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "So someone who lives in Hanoi might have quê in another province."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. A person's current address and quê may be different. Some people have moved many times, and some identify with more than one place."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Do not assume that every person has one simple hometown answer. Listen to the wording and let the speaker explain."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "And if I only want to ask which country someone comes from, Bạn đến từ đâu? is a useful beginner question."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Yes. It is a clear, general question. Relationship-sensitive pronouns still matter in real conversations; bạn is our classroom practice form."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now practise a quick response drill. I will give the English meaning. Pause and say the Vietnamese before the student answers. I come from Tanzania."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "I live in Australia."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Where do you come from?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Where do you live?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Where is your home place?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Quê bạn ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "My home place is in Tanzania."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Quê tôi ở Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Repeat any phrase that required extra thought."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now add a polite greeting and a natural ending. Start: Xin chào. Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Tanzania. Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Việt Nam."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask where the other person lives."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi sống ở Hà Nội."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Finish with a simple thanks and goodbye if the conversation is ending."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Cảm ơn. Tạm biệt!"
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording script — full exchange with two speakers, conversational rhythm and clear Northern pronunciation. Actual recording is not included."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Final challenge. Without reading, introduce yourself with your name, nationality, country of origin and current place of residence."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Tên tôi là Jeremiah. Tôi là người Tanzania. Tôi đến từ Tanzania, nhưng tôi sống ở Úc."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now ask another person where they come from and where they live."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn đến từ đâu? Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now explain the difference between origin, residence and quê in English."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Origin is where I come from; residence is where I live now; quê refers to my home place or roots."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. You have completed Lesson 6. Keep the three questions separate in your mind, and practise answering with places that are true for you."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Final recording script — repeat all three question-and-answer patterns: Bạn đến từ đâu? Tôi đến từ…; Bạn sống ở đâu? Tôi sống ở…; Quê bạn ở đâu? Quê tôi ở… Slow model followed by natural Northern speech. Actual recording is not included."
       }
     ],
     "cards": [
       {
-        "english": "I am Tanzanian.",
-        "vietnamese": "Tôi là người Tanzania.",
-        "pronunciation": "tôi là người Tanzania",
-        "note": "Người means person. This is a natural way to state nationality."
+        "english": "Where do you come from?",
+        "vietnamese": "Bạn đến từ đâu?",
+        "pronunciation": "bạn đến từ đâu",
+        "note": "A general question about someone's place or country of origin."
       },
       {
         "english": "I come from Tanzania.",
         "vietnamese": "Tôi đến từ Tanzania.",
         "pronunciation": "tôi đến từ Tanzania",
-        "note": "Đến = arrive/come; từ = from. Together they form 'come from'."
-      },
-      {
-        "english": "I live in Australia.",
-        "vietnamese": "Tôi sống ở Úc.",
-        "pronunciation": "tôi sống ở Úc",
-        "note": "Sống = live; ở = at/in; Úc = Australia."
-      },
-      {
-        "english": "I am Tanzanian, but I live in Australia.",
-        "vietnamese": "Tôi là người Tanzania, nhưng tôi sống ở Úc.",
-        "pronunciation": "tôi là người Tanzania nhưng tôi sống ở Úc",
-        "note": "Nhưng means 'but'. The second tôi may be omitted when the subject is clear, but it is included here for practice."
-      },
-      {
-        "english": "Where are you from?",
-        "vietnamese": "Bạn đến từ đâu?",
-        "pronunciation": "bạn đến từ đâu",
-        "note": "Đâu means 'where'. Vietnamese question words commonly stay in the position of the information they replace."
+        "note": "Đến từ = come from."
       },
       {
         "english": "Where do you live?",
         "vietnamese": "Bạn sống ở đâu?",
         "pronunciation": "bạn sống ở đâu",
-        "note": "Reuse sống ở and replace the location with đâu."
+        "note": "Ask about someone's current place of residence."
+      },
+      {
+        "english": "I live in Australia.",
+        "vietnamese": "Tôi sống ở Úc.",
+        "pronunciation": "tôi sống ở Úc",
+        "note": "Úc is the usual Vietnamese name for Australia."
+      },
+      {
+        "english": "I live in Sydney.",
+        "vietnamese": "Tôi sống ở Sydney.",
+        "pronunciation": "tôi sống ở Sydney",
+        "note": "Keep the city name as a proper name."
+      },
+      {
+        "english": "I am Tanzanian.",
+        "vietnamese": "Tôi là người Tanzania.",
+        "pronunciation": "tôi là người Tanzania",
+        "note": "Người means person; this identifies nationality."
+      },
+      {
+        "english": "I come from Tanzania, but I live in Australia.",
+        "vietnamese": "Tôi đến từ Tanzania, nhưng tôi sống ở Úc.",
+        "pronunciation": "tôi đến từ Tanzania nhưng tôi sống ở Úc",
+        "note": "Nhưng means but."
+      },
+      {
+        "english": "Where is your home place / hometown?",
+        "vietnamese": "Quê bạn ở đâu?",
+        "pronunciation": "quê bạn ở đâu",
+        "note": "Asks about home roots or hometown; not always the same as country of origin."
+      },
+      {
+        "english": "My home place is in Tanzania.",
+        "vietnamese": "Quê tôi ở Tanzania.",
+        "pronunciation": "quê tôi ở Tanzania",
+        "note": "A simple practice answer; replace the place with your own."
+      },
+      {
+        "english": "My home place is in…",
+        "vietnamese": "Quê tôi ở…",
+        "pronunciation": "quê tôi ở",
+        "note": "Insert a town, province, region or country as appropriate."
+      },
+      {
+        "english": "And you?",
+        "vietnamese": "Còn bạn?",
+        "pronunciation": "còn bạn",
+        "note": "Returns the question to the other person."
+      },
+      {
+        "english": "I come from Vietnam. And you?",
+        "vietnamese": "Tôi đến từ Việt Nam. Còn bạn?",
+        "pronunciation": "tôi đến từ Việt Nam còn bạn",
+        "note": "A model dialogue answer."
+      },
+      {
+        "english": "I live in Australia now.",
+        "vietnamese": "Hiện nay tôi sống ở Úc.",
+        "pronunciation": "hiện nay tôi sống ở Úc",
+        "note": "Hiện nay means currently/now; useful when describing a change."
+      },
+      {
+        "english": "I am from Tanzania.",
+        "vietnamese": "Tôi đến từ Tanzania.",
+        "pronunciation": "tôi đến từ Tanzania",
+        "note": "For a clear beginner pattern, use đến từ for 'come from'."
+      },
+      {
+        "english": "I am a Vietnamese person.",
+        "vietnamese": "Tôi là người Việt Nam.",
+        "pronunciation": "tôi là người Việt Nam",
+        "note": "Nationality/person pattern: người + place or nationality."
+      },
+      {
+        "english": "Where do you come from and where do you live?",
+        "vietnamese": "Bạn đến từ đâu và bạn sống ở đâu?",
+        "pronunciation": "bạn đến từ đâu và bạn sống ở đâu",
+        "note": "And = và. Two related but different questions."
+      },
+      {
+        "english": "I come from Tanzania, and I live in Sydney.",
+        "vietnamese": "Tôi đến từ Tanzania và tôi sống ở Sydney.",
+        "pronunciation": "tôi đến từ Tanzania và tôi sống ở Sydney",
+        "note": "Và means and; use it when the ideas are being added."
+      },
+      {
+        "english": "Hello. My name is Jeremiah. I am Tanzanian.",
+        "vietnamese": "Xin chào. Tên tôi là Jeremiah. Tôi là người Tanzania.",
+        "pronunciation": "xin chào tên tôi là Jeremiah tôi là người Tanzania",
+        "note": "A short introduction combining earlier lessons."
+      },
+      {
+        "english": "I come from Tanzania, but I live in Australia.",
+        "vietnamese": "Tôi đến từ Tanzania, nhưng tôi sống ở Úc.",
+        "pronunciation": "tôi đến từ Tanzania nhưng tôi sống ở Úc",
+        "note": "Say the two clauses clearly; do not rush the connector."
+      },
+      {
+        "english": "Explain the difference: origin, residence and quê.",
+        "vietnamese": "Origin: đến từ. Residence: sống ở. Home roots: quê.",
+        "pronunciation": "đến từ · sống ở · quê",
+        "note": "Recall the meaning before revealing the Vietnamese terms."
       }
     ],
-    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "recording_status": "Expanded 45–60 minute written lesson script with 20 practice cards and Northern Vietnamese recording prompts. Actual teacher, student and native-speaker audio recordings have not yet been recorded or supplied.",
     "audio": {
       "teacher": null,
       "student_1": null,
