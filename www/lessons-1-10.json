@@ -5140,42 +5140,634 @@
     "id": 10,
     "unit": "Foundations",
     "title": "Review: first conversation",
-    "description": "Combine greetings, names, origin, residence, numbers and polite expressions.",
-    "teacher_intro": "This is your first full review. You already have enough building blocks for a short introduction. Listen to the English, pause, and construct the whole Vietnamese sentence before revealing the answer.",
-    "background": "Vietnamese sentence building often relies on stable word order and small reusable chunks. Review the chunks as complete patterns: tên tôi là…, tôi đến từ…, tôi sống ở…, tôi … tuổi, and bạn … không?",
-    "culture": "A good first conversation is not a word-for-word translation of English. Choose a suitable way to address the other person, speak clearly, and let the conversation develop naturally rather than forcing every possible detail into the first exchange.",
+    "description": "A 45–60 minute integrated review of the first conversation: greetings, names, origin, residence, age, numbers, languages and polite expressions. Includes question recognition, correction drills and full role-plays.",
+    "teacher_intro": "Welcome to Lesson 10: Review — Your First Conversation. This 45–60 minute lesson brings together sounds and tones, greetings, names, origin, residence, polite expressions, numbers and age. Follow Think, Speak, Reveal, Compare: try each answer aloud before comparing it with the student voices.",
+    "background": "This lesson combines reusable patterns from Lessons 1–9. Greetings: Xin chào; Bạn khỏe không?; Tôi khỏe, cảm ơn; Còn bạn? Names: Bạn tên là gì?; Tôi tên là… / Tên tôi là… Origin: Bạn đến từ đâu?; Tôi đến từ… Current residence: Bạn sống ở đâu?; Tôi sống ở… Age: Bạn bao nhiêu tuổi?; Tôi … tuổi (without là). Languages: Bạn nói tiếng gì?; Tôi nói tiếng… Requests and politeness: Cảm ơn; Không có gì; Xin lỗi; Không sao; Bạn có thể… không?; Xin phép. Number review includes the special form mười lăm for fifteen. Bao nhiêu asks how many/how much and appears in quantity questions such as Bạn có bao nhiêu quyển sách?",
+    "culture": "A natural first conversation is selective. You do not need to ask every possible question or share every personal detail. Choose a suitable form of address for the relationship; bạn is the classroom default, not a universal form for every person. Asking someone's age may be appropriate in some contexts and too personal in others. Keep origin (đến từ), current residence (sống ở) and workplace (làm việc ở) distinct. Polite communication is not just adding a direct translation of please: tone, word choice, relationship terms and the situation all matter. Cảm ơn and xin lỗi are useful; không có gì commonly responds to thanks and không sao commonly reassures after an apology. Speak clearly, listen to the response and let the conversation develop naturally.",
     "dialogue": [
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Let's greet someone: Xin chào. Now ask their name: bạn tên là gì?"
+        "line": "Welcome to Lesson 10: Review — Your First Conversation. This 45–60 minute lesson brings together sounds and tones, greetings, names, origin, residence, polite expressions, numbers and age. Follow Think, Speak, Reveal, Compare: try each answer aloud before comparing it with the student voices."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "A first conversation is built from short, reusable patterns. We will practise them separately, then connect them naturally. If you make a mistake, repeat the whole phrase correctly rather than fixing only one word."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Remember that Vietnamese tones matter. The tone mark is part of the word. Keep the six tone categories in mind: ngang, sắc, huyền, hỏi, ngã and nặng."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I should not flatten every syllable into the same pitch."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Listen to the Northern model when audio is available, and imitate the tone contour rather than relying on an English spelling approximation."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Warm-up: say hello."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask how someone is."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn khỏe không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Answer: I'm well, thank you."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi khỏe, cảm ơn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Return the question: And you?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Còn bạn?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Answer: I'm also well."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi cũng khỏe."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Cũng means also. Finish the exchange with goodbye."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tạm biệt."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording prompt: Xin chào. Bạn khỏe không? Tôi khỏe, cảm ơn. Còn bạn? Tôi cũng khỏe. Tạm biệt. Record each line slowly, then the exchange with natural pauses. Audio is not included yet."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now review introductions. Ask: What is your name?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn tên là gì?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Answer: My name is Linh."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi tên là Linh."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "You can also say Tên tôi là Linh. Both patterns are useful."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tên tôi là Linh."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask where someone comes from: Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Answer: I come from Tanzania."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask where someone lives: Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Answer: I live in Australia."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi sống ở Australia."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Keep these patterns separate. Đến từ is about origin. Sống ở is about current residence."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania nhưng sống ở Australia."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Nhưng means but. You have combined both facts."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask someone's age: Bạn bao nhiêu tuổi?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn bao nhiêu tuổi?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Answer: I am thirty years old. This pattern does not use là."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi ba mươi tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Try twenty-five."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi hai mươi lăm tuổi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Good. Fifteen is mười lăm. Five on its own is năm."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Count from zero to ten."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Không, một, hai, ba, bốn, năm, sáu, bảy, tám, chín, mười."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now eleven to twenty."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Mười một, mười hai, mười ba, mười bốn, mười lăm, mười sáu, mười bảy, mười tám, mười chín, hai mươi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Remember the special form: fifteen is mười lăm, not mười năm."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Năm. Mười lăm."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Use a number with an object: two books."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Hai quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask: How many books do you have?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn có bao nhiêu quyển sách?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Answer: I have three books."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi có ba quyển sách."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bao nhiêu asks how many or how much. Quyển is the classifier used here for books."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now review polite expressions. Say thank you very much."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Cảm ơn nhiều."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Respond to someone thanking you."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Không có gì."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Apologise or politely get someone's attention."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Reassure someone after an apology."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Không sao."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask politely for help."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn có thể giúp tôi không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask someone to say something again."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn có thể nói lại được không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excuse yourself before leaving."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin phép, tôi đi trước nhé."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Không có gì commonly responds to thanks; không sao commonly reassures after an apology. They are not interchangeable in every situation."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now build a first conversation. Two people are meeting for the first time. Student 1 begins."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin chào."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn tên là gì?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi tên là Linh. Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi tên là An."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn khỏe không?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi cũng khỏe, cảm ơn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Việt Nam."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi sống ở Hà Nội."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Còn bạn? Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania nhưng sống ở Australia."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "À, vậy à."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "À, vậy à is a conversational response like Oh, I see. It is useful to recognise, but you do not need to force it into every conversation."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn bao nhiêu tuổi?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi ba mươi tuổi. Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi hai mươi tám tuổi."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn nói tiếng gì?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi nói tiếng Anh và tiếng Swahili. Tôi đang học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Và means and; đang học means am learning. Now close the conversation politely."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Rất vui được gặp bạn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi cũng rất vui được gặp bạn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Rất vui được gặp bạn means nice to meet you. Finish with goodbye."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tạm biệt nhé."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tạm biệt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is a complete first conversation: greeting, names, wellbeing, origin, residence, age, language and a polite ending. You do not need to ask every question every time."
+      },
+      {
+        "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
+        "line": "Recording prompt: record the full first-meeting conversation with two speakers. First version: slow, clearly separated turns with pauses. Second version: natural Northern Vietnamese conversational rhythm. Actual audio is not included yet."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now identify the information requested. Bạn sống ở đâu?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Where the person lives now."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Where the person comes from."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn bao nhiêu tuổi?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Their age."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn tên là gì?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Their name."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Bạn nói tiếng gì?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Which language they speak."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Excellent. These question patterns should become familiar immediately."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correction drill. Listen: Tôi là hai mươi tuổi. Is that the age pattern?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "No. Tôi hai mươi tuổi. No là."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Next: Tôi sống Tanzania. What is missing?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Ở. Tôi sống ở Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Next: Tôi đến ở Tanzania, when I mean I come from Tanzania."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Tanzania."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Next: Mười năm, when I mean fifteen."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Mười lăm."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Correct. Next: someone says Cảm ơn. What is a common response?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Không có gì."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Exactly. Không sao commonly reassures someone after an apology."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Practise a request. You did not hear the other person. Ask them to repeat."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi, bạn có thể nói lại được không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask them to speak more slowly."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn có thể nói chậm hơn một chút được không?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Ask where the restroom is."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin lỗi, cho tôi hỏi, nhà vệ sinh ở đâu?"
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "These phrases help you keep a conversation going even when you do not understand everything."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Personal introduction challenge. Use greeting, name, age, origin, residence and a language. You may use sample details or your own."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Xin chào. Tôi tên là An. Tôi ba mươi tuổi. Tôi đến từ Tanzania nhưng sống ở Australia. Tôi nói tiếng Anh và tiếng Swahili. Tôi đang học tiếng Việt."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Add a polite ending: Rất vui được gặp bạn. Tạm biệt nhé."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Rất vui được gặp bạn. Tạm biệt nhé."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Now do it again without reading. Pause between sentences and keep the tones clear."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Xin chào. Tôi tên là Linh. Tôi hai mươi tuổi. Tôi đến từ Việt Nam và sống ở Hà Nội. Tôi nói tiếng Việt. Rất vui được gặp bạn."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Your introduction does not need to be long. Choose details that suit the moment."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Final role-play. Student 1 meets someone at a community event. Keep the conversation moving with Còn bạn? and one polite question."
       },
       {
         "speaker": "STUDENT 1",
         "line": "Xin chào. Bạn tên là gì?"
       },
       {
-        "speaker": "TEACHER · ENGLISH",
-        "line": "Answer with your name: tên tôi là… Now say where you come from: tôi đến từ…"
-      },
-      {
         "speaker": "STUDENT 2",
-        "line": "Tên tôi là Linh. Tôi đến từ Việt Nam."
-      },
-      {
-        "speaker": "TEACHER · ENGLISH",
-        "line": "Now add where you live and your age. Remember: tôi sống ở… and tôi … tuổi. No là in the age pattern."
+        "line": "Xin chào. Tôi tên là Minh. Còn bạn?"
       },
       {
         "speaker": "STUDENT 1",
-        "line": "Tôi sống ở Hà Nội. Tôi hai mươi tuổi."
+        "line": "Tôi tên là An. Rất vui được gặp bạn."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi cũng rất vui được gặp bạn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Bạn đến từ đâu?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Tôi đến từ Việt Nam. Tôi sống ở Hà Nội."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Còn bạn?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Tôi đến từ Tanzania nhưng sống ở Australia."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Bạn nói tiếng Việt không?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Có, tôi đang học tiếng Việt. Bạn có thể nói chậm hơn một chút được không?"
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Được. Tôi sẽ nói chậm hơn."
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "Cảm ơn bạn nhiều."
+      },
+      {
+        "speaker": "STUDENT 2",
+        "line": "Không có gì."
       },
       {
         "speaker": "TEACHER · ENGLISH",
-        "line": "Excellent. Finish politely with cảm ơn or tạm biệt. You have built a complete beginner conversation from reusable pieces."
+        "line": "Well done. You used a greeting, names, origin, residence, a language question, a request for slower speech and a polite response."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "Self-check: Can you greet someone, ask their name, introduce yourself, ask where they come from, say where you live, ask and answer age, count to twenty, ask how many books someone has, thank someone, apologise and ask for repetition?"
+      },
+      {
+        "speaker": "STUDENT 1",
+        "line": "I can do those with the sentence patterns we practised. I need to keep reviewing tones and question forms."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "That is the right goal. Repeat the full conversations aloud over several days. Practise producing the Vietnamese without looking at the English."
+      },
+      {
+        "speaker": "TEACHER · ENGLISH",
+        "line": "This completes the first ten lessons of the foundations unit. You now have the building blocks for a simple first conversation. The next unit can extend numbers, daily routines, places, family, food and more detailed exchanges."
       },
       {
         "speaker": "NATIVE SPEAKER · NORTHERN VIETNAMESE",
-        "line": "Native recording slot: full conversation with two speakers, first slowly with pauses, then at natural conversational speed. No recording is included yet."
+        "line": "Final recording prompt: provide a clean native Northern Vietnamese recording of the complete model conversation, followed by a slow repeat-after-me version with pauses after each sentence. These are recording instructions; audio files have not yet been supplied."
       }
     ],
     "cards": [
@@ -5183,58 +5775,154 @@
         "english": "Hello.",
         "vietnamese": "Xin chào.",
         "pronunciation": "xin chào",
-        "note": "Start with a friendly greeting."
+        "note": "A friendly general greeting."
+      },
+      {
+        "english": "How are you?",
+        "vietnamese": "Bạn khỏe không?",
+        "pronunciation": "bạn khỏe không",
+        "note": "A yes-or-no question with không at the end."
+      },
+      {
+        "english": "I'm well, thank you.",
+        "vietnamese": "Tôi khỏe, cảm ơn.",
+        "pronunciation": "tôi khỏe, cảm ơn",
+        "note": "A simple response to a greeting."
+      },
+      {
+        "english": "And you?",
+        "vietnamese": "Còn bạn?",
+        "pronunciation": "còn bạn",
+        "note": "Returns the question to the other person."
+      },
+      {
+        "english": "I'm also well.",
+        "vietnamese": "Tôi cũng khỏe.",
+        "pronunciation": "tôi cũng khỏe",
+        "note": "Cũng means also."
       },
       {
         "english": "What is your name?",
         "vietnamese": "Bạn tên là gì?",
         "pronunciation": "bạn tên là gì",
-        "note": "Use the question pattern from lesson 5."
+        "note": "A useful first-meeting question."
       },
       {
-        "english": "My name is …",
-        "vietnamese": "Tên tôi là …",
-        "pronunciation": "tên tôi là",
-        "note": "Insert your own name."
+        "english": "My name is Linh.",
+        "vietnamese": "Tôi tên là Linh.",
+        "pronunciation": "tôi tên là linh",
+        "note": "Tôi tên là… introduces your name."
+      },
+      {
+        "english": "My name is Linh.",
+        "vietnamese": "Tên tôi là Linh.",
+        "pronunciation": "tên tôi là linh",
+        "note": "An alternative name pattern."
       },
       {
         "english": "Where are you from?",
         "vietnamese": "Bạn đến từ đâu?",
         "pronunciation": "bạn đến từ đâu",
-        "note": "Đâu asks where."
+        "note": "Asks about origin."
       },
       {
         "english": "I come from Tanzania.",
         "vietnamese": "Tôi đến từ Tanzania.",
-        "pronunciation": "tôi đến từ Tanzania",
-        "note": "Reuse the origin pattern from lesson 6."
+        "pronunciation": "tôi đến từ tanzania",
+        "note": "Đến từ means come from."
+      },
+      {
+        "english": "Where do you live?",
+        "vietnamese": "Bạn sống ở đâu?",
+        "pronunciation": "bạn sống ở đâu",
+        "note": "Asks about current residence."
       },
       {
         "english": "I live in Australia.",
-        "vietnamese": "Tôi sống ở Úc.",
-        "pronunciation": "tôi sống ở Úc",
-        "note": "Reuse sống ở + place."
+        "vietnamese": "Tôi sống ở Australia.",
+        "pronunciation": "tôi sống ở australia",
+        "note": "Sống ở means live in/at."
       },
       {
-        "english": "I'm thirty years old.",
+        "english": "I come from Tanzania but live in Australia.",
+        "vietnamese": "Tôi đến từ Tanzania nhưng sống ở Australia.",
+        "pronunciation": "tôi đến từ tanzania nhưng sống ở australia",
+        "note": "Nhưng means but."
+      },
+      {
+        "english": "How old are you?",
+        "vietnamese": "Bạn bao nhiêu tuổi?",
+        "pronunciation": "bạn bao nhiêu tuổi",
+        "note": "Bao nhiêu tuổi asks someone's age."
+      },
+      {
+        "english": "I am thirty years old.",
         "vietnamese": "Tôi ba mươi tuổi.",
         "pronunciation": "tôi ba mươi tuổi",
-        "note": "Remember that là is not used in this age pattern."
+        "note": "Do not add là in this age pattern."
       },
       {
-        "english": "Thank you. Goodbye.",
-        "vietnamese": "Cảm ơn. Tạm biệt.",
-        "pronunciation": "cảm ơn · tạm biệt",
-        "note": "Finish with two polite expressions."
+        "english": "I am fifteen years old.",
+        "vietnamese": "Tôi mười lăm tuổi.",
+        "pronunciation": "tôi mười lăm tuổi",
+        "note": "Fifteen uses mười lăm."
       },
       {
-        "english": "Build the complete conversation: greet, ask a name, introduce yourself, say where you are from and where you live.",
-        "vietnamese": "Xin chào. Bạn tên là gì? Tên tôi là … Tôi đến từ Tanzania. Tôi sống ở Úc. Cảm ơn. Tạm biệt.",
-        "pronunciation": "xin chào · bạn tên là gì · tên tôi là · tôi đến từ · tôi sống ở Úc · cảm ơn · tạm biệt",
-        "note": "Say it in stages first. Then try the whole conversation without looking."
+        "english": "What language do you speak?",
+        "vietnamese": "Bạn nói tiếng gì?",
+        "pronunciation": "bạn nói tiếng gì",
+        "note": "Tiếng gì asks which language."
+      },
+      {
+        "english": "I speak English and Swahili.",
+        "vietnamese": "Tôi nói tiếng Anh và tiếng Swahili.",
+        "pronunciation": "tôi nói tiếng anh và tiếng swahili",
+        "note": "Và means and."
+      },
+      {
+        "english": "I am learning Vietnamese.",
+        "vietnamese": "Tôi đang học tiếng Việt.",
+        "pronunciation": "tôi đang học tiếng việt",
+        "note": "Đang marks an action in progress."
+      },
+      {
+        "english": "Thank you very much.",
+        "vietnamese": "Cảm ơn nhiều.",
+        "pronunciation": "cảm ơn nhiều",
+        "note": "A stronger expression of thanks."
+      },
+      {
+        "english": "You're welcome / it's nothing.",
+        "vietnamese": "Không có gì.",
+        "pronunciation": "không có gì",
+        "note": "A common response to thanks."
+      },
+      {
+        "english": "Sorry / excuse me.",
+        "vietnamese": "Xin lỗi.",
+        "pronunciation": "xin lỗi",
+        "note": "An apology or polite attention-getter."
+      },
+      {
+        "english": "It's okay / no problem.",
+        "vietnamese": "Không sao.",
+        "pronunciation": "không sao",
+        "note": "A common reassurance after an apology."
+      },
+      {
+        "english": "Could you speak a little more slowly?",
+        "vietnamese": "Bạn có thể nói chậm hơn một chút được không?",
+        "pronunciation": "bạn có thể nói chậm hơn một chút được không",
+        "note": "A useful learner request."
+      },
+      {
+        "english": "Nice to meet you.",
+        "vietnamese": "Rất vui được gặp bạn.",
+        "pronunciation": "rất vui được gặp bạn",
+        "note": "A useful first-meeting phrase."
       }
     ],
-    "recording_status": "Complete written lesson script; native/teacher recordings not yet supplied",
+    "recording_status": "Complete written 45–60 minute review script with native Northern Vietnamese recording prompts; actual teacher, student and native audio recordings have not yet been supplied.",
     "audio": {
       "teacher": null,
       "student_1": null,
